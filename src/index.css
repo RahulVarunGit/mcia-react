@@ -34,3 +34,49 @@
   margin: 40px auto;
   padding: 20px;
 }
+
+.fbt-title{
+  font-size: 22px;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  font-weight: bold;
+}
+.fbt-title-sub{
+  color: red;
+}
+.fbt-tag-line{
+  font-family: 'Brush Script MT', cursive;
+  color: gray;
+  text-align: right;
+}
+
+.hr-line{
+  height: 2px;
+  border-width: 0;
+  color: gray;
+  background-color: gray;
+}
+.center-align{
+  text-align: center;
+}
+.center-align-light{
+  text-align: center;
+  color: #737373;
+}
+.mission{
+  font-family: 'Brush Script MT', cursive;
+  color:gray;
+  text-align: center;
+}
+.c-gray{
+   color: #737373;
+}
+.c-blue{
+   color:#335BFF;
+}
+.bullet{
+  list-style-type: circle;
+}
+.bigFont{
+  font-size:35px;
+}
