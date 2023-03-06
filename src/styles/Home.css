@@ -1,0 +1,20 @@
+.fullImg{
+  width: 100%;
+}
+.fbt-title{
+  font-size: 22px;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  font-weight: bold;
+}
+.fbt-title-sub{
+  color: red;
+}
+.fbt-tag-line{
+  font-family: 'Brush Script MT', cursive;
+  color: gray;
+  text-align: right;
+}
+.center-align{
+  text-align: center;
+}
