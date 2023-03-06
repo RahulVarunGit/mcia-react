@@ -18,3 +18,15 @@
 .center-align{
   text-align: center;
 }
+.hr-line{
+  height: 2px;
+  border-width: 0;
+  color: gray;
+  background-color: gray;
+}
+.afs{
+  color: #ff9900;
+}
+.afsa{
+  text-decoration: underline;
+}
