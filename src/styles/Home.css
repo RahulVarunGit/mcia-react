@@ -8,3 +8,9 @@
 .afsa{
   text-decoration: underline;
 }
+.listClass{
+  list-style-type: circle;
+}
+.highlt{
+  color: #1358E5;
+}
