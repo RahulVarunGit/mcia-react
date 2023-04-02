@@ -11,7 +11,7 @@ const projects = () => {
   <div><hr class="hr-line"></hr></div>
 
   <div>
-  <h4 className="center-align"><b >Here are the global projects currently supported by For A Better Tomorrow:</b></h4>
+  <h4 className="center-align"><b >Here are the global projects previously supported by For A Better Tomorrow:</b></h4>
   </div>
 
   <div><hr class="hr-line"></hr></div>
@@ -29,10 +29,10 @@ const projects = () => {
 
   <div className="col-sm">
 
-  <p className="center-align"><img src="/images/projects/nirman.jpg" alt="" width="150" height="150" className="rounded" /></p>
-  <h4 className="center-align"><a href="https://forbettertomorrow.org/services/projects/nirmaan/"><b>Nirmaan</b></a></h4>
-  <h6 className="center-align">Nirmaan is a constructive citizen movement for an empowered India, thereby making the world a better place to live in. Nirmaan was founded in 2005 by a group of BITS-Pilani University students with a passion for humanity and to fulfil their responsibility towards the less privileged brothers &amp; sisters.</h6>
-  <h5 className="center-align"><span className="afs">Approved Financial Support - <span className="afsa"></span></span></h5>
+  <p className="center-align"><img src="/images/projects/El-Porvenir.jpg" alt="" width="150" height="150" className="rounded" /></p>
+  <h4 className="center-align"><a href="https://forbettertomorrow.org/el-porvenir-2/"><b>El Porvenir</b></a></h4>
+  <h6 className="center-align">El Porvenir works to provide water and sanitation to communities in Nicaragua. They likewise facilitate watershed management programs, which “promotes water flow, increases food security, and reduces the impact of climate change.” To this end, this project is intended to support the water distribution system for Regadillo, Nicaragua.</h6>
+  <h5 className="center-align"><span className="afs">Approved Financial Support - <span className="afsa">$12,500</span></span></h5>
   </div>
 
   <div className="col-sm">
@@ -79,28 +79,6 @@ const projects = () => {
   <div><hr class="hr-line"></hr></div>
 
   <p >&nbsp;&nbsp;</p>
-  <div className="row">
-
-  <div className="col-sm">
-
-  </div>
-
-  <div className="col-sm">
-
-  <p className="center-align"><img src="/images/projects/El-Porvenir.jpg" alt="" width="150" height="150" className="rounded" /></p>
-  <h4 className="center-align"><a href="https://forbettertomorrow.org/el-porvenir-2/"><b>El Porvenir</b></a></h4>
-  <h6 className="center-align">El Porvenir works to provide water and sanitation to communities in Nicaragua. They likewise facilitate watershed management programs, which “promotes water flow, increases food security, and reduces the impact of climate change.” To this end, this project is intended to support the water distribution system for Regadillo, Nicaragua.</h6>
-  <h5 className="center-align"><span className="afs">Approved Financial Support - <span className="afsa">$12,500</span></span></h5>
-  </div>
-
-  <div className="col-sm">
-
-  </div>
-
-  </div>
-
-  <p >&nbsp;</p>
-  <p >&nbsp;</p>
   <div><hr class="hr-line"></hr></div>
 
   <div>
@@ -165,6 +143,7 @@ const projects = () => {
   <div><hr class="hr-line"></hr></div>
 
   </div>
+
 
 
   );
