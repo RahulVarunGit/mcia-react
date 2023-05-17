@@ -5,6 +5,7 @@ const donate = () => {
 
   return(
 
+
     <div className="container">
 
     <div>
@@ -19,11 +20,10 @@ const donate = () => {
     <div className="row">
     <h3 className="center-align"><b >Donate</b></h3>
     </div>
+
     <div className="row">
     <h5 ><b >The Top 5 Reasons to Donate to FBT!</b></h5>
     </div>
-
-
 
     <div className="row">
 
@@ -68,56 +68,52 @@ const donate = () => {
     </div>
 
     <p >&nbsp;</p>
-<div className="row">
+    <div className="row">
 
-<div className="col-sm">
+    <div className="col-sm">
 
-<a className="btn btn-primary btn-lg btn-block" href="https://www.facebook.com/4ABetterTomorrow" role="button">Facebook Donate</a>
-</div>
+    <a className="btn btn-primary btn-lg btn-block" href="https://www.facebook.com/4ABetterTomorrow" role="button">Facebook Donate</a>
+    </div>
 
-<div className="col-sm">
+    <div className="col-sm">
 
-<a className="btn btn-primary btn-lg btn-block" href="https://forbettertomorrow.org/donationform/" role="button">Paypal Donate</a>
-</div>
+    <a className="btn btn-primary btn-lg btn-block" href="https://www.paypal.com/donate/?hosted_button_id=SMFYNJXBVZCAY" role="button">Paypal Donate</a>
+    </div>
 
-<div className="col-sm">
-
-
-</div>
-
-<div className="col-sm">
-
-
-</div>
-
-</div>
-
-
-<p >&nbsp;</p>
-<div className="row">
-<h5 ><b >Contributions may also be sent to:</b></h5>
-</div>
-
-<div className="row">
-<h5 >For a Better Tomorrow</h5>
-</div>
-
-<div className="row">
-<h5 >808 S. Eldorado Road, Suite 1</h5>
-</div>
-
-<div className="row">
-<h5 >Bloomington, IL 61704</h5>
-</div>
-
-<div className="row">
-<h5 >For A Better Tomorrow (FBT) is a public charity, tax exempt under Section 501(c)(3) of Internal Revenue Code. Review the <a href="https://forbettertomorrow.org/wp-content/uploads/2018/05/FBT-501C3.pdf" className="highlt"> 501(c)(3) approval document. </a></h5>
-</div>
-
+    <div className="col-sm">
 
 
     </div>
 
+    <div className="col-sm">
+
+
+    </div>
+
+    </div>
+
+    <p >&nbsp;</p>
+    <div className="row">
+    <h5 ><b >Contributions may also be sent to:</b></h5>
+    </div>
+
+    <div className="row">
+    <h5 >For a Better Tomorrow</h5>
+    </div>
+
+    <div className="row">
+    <h5 >808 S. Eldorado Road, Suite 1</h5>
+    </div>
+
+    <div className="row">
+    <h5 >Bloomington, IL 61704</h5>
+    </div>
+
+    <div className="row">
+    <h5 >For A Better Tomorrow (FBT) is a public charity, tax exempt under Section 501(c)(3) of Internal Revenue Code. Review the <a href="https://forbettertomorrow.org/wp-content/uploads/2018/05/FBT-501C3.pdf" className="highlt"> 501(c)(3) approval document. </a></h5>
+    </div>
+
+    </div>
 
 
 
