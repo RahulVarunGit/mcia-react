@@ -11,6 +11,7 @@ import Contact from './javascript/contact';
 import Projects from './javascript/projects';
 import KiteFest from './javascript/KiteFest';
 import NotFoundPage from './javascript/NotFoundPage';
+import Grant from './javascript/grant';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
 function App() {
@@ -34,6 +35,7 @@ function App() {
             <Route path="/contact" element={<Contact/>}/>
             <Route path="/projects" element={<Projects/>}/>
             <Route path="/donate" element={<Donate/>}/>
+            <Route path="/grant" element={<Grant/>}/>
             <Route path="/*" element={<NotFoundPage/>} />
           </Routes>
 
