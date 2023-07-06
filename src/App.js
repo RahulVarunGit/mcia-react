@@ -49,8 +49,8 @@ function App() {
             <Route path="/safe-passage" element={<SafePassage/>}/>
             <Route path="/yabal" element={<Yabal/>}/>
             <Route path="/el-porvenir" element={<ElPorvenir/>}/>
-            <Route path="/IHF" element={<IHF/>}/>
-            <Route path="/KYC" element={<KYC/>}/>
+            <Route path="/ihf" element={<IHF/>}/>
+            <Route path="/kyc" element={<KYC/>}/>
             <Route path="/*" element={<NotFoundPage/>} />
           </Routes>
 
