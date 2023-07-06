@@ -24,3 +24,7 @@
 .cFFFFFF{
   color: #FFFFFF;
 }
+.justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
