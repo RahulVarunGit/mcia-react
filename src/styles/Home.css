@@ -24,7 +24,35 @@
 .cFFFFFF{
   color: #FFFFFF;
 }
+.c737373{
+  color: #737373;
+}
+.cRed{
+  color: red;
+}
+.cGray{
+  color: gray;
+}
 .justify {
   text-align: justify;
   text-justify: inter-word;
+}
+.logo {
+  font-size:18px;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  font-weight: bold;
+}
+.cursiveGray{
+  font-family: 'Brush Script MT', cursive;
+  color:gray;
+  text-align: center;
+}
+.cursiveGrayRight{
+  font-family: 'Brush Script MT', cursive;
+  color:gray;
+  text-align: right;
+}
+.line2{
+  height:1px;border-width:0;color:gray;background-color:gray;
 }

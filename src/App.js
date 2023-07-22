@@ -19,6 +19,15 @@ import Yabal from './javascript/yabal';
 import ElPorvenir from './javascript/el-porvenir';
 import IHF from './javascript/IHF';
 import KYC from './javascript/KYC';
+import YICU2016 from './javascript/YICU/yicu2016';
+import YICU2017 from './javascript/YICU/yicu2017';
+import YICU2018 from './javascript/YICU/yicu2018';
+import YICU2019 from './javascript/YICU/yicu2019';
+import YICU2020 from './javascript/YICU/yicu2020';
+import YICU2021 from './javascript/YICU/yicu2021';
+import YICU2022 from './javascript/YICU/yicu2022';
+import YICU2023 from './javascript/YICU/yicu2023';
+import YICU2024 from './javascript/YICU/yicu2024';
 
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
@@ -51,6 +60,15 @@ function App() {
             <Route path="/el-porvenir" element={<ElPorvenir/>}/>
             <Route path="/ihf" element={<IHF/>}/>
             <Route path="/kyc" element={<KYC/>}/>
+            <Route path="/yicu2016" element={<YICU2016/>}/>
+            <Route path="/yicu2017" element={<YICU2017/>}/>
+            <Route path="/yicu2018" element={<YICU2018/>}/>
+            <Route path="/yicu2019" element={<YICU2019/>}/>
+            <Route path="/yicu2020" element={<YICU2020/>}/>
+            <Route path="/yicu2021" element={<YICU2021/>}/>
+            <Route path="/yicu2022" element={<YICU2022/>}/>
+            <Route path="/yicu2023" element={<YICU2023/>}/>
+            <Route path="/yicu2024" element={<YICU2024/>}/>
             <Route path="/*" element={<NotFoundPage/>} />
           </Routes>
 
