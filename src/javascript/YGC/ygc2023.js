@@ -1,8 +1,8 @@
 import {useState} from 'react';
-import '../styles/Home.css';
-import YGCnav from '.././YGC-Nav'
+import '../../styles/Home.css';
+import YGCnav from '../.././YGC-Nav';
 
-const YGC = () => {
+const ygc2023 = () => {
 
   return(
 
@@ -166,7 +166,6 @@ const YGC = () => {
 
 
 
-
   );
 }
-export default YGC;
+export default ygc2023;

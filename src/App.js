@@ -28,6 +28,15 @@ import YICU2021 from './javascript/YICU/yicu2021';
 import YICU2022 from './javascript/YICU/yicu2022';
 import YICU2023 from './javascript/YICU/yicu2023';
 import YICU2024 from './javascript/YICU/yicu2024';
+import YGC2016 from './javascript/YGC/ygc2016';
+import YGC2017 from './javascript/YGC/ygc2017';
+import YGC2018 from './javascript/YGC/ygc2018';
+import YGC2019 from './javascript/YGC/ygc2019';
+import YGC2020 from './javascript/YGC/ygc2020';
+import YGC2021 from './javascript/YGC/ygc2021';
+import YGC2022 from './javascript/YGC/ygc2022';
+import YGC2023 from './javascript/YGC/ygc2023';
+import YGC2024 from './javascript/YGC/ygc2024';
 
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
@@ -69,6 +78,15 @@ function App() {
             <Route path="/yicu2022" element={<YICU2022/>}/>
             <Route path="/yicu2023" element={<YICU2023/>}/>
             <Route path="/yicu2024" element={<YICU2024/>}/>
+            <Route path="/ygc2016" element={<YGC2016/>}/>
+            <Route path="/ygc2017" element={<YGC2017/>}/>
+            <Route path="/ygc2018" element={<YGC2018/>}/>
+            <Route path="/ygc2019" element={<YGC2019/>}/>
+            <Route path="/ygc2020" element={<YGC2020/>}/>
+            <Route path="/ygc2021" element={<YGC2021/>}/>
+            <Route path="/ygc2022" element={<YGC2022/>}/>
+            <Route path="/ygc2023" element={<YGC2023/>}/>
+            <Route path="/ygc2024" element={<YGC2024/>}/>
             <Route path="/*" element={<NotFoundPage/>} />
           </Routes>
 
