@@ -25,7 +25,7 @@ const yicu2019 = () => {
 
     <div className="col-sm">
 
-    <p className="center-align"><img src="/images/YICU/2019/Al-Wallace.jpeg" alt="" width="150" height="150" className="rounded" /></p>
+    <p className="center-align"><img src="/images/YICU/2019/Al-Wallace.png" alt="" width="150" height="150" className="rounded" /></p>
     <h6 className="center-align">Alonnah Wallace</h6>
     </div>
 
@@ -245,7 +245,7 @@ const yicu2019 = () => {
 
     <div className="col-sm">
 
-    <p className="center-align"><img src="/images/YICU/2019/Wah-Chook.jpeg" alt="" width="150" height="150" className="rounded" /></p>
+    <p className="center-align"><img src="/images/YICU/2019/Wah-Chook.png" alt="" width="150" height="150" className="rounded" /></p>
     <h6 className="center-align">Wah Chook</h6>
     </div>
 

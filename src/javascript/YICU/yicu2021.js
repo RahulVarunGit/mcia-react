@@ -8,6 +8,7 @@ const yicu2021 = () => {
 
 
 
+
     <div className="container">
     <YICUnav ></YICUnav>
     <div>
@@ -189,7 +190,7 @@ const yicu2021 = () => {
     </tr>
 
     <tr className="row">
-    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Millicent-Roth.jpeg" alt=""  width="150" height="150" className="rounded"></img></td>
+    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Millicent-Roth.png" alt=""  width="150" height="150" className="rounded"></img></td>
     <td className="col-md-8">
 
     <h6>
@@ -253,7 +254,7 @@ const yicu2021 = () => {
     </tr>
 
     <tr className="row">
-    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/kylie-black.jpeg" alt=""  width="150" height="150" className="rounded"></img></td>
+    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/kylie-black.png" alt=""  width="150" height="150" className="rounded"></img></td>
     <td className="col-md-8">
 
     <h6>
@@ -269,7 +270,7 @@ const yicu2021 = () => {
     </tr>
 
     <tr className="row">
-    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Taniya-Boone.jpeg" alt=""  width="150" height="150" className="rounded"></img></td>
+    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Taniya-Boone.png" alt=""  width="150" height="150" className="rounded"></img></td>
     <td className="col-md-8">
 
     <h6>
@@ -317,7 +318,7 @@ const yicu2021 = () => {
     </tr>
 
     <tr className="row">
-    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Erin-Dederich.jpeg" alt=""  width="150" height="150" className="rounded"></img></td>
+    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Erin-Dederich.png" alt=""  width="150" height="150" className="rounded"></img></td>
     <td className="col-md-8">
 
     <h6>
@@ -365,7 +366,7 @@ const yicu2021 = () => {
     </tr>
 
     <tr className="row">
-    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Tess-Halperin.jpeg" alt=""  width="150" height="150" className="rounded"></img></td>
+    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Tess-Halperin.png" alt=""  width="150" height="150" className="rounded"></img></td>
     <td className="col-md-8">
 
     <h6>
@@ -381,7 +382,7 @@ const yicu2021 = () => {
     </tr>
 
     <tr className="row">
-    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Kamille-Harvey.jpeg" alt=""  width="150" height="150" className="rounded"></img></td>
+    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Kamille-Harvey.png" alt=""  width="150" height="150" className="rounded"></img></td>
     <td className="col-md-8">
 
     <h6>
@@ -445,7 +446,7 @@ const yicu2021 = () => {
     </tr>
 
     <tr className="row">
-    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Dhruv-Rebba.jpeg" alt=""  width="150" height="150" className="rounded"></img></td>
+    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Dhruv-Rebba.png" alt=""  width="150" height="150" className="rounded"></img></td>
     <td className="col-md-8">
 
     <h6>
@@ -461,7 +462,7 @@ const yicu2021 = () => {
     </tr>
 
     <tr className="row">
-    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Karcin-Roth.jpeg" alt=""  width="150" height="150" className="rounded"></img></td>
+    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Karcin-Roth.png" alt=""  width="150" height="150" className="rounded"></img></td>
     <td className="col-md-8">
 
     <h6>
@@ -525,7 +526,7 @@ const yicu2021 = () => {
     </tr>
 
     <tr className="row">
-    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Samuela-Kamara.jpeg" alt=""  width="150" height="150" className="rounded"></img></td>
+    <td className="col-md-4 center-align" ><img src="/images/YICU/2021/Samuela-Kamara.png" alt=""  width="150" height="150" className="rounded"></img></td>
     <td className="col-md-8">
 
     <h6>
