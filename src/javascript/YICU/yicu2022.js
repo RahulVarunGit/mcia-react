@@ -26,7 +26,7 @@ const yicu2022 = () => {
     <tbody>
 
     <tr className="row">
-    <td className="col-md-12 center-align"><img src="/images/YICU/2022/2022-YICU-Winners.JPG"alt="2022 YICU Winners"  className="rounded" width="80%"></img></td>
+    <td className="col-md-12 center-align"><img src="/images/YICU/2022/2022-YICU-Winners.JPG"alt="2022 YICU Winners."  className="rounded" width="80%"></img></td>
     </tr>
 
     <tr className="row">
@@ -39,7 +39,7 @@ const yicu2022 = () => {
     </tr>
 
     <tr className="row">
-    <td className="col-md-12 center-align"><img src="/images/YICU/2022/2022-YICU-Nominees.JPG"alt="2022 YICU Nominees"  className="rounded" width="80%"></img></td>
+    <td className="col-md-12 center-align"><img src="/images/YICU/2022/2022-YICU-Nominees.JPG"alt="2022 YICU Nominees."  className="rounded" width="80%"></img></td>
     </tr>
 
     <tr className="row">
