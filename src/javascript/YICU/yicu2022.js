@@ -11,7 +11,7 @@ const yicu2022 = () => {
     <div className="container">
     <YICUnav ></YICUnav>
     <div>
-    <p className="center-align"><img src="/images/YICU/2022/YICU2022.png"alt="YICU 2022" width="200" height="100" className="rounded"></img></p>
+    <p className="center-align"><img src="/images/YICU/2022/YICU2022.png" alt="YICU 2022" width="200" height="100" className="rounded"></img></p>
     </div>
 
     <div><hr class="hr-line"></hr></div>
@@ -26,7 +26,7 @@ const yicu2022 = () => {
     <tbody>
 
     <tr className="row">
-    <td className="col-md-12 center-align"><img src="/images/YICU/2022/2022-YICU-Winners.JPG"alt="2022 YICU Winners."  className="rounded" width="80%"></img></td>
+    <td className="col-md-12 center-align"><img src="/images/YICU/2022/2022-YICU-Winners.png" alt="2022 YICU Winners."  className="rounded" width="80%"></img></td>
     </tr>
 
     <tr className="row">
@@ -39,7 +39,7 @@ const yicu2022 = () => {
     </tr>
 
     <tr className="row">
-    <td className="col-md-12 center-align"><img src="/images/YICU/2022/2022-YICU-Nominees.JPG"alt="2022 YICU Nominees."  className="rounded" width="80%"></img></td>
+    <td className="col-md-12 center-align"><img src="/images/YICU/2022/2022-YICU-Nominees.png" alt="2022 YICU Nominees."  className="rounded" width="80%"></img></td>
     </tr>
 
     <tr className="row">
