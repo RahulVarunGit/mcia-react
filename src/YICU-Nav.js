@@ -4,6 +4,7 @@ const YICUnav = () => {
     <div class="row">
       <p>
       <span><b>Flashback:</b></span><span> </span>
+      <span><a className="btn btn-info btn-sm" href="/yicu2023" role="button">2023</a></span><span> </span>
       <span><a className="btn btn-info btn-sm" href="/yicu2022" role="button">2022</a></span><span> </span>
       <span><a className="btn btn-info btn-sm" href="/yicu2021" role="button">2021</a></span><span> </span>
       <span><a className="btn btn-info btn-sm" href="/yicu2020" role="button">2020</a></span><span> </span>

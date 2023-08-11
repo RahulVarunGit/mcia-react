@@ -27,6 +27,12 @@
 .c737373{
   color: #737373;
 }
+.cFF5833{
+  color: #FF5833;
+}
+.c646063{
+  color: #646063;
+}
 .cRed{
   color: red;
 }
@@ -55,4 +61,13 @@
 }
 .line2{
   height:1px;border-width:0;color:gray;background-color:gray;
+}
+.div-img-text {
+   position: relative;
+}
+.text-on-image {
+  position: absolute;
+  text-align: center;
+  top: 10%;
+  width: 100%;
 }
