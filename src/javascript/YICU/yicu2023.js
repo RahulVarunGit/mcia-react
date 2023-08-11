@@ -55,7 +55,7 @@ const yicu2023 = () => {
     <h4 className="cF8F8F8"><u >Eligibility</u></h4>
     <h6 className="cFFFFFF"><i >Nominate a young person ages 12-22, who resides in Mclean County.</i></h6>
     <h4 className="cF8F8F8"><u >Required</u></h4>
-    <h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicunom"><b><span className="cFFFFFF">Nomination Form</span></b></a></i></h6>
+    <h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicu-nom"><b><span className="cFFFFFF">Nomination Form</span></b></a></i></h6>
     </div>
 
     </div>
@@ -74,7 +74,7 @@ const yicu2023 = () => {
     <h6 className="cFFFFFF"><i >Age - 12 to 22</i></h6>
     <h6 className="cFFFFFF"><i >Resident of McLean County</i></h6>
     <h4 className="cF8F8F8"><u >Required</u></h4>
-    <h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicuapp"><b><span className="cFFFFFF">Application Form</span></b></a></i></h6>
+    <h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicu-app"><b><span className="cFFFFFF">Application Form</span></b></a></i></h6>
     <h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicumed"><b><span className="cFFFFFF">Media Release Form</span></b></a></i></h6>
     <h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicurefer"><b><span className="cFFFFFF">Reference Form</span></b></a></i></h6>
     </div>
@@ -204,6 +204,7 @@ const yicu2023 = () => {
     </div>
 
     </div>
+
 
 
 
