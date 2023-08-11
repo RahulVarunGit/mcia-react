@@ -39,11 +39,11 @@ const yicu2023 = () => {
     <p >&nbsp;&nbsp;</p>
     <div className="row">
 
-    <div className="col-sm-2 ">
+    <div className="col-md-2 ">
 
     </div>
 
-    <div className="col-sm-4">
+    <div className="col-md-4">
 
     <div className="div-img-text">
 
@@ -62,7 +62,7 @@ const yicu2023 = () => {
 
     </div>
 
-    <div className="col-sm-4">
+    <div className="col-md-4">
 
     <div className="div-img-text">
 
@@ -83,7 +83,7 @@ const yicu2023 = () => {
 
     </div>
 
-    <div className="col-sm-2 ">
+    <div className="col-md-2 ">
 
     </div>
 
@@ -91,7 +91,7 @@ const yicu2023 = () => {
 
     <div className="row">
 
-    <div className="col-sm-4">
+    <div className="col-md-4">
 
     <div className="div-img-text">
 
@@ -111,7 +111,7 @@ const yicu2023 = () => {
 
     </div>
 
-    <div className="col-sm-4">
+    <div className="col-md-4">
 
     <div className="div-img-text">
 
@@ -130,7 +130,7 @@ const yicu2023 = () => {
 
     </div>
 
-    <div className="col-sm-4">
+    <div className="col-md-4">
 
     <div className="div-img-text">
 
@@ -153,11 +153,11 @@ const yicu2023 = () => {
 
     <div className="row">
 
-    <div className="col-sm-2 ">
+    <div className="col-md-2 ">
 
     </div>
 
-    <div className="col-sm-4">
+    <div className="col-md-4">
 
     <div className="div-img-text">
 
@@ -175,7 +175,7 @@ const yicu2023 = () => {
 
     </div>
 
-    <div className="col-sm-4">
+    <div className="col-md-4">
 
     <div className="div-img-text">
 
@@ -185,13 +185,14 @@ const yicu2023 = () => {
     <p >&nbsp;</p>
     <h3 ><b >Event Info</b></h3>
     <h6 className="c646063;">FBT’s YICU Service Awards Celebration will held at Jon Astroth Auditorium, Heartland Community College on Sunday, November 12 at Noon.</h6>
+    <h6 className="c646063;">Ten winners will be announced from the nominees, three from each age category and one at large.</h6>
     </div>
 
     </div>
 
     </div>
 
-    <div className="col-sm-2 ">
+    <div className="col-md-2 ">
 
     </div>
 
