@@ -201,7 +201,11 @@ const yicu2023 = () => {
     <p >&nbsp;&nbsp;</p>
     <p >&nbsp;&nbsp;</p>
     <div>
-    <h3 className="center-align"><b >"FBT will make a $250 donation towards a non-profit in honor of each award winner."</b></h3>
+    <h4 className="center-align"><b ><i >"FBT will make a $250 donation towards a non-profit in honor of each award winner."</i></b></h4>
+    </div>
+
+    <div>
+    <h3 className="center-align redBg"><b >Be a sponsor for YICU Award!! Please contact us at contactus@forbettertomorrow.org</b></h3>
     </div>
 
     </div>
