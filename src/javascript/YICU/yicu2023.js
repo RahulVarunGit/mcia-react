@@ -205,10 +205,11 @@ const yicu2023 = () => {
     </div>
 
     <div>
-    <h3 className="center-align redBg"><b >Be a sponsor for YICU Award!! Please contact us at contactus@forbettertomorrow.org</b></h3>
+    <h3 className="center-align redBg"><b >Be a sponsor for YICU Award!! Please contact us at <a href="mailto:contactus@forbettertomorrow.org">contactus@forbettertomorrow.org</a></b></h3>
     </div>
 
     </div>
+
 
 
 
