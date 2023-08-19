@@ -8,6 +8,7 @@ const YGC = () => {
 
 
 
+
     <div className="container">
     <YGCnav ></YGCnav>
     <div>
@@ -49,36 +50,33 @@ const YGC = () => {
     <h4 className="justify c737373">Learning session topics addressed in YGC may include:</h4>
     </div>
 
-    <div>
+    <div className="row">
 
-    <table className="table table-borderless">
+    <div className="col-sm"
+>
 
-    <tr>
-    <td >Self-Awareness Development</td>
-    <td >Fundraising Strategies</td>
-    </tr>
+    <ul>
+    <li >Self-Awareness Development</li>
+    <li >Personal Strength Identification</li>
+    <li >Social Justice</li>
+    <li >Servant Leadership</li>
+    <li >Team Building and Collaboration</li>
+    </ul>
 
-    <tr>
-    <td >Personal Strength Identification</td>
-    <td >For a Better Tomorrow Operating Model</td>
-    </tr>
+    </div>
 
-    <tr>
-    <td >Social Justice</td>
-    <td >Presentation Skills</td>
-    </tr>
+    <div className="col-sm"
+>
 
-    <tr>
-    <td >Servant Leadership</td>
-    <td >Values Clarification</td>
-    </tr>
+    <ul>
+    <li >Fundraising Strategies</li>
+    <li >For a Better Tomorrow Operating Model</li>
+    <li >Presentation Skills</li>
+    <li >Values Clarification</li>
+    <li >Emotional Intelligence</li>
+    </ul>
 
-    <tr>
-    <td >Team Building and Collaboration</td>
-    <td >Emotional Intelligence</td>
-    </tr>
-
-    </table>
+    </div>
 
     </div >
 
