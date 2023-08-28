@@ -68,8 +68,8 @@ const ygc2023 = () => {
     <td className="col-md-3 center-align"><img src="/images/ygc/2023/Atharva_Shenoy.jpg" alt="Class of 2023" width="150" height="150" className="rounded-circle"></img></td>
     <td className="col-md-9">
     <h6 ><span className="font-weight-bold"></span></h6>
-    <h6 ><span><b>Atharva Shenoy</b></span> is a rising senior at Normal Community High School. He enjoys Math and Band. He began playing trumpet since his elementary school days and has participated in numerous band concerts. In the community, Atharva has volunteered at Midwest Food Bank and Children’s Discovery Museum. He also volunteers for annual food drives and fundraising activities for the local chapter of Sewa International Inc. nonprofit. Atharva is looking forward to joining YGC and learning more about the community while honing his leadership skills.</h6>
-    <h6 ><i >Quote that best describes Atharva: “Education is our passport to the future, for tomorrow belongs to the people who prepare for it today.” - Malcolm X </i></h6>
+    <h6 ><span><b>Atharva Shenoy</b></span> is a rising senior at Normal Community High School. He enjoys Math and Band. He began playing trumpet since his elementary school days and has participated in numerous band concerts. In the community, Atharva has volunteered at Midwest Food Bank and Children s Discovery Museum. He also volunteers for annual food drives and fundraising activities for the local chapter of Sewa International Inc. nonprofit. Atharva is looking forward to joining YGC and learning more about the community while honing his leadership skills.</h6>
+    <h6 ><i >Quote that best describes Atharva:  Education is our passport to the future, for tomorrow belongs to the people who prepare for it today.  - Malcolm X </i></h6>
     </td>
 
     </tr>
@@ -79,7 +79,7 @@ const ygc2023 = () => {
     <td className="col-md-9">
     <h6 ><span className="font-weight-bold"></span></h6>
     <h6 ><span><b>Harshal</b></span> has always been a curious person and enjoys hands-on learning. He is also very competitive and participates in numerous events ranging from public speaking to mathematics competitions. Additionally, Harshal has always had a strong interest in science and loves to engage in scientific research opportunities. Currently a rising sophomore, Harshal has ambitious goals for the future and hopes to have a great impact on his community.</h6>
-    <h6 ><i >Quote that best describes Harshal: “Start where you are, with what you have. Make something of it and never be satisfied.” - George Washington Carver</i></h6>
+    <h6 ><i >Quote that best describes Harshal:  Start where you are, with what you have. Make something of it and never be satisfied.  - George Washington Carver</i></h6>
     </td>
 
     </tr>
@@ -88,8 +88,8 @@ const ygc2023 = () => {
     <td className="col-md-3 center-align"><img src="/images/ygc/2023/Renny.jpg" alt="Class of 2023" width="150" height="150" className="rounded-circle"></img></td>
     <td className="col-md-9">
     <h6 ><span className="font-weight-bold"></span></h6>
-    <h6 ><span><b>Renny</b></span> is about to be a highschool senior. He enjoys piano, hanging out with friends, and playing video games. In the coming year he hopes to make a difference in the current clubs and activities he’s participating in. Renny is aiming to be a chemical engineer at the university of Urbana-Champaign.</h6>
-    <h6 ><i >Quote that best describes Renny: “In the midst of chaos there is always opportunity” - Sun Tzu</i></h6>
+    <h6 ><span><b>Renny</b></span> is about to be a highschool senior. He enjoys piano, hanging out with friends, and playing video games. In the coming year he hopes to make a difference in the current clubs and activities he s participating in. Renny is aiming to be a chemical engineer at the university of Urbana-Champaign.</h6>
+    <h6 ><i >Quote that best describes Renny:  In the midst of chaos there is always opportunity  - Sun Tzu</i></h6>
     </td>
 
     </tr>
@@ -100,16 +100,6 @@ const ygc2023 = () => {
     <h6 ><span className="font-weight-bold"></span></h6>
     <h6 ><span><b>Zain</b></span> is an incoming senior at Normal Community High School. He enjoys playing tennis and hanging out with friends. He aspires to be an engineer in college and hopes to make a difference in school and beyond.</h6>
     <h6 ><i >Quote that best describes Zain: "Die with memories, not dreams."</i></h6>
-    </td>
-
-    </tr>
-
-    <tr className="row">
-    <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2023" width="150" height="150" className="rounded-circle"></img></td>
-    <td className="col-md-9">
-    <h6 ><span className="font-weight-bold"></span></h6>
-    <h6 ><span><b>Allen</b></span> is an incoming freshman that will be attending University High School. He enjoys reading, biking, and playing soccer. As an avid learner, he is currently learning how to code. As of right now, he dreams of becoming a computational economist. One day, he hopes he will be able to create a non-profit.</h6>
-    <h6 ><i >Quote that best describes Allen: "It's not that we have a short space of time, but that we waste much of it. Life is long enough, and it has been given in sufficiently generous measure to allow the accomplishment of the very greatest things, if the whole of it is well invested." - Seneca</i></h6>
     </td>
 
     </tr>
@@ -129,7 +119,7 @@ const ygc2023 = () => {
     <td className="col-md-9">
     <h6 ><span className="font-weight-bold"></span></h6>
     <h6 ><span><b>Hemanth Itte</b></span>  is an incoming senior at Normal Community High School who is planning to study computer science or cybersecurity in college. Currently Hemanth is a technical architect intern with State Farm over the summer. Hemanth participates in many activities such as soccer, wrestling, orchestra, etc. He also enjoys spending time with family and friends and hopes to spread happiness to as many people as possible, for as long as possible, in as many places as possible. Through YGC Hemanth wishes to improve his leadership skills, grow as a person to help the community, and work to achieve his personal goal.</h6>
-    <h6 ><i >Quote that best describes Hemanth: “Learn continually - there's always ‘one more thing’ to learn!”</i></h6>
+    <h6 ><i >Quote that best describes Hemanth:  Learn continually - there's always  one more thing  to learn! </i></h6>
     </td>
 
     </tr>
@@ -139,7 +129,7 @@ const ygc2023 = () => {
     <td className="col-md-9">
     <h6 ><span className="font-weight-bold"></span></h6>
     <h6 ><span><b>Vivaan Menon</b></span> is a hardworking individual who likes to complete everything he has as fast as he can. Usually, he prefers to work with others, but that may depend on the project at hand. Additionally, he is very kind and fun to talk to, but at times he may seem irresponsible. </h6>
-    <h6 ><i >Quote that best describes Vivaan: “Don't judge each day by the harvest you reap but by the seeds that you plant.”</i></h6>
+    <h6 ><i >Quote that best describes Vivaan:  Don't judge each day by the harvest you reap but by the seeds that you plant. </i></h6>
     </td>
 
     </tr>
