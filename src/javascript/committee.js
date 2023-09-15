@@ -19,6 +19,7 @@ const Committee = () => {
 
     </div>
 
+    <p >&nbsp;&nbsp;</p>
     <div>
     <h3 className="center-align"><b >Advisors and Committees</b></h3>
     </div>
@@ -429,7 +430,7 @@ const Committee = () => {
     <tbody>
 
     <tr className="row">
-    <td ><h2 >Giving Committee</h2></td>
+    <td ><h4 >Giving Committee</h4></td>
 
     </tr>
 
@@ -485,7 +486,7 @@ const Committee = () => {
     <tbody>
 
     <tr className="row">
-    <td ><h2 >Marketing and Technology Committee</h2></td>
+    <td ><h4 >Marketing and Technology Committee</h4></td>
 
     </tr>
 
@@ -535,7 +536,7 @@ const Committee = () => {
     <tbody>
 
     <tr className="row">
-    <td ><h2 >Youth Global Citizen (YGC) Citizen Committee</h2></td>
+    <td ><h4 >Youth Global Citizen (YGC) Citizen Committee</h4></td>
 
     </tr>
 
@@ -669,7 +670,7 @@ const Committee = () => {
     <tbody>
 
     <tr className="row">
-    <td ><h2 >Why I See You (YICU) Steering Committee</h2></td>
+    <td ><h4 >Why I See You (YICU) Steering Committee</h4></td>
 
     </tr>
 
