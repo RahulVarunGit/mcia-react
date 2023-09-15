@@ -72,7 +72,7 @@ const Home = () => {
     <div className="col-sm">
 
     <p className="center-align"><img src="/images/projects/Maya-Book-Project.jpg" alt="" width="150" height="150" className="rounded" /></p>
-    <h4 className="center-align"><a href="https://forbettertomorrow.org/services/projects/maya-book-project/"><b>Maya Book Project</b></a></h4>
+    <h4 className="center-align"><a href="/maya-book-project"><b>Maya Book Project</b></a></h4>
     <h6 className="center-align">The book is an extremely important resource for educators and students. Its message about protecting the environment and caring for the forests is so important for students. The book reinforces reading and writing in K’iche’, English, and Spanish, and it connects students to the roots of their culture and ancestors. It is a family story of someone from the students’ own community and culture.</h6>
     <h5 className="center-align"><span className="afs">Approved Financial Support - <span className="afsa">$8,400</span></span></h5>
     </div>
@@ -80,7 +80,7 @@ const Home = () => {
     <div className="col-sm">
 
     <p className="center-align"><img src="/images/projects/El-Porvenir.jpg" alt="" width="150" height="150" className="rounded" /></p>
-    <h4 className="center-align"><a href="https://forbettertomorrow.org/el-porvenir-2/"><b>El Porvenir</b></a></h4>
+    <h4 className="center-align"><a href="/el-porvenir/"><b>El Porvenir</b></a></h4>
     <h6 className="center-align">El Porvenir works to provide water and sanitation to communities in Nicaragua. They likewise facilitate watershed management programs, which “promotes water flow, increases food security, and reduces the impact of climate change.” To this end, this project is intended to support the water distribution system for Regadillo, Nicaragua.</h6>
     <h5 className="center-align"><span className="afs">Approved Financial Support - <span className="afsa">$12,500</span></span></h5>
     </div>
@@ -88,7 +88,7 @@ const Home = () => {
     <div className="col-sm">
 
     <p className="center-align"><img src="/images/projects/SafePassage.jpg" alt="" width="150" height="150" className="rounded" /></p>
-    <h4 className="center-align"><a href="https://forbettertomorrow.org/services/projects/safe-passage/"><b>Safe Passage</b></a></h4>
+    <h4 className="center-align"><a href="/safe-passage/"><b>Safe Passage</b></a></h4>
     <h6 className="center-align">Safe Passage, a school in Guatemala that serves 500 low income students.  The school is located within the parameters of the largest active garbage dump in Central America. FBT fund the installation of an air filtration system at the school, which the board approved.  This effort will ensure that the students and staff have a healthy environment in which to learn and teach.</h6>
     <h5 className="center-align"><span className="afs">Approved Financial Support - <span className="afsa">$8,500</span></span></h5>
     </div>
@@ -103,7 +103,7 @@ const Home = () => {
     <div className="col-sm">
 
     <p className="center-align"><img src="/images/projects/Yabal.jpg" alt="" width="150" height="150" className="rounded" /></p>
-    <h4 className="center-align"><a href="https://forbettertomorrow.org/yabal-2/"><b>Yabal Guatemala</b></a></h4>
+    <h4 className="center-align"><a href="/yabal"><b>Yabal Guatemala</b></a></h4>
     <h6 className="center-align">Yabal Guatemala promotes the empowerment of indigenous women and their families in rural Guatemalan highland communities through a focus on their economic self-sufficiency.</h6>
     <h5 className="center-align"><span className="afs">Approved Financial Support - <span className="afsa">$7,500</span></span></h5>
     </div>
@@ -111,7 +111,7 @@ const Home = () => {
     <div className="col-sm">
 
     <p className="center-align"><img src="/images/projects/IHF.jpg" alt="" width="150" height="150" className="rounded" /></p>
-    <h4 className="center-align"><a href="https://forbettertomorrow.org/ihf-2/"><b>Integral Heart Foundation</b></a></h4>
+    <h4 className="center-align"><a href="/ihf"><b>Integral Heart Foundation</b></a></h4>
     <h6 className="center-align">Our school is currently home to 80 children with 6 learning programs, a Teacher-Training Program and serves 1,500 meals and snacks every month. Since 2011,  our programs have delivered classNamees and support to over 1,200 students and their families in  Guatemala.</h6>
     <h5 className="center-align"><span className="afs">Approved Financial Support - <span className="afsa">$8,400</span></span></h5>
     </div>
@@ -119,7 +119,7 @@ const Home = () => {
     <div className="col-sm">
 
     <p className="center-align"><img src="/images/projects/KYC.jpg" alt="" width="150" height="150" className="rounded" /></p>
-    <h4 className="center-align"><a href="https://forbettertomorrow.org/kyc-2/"><b>Kenya Konnect Youth Consortium</b></a></h4>
+    <h4 className="center-align"><a href="/kyc"><b>Kenya Konnect Youth Consortium</b></a></h4>
     <h6 className="center-align">KYC implements HIV/AIDS Prevention, Sexual and Reproductive Health Services, peacebuilding, environmental conservation, and economic strengthening programs targeting young people.</h6>
     <h5 className="center-align"><span className="afs">Approved Financial Support - <span className="afsa">7,230</span></span></h5>
     </div>

@@ -4,6 +4,9 @@
 import Navbar from './Navbar';
 import Home from './javascript/Home';
 import About from './javascript/about';
+import NewsLetter from './javascript/newsLetter';
+import Board from './javascript/board';
+import Committee from './javascript/committee';
 import YICU from './javascript/YICU';
 import YGC from './javascript/YGC';
 import Donate from './javascript/donate';
@@ -55,6 +58,9 @@ function App() {
             <Route path="/" element={<Home/>}/>
             <Route path="/test" element={<Home/>}/>
             <Route path="/about" element={<About/>}/>
+            <Route path="/newsLetter" element={<NewsLetter/>}/>
+            <Route path="/board" element={<Board/>}/>
+            <Route path="/committee" element={<Committee/>}/>
             <Route path="/kitefest" element={<KiteFest/>}/>
             <Route path="/yicu" element={<YICU/>}/>
             <Route path="/ygc" element={<YGC/>}/>
