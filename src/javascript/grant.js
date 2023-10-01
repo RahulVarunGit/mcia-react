@@ -5,6 +5,7 @@ import '../styles/grant.css';
 const grant = () => {
 
   return(
+
     <div className="container">
 
     <div>
@@ -23,6 +24,12 @@ const grant = () => {
     <div>
     <h4 className="center-align">Thanks for your interest in working with For A Better Tomorrow (FBT). FBT accepts grant applications in the first and the third quarter of the year. Before submitting a grant request, kindly take a few minutes to review the <a href="https://docs.google.com/document/d/1Rh1vmcKUQsfyLjP9HIa1jrgSogazw-1WlVUV4Hwu-0o/edit">FBT Grant Guidelines</a>. We love collaborating with new nonprofits and past grantees alike. We look forward to receiving and reviewing your grant applications.</h4>
     <p >&nbsp;&nbsp;</p>
+    </div>
+
+    <div>
+    <h5 className="center-align">FBT will review and decide on grants submitted in the:</h5>
+    <h5 className="center-align">First Quarter (Jan 1<sup>st</sup> to March 31<sup>st</sup>) by the end of Second Quarter (June 30<sup>th</sup>)</h5>
+    <h5 className="center-align">Third Quarter (July 1<sup>st</sup> to September 30<sup>th</sup>) by the end of Fourth Quarter (December 31<sup>st</sup>)</h5>
     </div>
 
     <p >&nbsp;&nbsp;</p>
@@ -67,6 +74,7 @@ const grant = () => {
     <div><hr class="hr-line"></hr></div>
 
     </div>
+
 
 
   );
