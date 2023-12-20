@@ -83,3 +83,6 @@
 .redBg{
   background-color:#ff8080;
 }
+.nav-link {
+  color: black !important;
+}
