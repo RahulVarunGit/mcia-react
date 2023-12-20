@@ -86,3 +86,9 @@
 .nav-link {
   color: black !important;
 }
+.center-align{
+  text-align: center;
+}
+.width100{
+  width: 100%;
+}
