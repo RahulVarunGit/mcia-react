@@ -29,7 +29,9 @@ const Navbar = () => {
       <li className="nav-item dropdown">
         <a className="nav-link " id="navYGC" aria-current="page" href="/ygc">YGC</a>
       </li>
-
+      <li className="nav-item dropdown">
+        <a className="nav-link " id="navYGC" aria-current="page" href="/grant">Grant</a>
+      </li>
       <li className="nav-item" >
         <a className="nav-link" id="navContact" href="/contact">Contact Us</a>
       </li>
