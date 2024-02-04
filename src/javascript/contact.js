@@ -42,7 +42,7 @@ const contact = () => {
 
 <p >&nbsp;&nbsp;</p>
 <div>
-<h4 className="center-align">Don t hestiate to ask us something.</h4>
+<h4 className="center-align">Don't hestiate to ask us something.</h4>
 <p >&nbsp;&nbsp;</p>
 <h4 className="center-align"><b >Available from 9AM to 5PM</b></h4>
 <h4 className="center-align"><iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyD09zQ9PNDNNy9TadMuzRV_UsPUoWKntt8&amp;q=808+S+Eldorado+Road+Suite+1%0ABloomington+IL+61704%0AUnited+States"></iframe></h4>
