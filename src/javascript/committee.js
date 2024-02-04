@@ -455,7 +455,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Contact.png"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Claire Campbell (Chair)</span>
+<span > Claire Campbell (Chair)</span>
 </h5>
 
 </td>
@@ -468,7 +468,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Phani.jpg"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Val Beguin</span>
+<span > Val Beguin</span>
 </h5>
 
 </td>
@@ -481,7 +481,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Phani.jpg"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Vasudha Gadhiraju</span>
+<span > Vasudha Gadhiraju</span>
 </h5>
 
 </td>
@@ -624,7 +624,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/ClaireCampbell.jpg"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Claire Campbell </span>
+<span > Claire Campbell </span>
 </h5>
 
 </td>
@@ -637,7 +637,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Contact.png"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Harish Kumar</span>
+<span > Harish Kumar</span>
 </h5>
 
 </td>
@@ -650,7 +650,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Contact.png"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Jon Derek</span>
+<span > Jon Derek</span>
 </h5>
 
 </td>
@@ -663,7 +663,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Phani.jpg"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Phani Aytam</span>
+<span > Phani Aytam</span>
 </h5>
 
 </td>
@@ -676,7 +676,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/ShlokaRavinuthala.jpg"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Shloka Ravinuthala</span>
+<span > Shloka Ravinuthala</span>
 </h5>
 
 </td>
@@ -689,7 +689,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/SiddhiHindurao.jpg"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Siddhi Hindurao (Co-Chair)</span>
+<span > Siddhi Hindurao (Co-Chair)</span>
 </h5>
 
 </td>
@@ -702,7 +702,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Srinivas-Shenoy.jpg"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Srinivas Shenoy (Co-Chair)</span>
+<span > Srinivas Shenoy (Co-Chair)</span>
 </h5>
 
 </td>
@@ -732,7 +732,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Contact.png"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Adithya Komandur </span>
+<span > Adithya Komandur </span>
 </h5>
 
 </td>
@@ -745,7 +745,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Contact.png"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Bradley Ross Jackson</span>
+<span > Bradley Ross Jackson</span>
 </h5>
 
 </td>
@@ -758,7 +758,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Contact.png"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Dr. Carla Campbell Jackson</span>
+<span > Dr. Carla Campbell Jackson</span>
 </h5>
 
 </td>
@@ -771,7 +771,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Contact.png"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Carolyn Hansen </span>
+<span > Carolyn Hansen </span>
 </h5>
 
 </td>
@@ -784,7 +784,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Contact.png"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Hema Kasturi</span>
+<span > Hema Kasturi</span>
 </h5>
 
 </td>
@@ -797,7 +797,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Kathy.jpg"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Kathy Weinzierl (Chair)</span>
+<span > Kathy Weinzierl (Chair)</span>
 </h5>
 
 </td>
@@ -810,7 +810,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Contact.png"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Prajna Kurella</span>
+<span > Prajna Kurella</span>
 </h5>
 
 </td>
@@ -823,7 +823,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/ShlokaRavinuthala.jpg"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Shloka Ravinuthala</span>
+<span > Shloka Ravinuthala</span>
 </h5>
 
 </td>
@@ -860,7 +860,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Contact.png"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Dr. Dakesa Pina</span>
+<span > Dr. Dakesa Pina</span>
 </h5>
 
 </td>
@@ -873,7 +873,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Deva-Profile.png"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Deva Chatrathi (Chair)</span>
+<span > Deva Chatrathi (Chair)</span>
 </h5>
 
 </td>
@@ -886,7 +886,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Phani.jpg"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Phani Aytam</span>
+<span > Phani Aytam</span>
 </h5>
 
 </td>
@@ -899,7 +899,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Raja.jpg"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Raja Ayyapusetty</span>
+<span > Raja Ayyapusetty</span>
 </h5>
 
 </td>
@@ -912,7 +912,7 @@ const Committee = () => {
 
 <h5>
 <img src="/images/board-committees/Sam-G.jpg"alt="" width="25" height="25" className="rounded-circle"></img>
-<span >Sam Gurijala</span>
+<span > Sam Gurijala</span>
 </h5>
 
 </td>
