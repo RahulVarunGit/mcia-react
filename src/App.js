@@ -22,6 +22,7 @@ import Yabal from './javascript/yabal';
 import ElPorvenir from './javascript/el-porvenir';
 import IHF from './javascript/IHF';
 import KYC from './javascript/KYC';
+import DEMO from './javascript/demo';
 import STEAM from './javascript/steam';
 import YICU2016 from './javascript/YICU/yicu2016';
 import YICU2017 from './javascript/YICU/yicu2017';
@@ -76,6 +77,7 @@ function App() {
             <Route path="/el-porvenir" element={<ElPorvenir/>}/>
             <Route path="/ihf" element={<IHF/>}/>
             <Route path="/kyc" element={<KYC/>}/>
+            <Route path="/demo" element={<DEMO/>}/>
             <Route path="/steam" element={<STEAM/>}/>
             <Route path="/yicu2016" element={<YICU2016/>}/>
             <Route path="/yicu2017" element={<YICU2017/>}/>
