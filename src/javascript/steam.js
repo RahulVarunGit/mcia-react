@@ -12,7 +12,7 @@ const steam = () => {
 
 <div>
 <h2 className="center-align"><b ></b></h2>
-<p className="center-align"><img src="/images/steam/STEAM2024.jpeg" alt="" width="100%" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/STEAM2024.png" alt="" width="100%" className="rounded" /></p>
 
 </div>
 </div>
