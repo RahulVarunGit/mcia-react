@@ -14,8 +14,7 @@ const Report = () => {
 <div><hr class="hr-line"></hr></div>
 
 <div>
-<h2 className="center-align"><b ></b></h2>
-<p className="center-align"><iframe src="/pdf/2023AnnualReport.pdf"  width="100%" height="550px"/></p>
+<iframe src="/pdf/2023AnnualReport.pdf"  width="100%" height="550px"/>
 <div><hr class="hr-line"></hr></div>
 
 <h2 className="fbt-tag-line">“Our mission is to promote social justice by meeting needs in the local community and the world through accountable, sustainable philanthropy and by nurturing future generations of servant leaders.”</h2>
