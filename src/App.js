@@ -7,6 +7,7 @@ import About from './javascript/about';
 import NewsLetter from './javascript/newsLetter';
 import Board from './javascript/board';
 import Committee from './javascript/committee';
+import Report from './javascript/report';
 import YICU from './javascript/YICU';
 import YGC from './javascript/YGC';
 import Donate from './javascript/donate';
@@ -63,6 +64,7 @@ function App() {
             <Route path="/newsLetter" element={<NewsLetter/>}/>
             <Route path="/board" element={<Board/>}/>
             <Route path="/committee" element={<Committee/>}/>
+            <Route path="/report" element={<Report/>}/>
             <Route path="/kitefest" element={<KiteFest/>}/>
             <Route path="/yicu" element={<YICU/>}/>
             <Route path="/ygc" element={<YGC/>}/>

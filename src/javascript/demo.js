@@ -1,7 +1,7 @@
 import {useState} from 'react';
 import '../styles/Home.css';
 
-const steam = () => {
+const demo = () => {
 
   return(
 
@@ -12,7 +12,8 @@ const steam = () => {
 
 <div>
 <h2 className="center-align"><b ></b></h2>
-<p className="center-align"><img src="/images/steam/STEAM2024.png" alt="" width="100%" className="rounded" /></p>
+<object data="/pdf/2023AnnualReport.pdf" type="application/pdf" width="100%" height="550px"/>
+
 
 </div>
 </div>
@@ -21,4 +22,4 @@ const steam = () => {
 
   );
 }
-export default steam;
+export default demo;

@@ -5,7 +5,7 @@ const About = () => {
 
   return(
 
-    <div className="container">
+<div className="container">
 
 <div>
 <h2 className="fbt-title"><img src="/images/homePage/Logo.jpg"alt="" width="40" height="40" className="rounded"/>  for a <span className="fbt-title-sub">better</span> tomorrow </h2>
@@ -31,6 +31,25 @@ const About = () => {
 
 <p className="center-align"><a href="/committee"><img src="/images/base/committee.jpg" alt="" width="150" height="150" className="rounded" /></a></p>
 <h3 className="center-align"><a href="/committee"><b >Committees</b></a></h3>
+</div>
+
+</div>
+
+<p >&nbsp;</p>
+<div className="row">
+
+<div className="col-sm">
+
+</div>
+
+<div className="col-sm">
+
+<p className="center-align"><a href="/report"><img src="/images/base/report.png" alt="" width="150" height="150" className="rounded" /></a></p>
+<h3 className="center-align"><a href="/report"><b >Annual Report</b></a></h3>
+</div>
+
+<div className="col-sm">
+
 </div>
 
 </div>
