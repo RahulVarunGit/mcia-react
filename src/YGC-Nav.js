@@ -4,6 +4,7 @@ const YGCnav = () => {
     <div class="row">
       <p>
       <span><b>Flashback:</b></span><span> </span>
+      <span><a className="btn btn-info btn-sm" href="/ygc2024" role="button">2024</a></span><span> </span>
       <span><a className="btn btn-info btn-sm" href="/ygc2023" role="button">2023</a></span><span> </span>
       <span><a className="btn btn-info btn-sm" href="/ygc2022" role="button">2022</a></span><span> </span>
       <span><a className="btn btn-info btn-sm" href="/ygc2021" role="button">2021</a></span><span> </span>
