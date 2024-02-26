@@ -43,6 +43,9 @@ import YGC2021 from './javascript/YGC/ygc2021';
 import YGC2022 from './javascript/YGC/ygc2022';
 import YGC2023 from './javascript/YGC/ygc2023';
 import YGC2024 from './javascript/YGC/ygc2024';
+import YGC2025 from './javascript/YGC/ygc2025';
+import YGC2026 from './javascript/YGC/ygc2026';
+import YGC2027 from './javascript/YGC/ygc2027';
 
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
@@ -99,6 +102,9 @@ function App() {
             <Route path="/ygc2022" element={<YGC2022/>}/>
             <Route path="/ygc2023" element={<YGC2023/>}/>
             <Route path="/ygc2024" element={<YGC2024/>}/>
+            <Route path="/ygc2025" element={<YGC2025/>}/>
+            <Route path="/ygc2026" element={<YGC2026/>}/>
+            <Route path="/ygc2027" element={<YGC2027/>}/>
             <Route path="/*" element={<NotFoundPage/>} />
           </Routes>
 
