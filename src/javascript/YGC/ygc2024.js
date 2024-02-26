@@ -111,7 +111,7 @@ const ygc2024 = () => {
 
 <p >&nbsp;&nbsp;</p>
 <div>
-<h4 className="center-align cBlue"><b ><a href="https://docs.google.com/document/d/10si-3x2quUG_PT_Ppa_HlaUJcNVAvY86asyzwmrNayU/edit#heading=h.6jynaot9cbnq">Click here additional information</a></b></h4>
+<h4 className="center-align cBlue"><b ><a href="https://docs.google.com/document/d/10si-3x2quUG_PT_Ppa_HlaUJcNVAvY86asyzwmrNayU/edit#heading=h.6jynaot9cbnq">Click here for additional information</a></b></h4>
 </div>
 
 <p >&nbsp;&nbsp;</p>
