@@ -27,7 +27,7 @@ const ygc2016 = () => {
     <tbody>
 
     <tr className="row">
-    <td className="col-md-12 center-align"><img src="/images/ygc/2016/className-of-2016-1.jpg"alt="Class of 2016"  className="rounded" width="80%"></img></td>
+    <td className="col-md-12 center-align"><img src="/images/ygc/2016/Class-of-2016-1.jpg"alt="Class of 2016"  className="rounded" width="80%"></img></td>
     </tr>
 
     <tr className="row">
