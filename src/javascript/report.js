@@ -8,9 +8,8 @@ const Report = () => {
    
 <div className="container">
 
-<h2 className="center-align"><b ></b></h2>
-<object data="/pdf/2023AnnualReport.pdf" type="application/pdf" width="100%" height="550px"/>
-
+<h2 className="center-align"><b >2024 Annual Report</b></h2>
+<iframe src="/pdf/2023AnnualReport.pdf" width="100%" height="500px" />
 </div>
 
 
