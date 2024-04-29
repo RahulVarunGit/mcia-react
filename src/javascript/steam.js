@@ -7,7 +7,6 @@ const steam = () => {
 
 
 
-
 <div className="container">
 
 <div>
@@ -65,19 +64,19 @@ const steam = () => {
 <h4 className="center-align">Elementary</h4>
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SF-E-BV.JPG" alt="" width="300" height="200" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SF-E-BV.png" alt="" width="300" height="200" className="rounded" /></p>
 <h6 className="center-align">Best visual: Newton s Law (Rylan Nayak, Mishika Rout, Darshan Ayyanar)</h6>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SF-E-BE.JPG" alt="" width="300" height="200" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SF-E-BE.png" alt="" width="300" height="200" className="rounded" /></p>
 <h6 className="center-align">Best execution: Solar Powered Vehicle (Akshay Ayyapusetty, Abhinav Chander, Pradyun Didigam, Saketh Viswanadha)</h6>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SF-E-MC.JPG" alt="" width="300" height="200" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SF-E-MC.png" alt="" width="300" height="200" className="rounded" /></p>
 <h6 className="center-align">Most collaborative: Air Adventures (Sivansh Parasa, Kiruthik Guruswami, Achinth Anand)</h6>
 </div>
 
@@ -89,19 +88,19 @@ const steam = () => {
 <h4 className="center-align">Junior High</h4>
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SF-JH-BE.JPG" alt="" width="300" height="200" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SF-JH-BE.png" alt="" width="300" height="200" className="rounded" /></p>
 <h6 className="center-align">Best execution- Gene Therapy Unravelled (Aditi Chander, Sahiti Viswanadha, Harini Hariharan, Shrinath Hariharan)</h6>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SF-JH-BOD.JPG" alt="" width="300" height="200" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SF-JH-BOD.png" alt="" width="300" height="200" className="rounded" /></p>
 <h6 className="center-align">Best original design- Moisture Matters (Lasya Ayapusetty, Charita Bijivemula, Srinidhi Gurijala)</h6>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SF-JH-MC.JPG" alt="" width="300" height="200" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SF-JH-MC.png" alt="" width="300" height="200" className="rounded" /></p>
 <h6 className="center-align">Most Collaborative- The power of plastic (Vikyath Chatrathi, Jai Mokashi, Anurag Kadiala, Ishan Kulkarni)</h6>
 </div>
 
@@ -200,27 +199,27 @@ const steam = () => {
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST1.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST1.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST2.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST2.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST3.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST3.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST4.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST4.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST5.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST5.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 </div>
@@ -229,27 +228,27 @@ const steam = () => {
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST6.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST6.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST7.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST7.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST8.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST8.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST9.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST9.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST10.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST10.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 </div>
@@ -258,27 +257,27 @@ const steam = () => {
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST11.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST11.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST12.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST12.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST13.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST13.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST14.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST14.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST15.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST15.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 </div>
@@ -287,12 +286,12 @@ const steam = () => {
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST16.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST16.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/ST17.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/ST17.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 </div>
@@ -388,27 +387,27 @@ const steam = () => {
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT1.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT1.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT2.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT2.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT3.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT3.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT4.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT4.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT5.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT5.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 </div>
@@ -417,27 +416,27 @@ const steam = () => {
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT6.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT6.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT7.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT7.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT8.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT8.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT9.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT9.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT10.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT10.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 </div>
@@ -446,27 +445,27 @@ const steam = () => {
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT11.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT11.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT12.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT12.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT13.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT13.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT14.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT14.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT15.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT15.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 </div>
@@ -475,12 +474,12 @@ const steam = () => {
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT16.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT16.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/MT17.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/MT17.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 </div>
@@ -555,27 +554,27 @@ const steam = () => {
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB1.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB1.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB2.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB2.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB3.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB3.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB4.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB4.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB5.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB5.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 </div>
@@ -584,27 +583,27 @@ const steam = () => {
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB6.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB6.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB7.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB7.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB8.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB8.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB9.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB9.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB10.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB10.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 </div>
@@ -613,27 +612,41 @@ const steam = () => {
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB11.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB11.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB12.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB12.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB13.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB13.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB14.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB14.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/SB15.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/SB15.png" alt="" width="150" height="150" className="rounded" /></p>
+</div>
+
+</div>
+
+<div className="row">
+
+<div className="col-sm">
+
+<p className="center-align"><img src="/images/steam/2024/SB16.png" alt="" width="150" height="150" className="rounded" /></p>
+</div>
+
+<div className="col-sm">
+
+<p className="center-align"><img src="/images/steam/2024/SB17.png" alt="" width="150" height="150" className="rounded" /></p>
 </div>
 
 </div>
@@ -660,7 +673,7 @@ const steam = () => {
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/Hackathon.JPG" alt="" width="300" height="200" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/Hackathon.png" alt="" width="300" height="200" className="rounded" /></p>
 </div>
 
 </div>
@@ -681,13 +694,13 @@ const steam = () => {
 <h4 className="center-align">Grade 2-5</h4>
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/CTF25G.JPG" alt="" width="300" height="200" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/CTF25G.png" alt="" width="300" height="200" className="rounded" /></p>
 <h6 className="center-align">Gold: Rylan Nayak, Sivansh Prasa, Thanvika Hariharan, Vedashruti Devari</h6>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/CTF25S.JPG" alt="" width="300" height="200" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/CTF25S.png" alt="" width="300" height="200" className="rounded" /></p>
 <h6 className="center-align">Silver: Aadya Pandranki, Shree Aytam, Mishika Rout, Lakshaya Senthilkumar</h6>
 </div>
 
@@ -698,19 +711,19 @@ const steam = () => {
 <h4 className="center-align">Grade 6-8</h4>
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/CTF68G.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/CTF68G.png" alt="" width="150" height="150" className="rounded" /></p>
 <h6 className="center-align">Gold: Ryan Nayak</h6>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/CTF68S.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/CTF68S.png" alt="" width="150" height="150" className="rounded" /></p>
 <h6 className="center-align">Silver: Rayansh Pitti</h6>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/CTF68B.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/CTF68B.png" alt="" width="150" height="150" className="rounded" /></p>
 <h6 className="center-align">Bronze: Aashrith Pulumati</h6>
 </div>
 
@@ -721,19 +734,19 @@ const steam = () => {
 <h4 className="center-align">Grade 9-12</h4>
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/CTF912G.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/CTF912G.png" alt="" width="150" height="150" className="rounded" /></p>
 <h6 className="center-align">Gold: Vatsel Sudera</h6>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/CTF912S.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/CTF912S.png" alt="" width="150" height="150" className="rounded" /></p>
 <h6 className="center-align">Silver: Vishu Devari</h6>
 </div>
 
 <div className="col-sm">
 
-<p className="center-align"><img src="/images/steam/2024/CTF912B.JPG" alt="" width="150" height="150" className="rounded" /></p>
+<p className="center-align"><img src="/images/steam/2024/CTF912B.png" alt="" width="150" height="150" className="rounded" /></p>
 <h6 className="center-align">Bronze: Shriyans Gurijala</h6>
 </div>
 
