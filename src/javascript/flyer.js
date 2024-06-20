@@ -8,6 +8,7 @@ const Flyer = () => {
     //console.log("testing testing testing");
     //console.log(name);
     //console.log(name.localeCompare("ygc"));
+    //test
     if (name.localeCompare("ygc") == 0) {
         flyerName = "YGC";
     } else if (name.localeCompare("kitefest") == 0) {
