@@ -46,8 +46,10 @@ import YGC2024 from './javascript/YGC/ygc2024';
 import YGC2025 from './javascript/YGC/ygc2025';
 import YGC2026 from './javascript/YGC/ygc2026';
 import YGC2027 from './javascript/YGC/ygc2027';
+import Flyer from './javascript/flyer';
 
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
   const title = "Welcome to the new blog";
@@ -61,51 +63,52 @@ function App() {
         <Navbar />
         <div className="content">
           <Routes>
-            <Route path="/" element={<Home/>}/>
-            <Route path="/test" element={<Home/>}/>
-            <Route path="/about" element={<About/>}/>
-            <Route path="/newsLetter" element={<NewsLetter/>}/>
-            <Route path="/board" element={<Board/>}/>
-            <Route path="/committee" element={<Committee/>}/>
-            <Route path="/report" element={<Report/>}/>
-            <Route path="/kitefest" element={<KiteFest/>}/>
-            <Route path="/yicu" element={<YICU/>}/>
-            <Route path="/ygc" element={<YGC/>}/>
-            <Route path="/contact" element={<Contact/>}/>
-            <Route path="/projects" element={<Projects/>}/>
-            <Route path="/donate" element={<Donate/>}/>
-            <Route path="/grant" element={<Grant/>}/>
-            <Route path="/maya-book-project" element={<MayaBookProject/>}/>
-            <Route path="/nirmaan" element={<Nirmaan/>}/>
-            <Route path="/safe-passage" element={<SafePassage/>}/>
-            <Route path="/yabal" element={<Yabal/>}/>
-            <Route path="/el-porvenir" element={<ElPorvenir/>}/>
-            <Route path="/ihf" element={<IHF/>}/>
-            <Route path="/kyc" element={<KYC/>}/>
-            <Route path="/demo" element={<DEMO/>}/>
-            <Route path="/steam" element={<STEAM/>}/>
-            <Route path="/yicu2016" element={<YICU2016/>}/>
-            <Route path="/yicu2017" element={<YICU2017/>}/>
-            <Route path="/yicu2018" element={<YICU2018/>}/>
-            <Route path="/yicu2019" element={<YICU2019/>}/>
-            <Route path="/yicu2020" element={<YICU2020/>}/>
-            <Route path="/yicu2021" element={<YICU2021/>}/>
-            <Route path="/yicu2022" element={<YICU2022/>}/>
-            <Route path="/yicu2023" element={<YICU2023/>}/>
-            <Route path="/yicu2024" element={<YICU2024/>}/>
-            <Route path="/ygc2016" element={<YGC2016/>}/>
-            <Route path="/ygc2017" element={<YGC2017/>}/>
-            <Route path="/ygc2018" element={<YGC2018/>}/>
-            <Route path="/ygc2019" element={<YGC2019/>}/>
-            <Route path="/ygc2020" element={<YGC2020/>}/>
-            <Route path="/ygc2021" element={<YGC2021/>}/>
-            <Route path="/ygc2022" element={<YGC2022/>}/>
-            <Route path="/ygc2023" element={<YGC2023/>}/>
-            <Route path="/ygc2024" element={<YGC2024/>}/>
-            <Route path="/ygc2025" element={<YGC2025/>}/>
-            <Route path="/ygc2026" element={<YGC2026/>}/>
-            <Route path="/ygc2027" element={<YGC2027/>}/>
-            <Route path="/*" element={<NotFoundPage/>} />
+            <Route path="/" element={<Home />} />
+            <Route path="/test" element={<Home />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/newsLetter" element={<NewsLetter />} />
+            <Route path="/board" element={<Board />} />
+            <Route path="/committee" element={<Committee />} />
+            <Route path="/report" element={<Report />} />
+            <Route path="/kitefest" element={<KiteFest />} />
+            <Route path="/yicu" element={<YICU />} />
+            <Route path="/ygc" element={<YGC />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/projects" element={<Projects />} />
+            <Route path="/donate" element={<Donate />} />
+            <Route path="/grant" element={<Grant />} />
+            <Route path="/maya-book-project" element={<MayaBookProject />} />
+            <Route path="/nirmaan" element={<Nirmaan />} />
+            <Route path="/safe-passage" element={<SafePassage />} />
+            <Route path="/yabal" element={<Yabal />} />
+            <Route path="/el-porvenir" element={<ElPorvenir />} />
+            <Route path="/ihf" element={<IHF />} />
+            <Route path="/kyc" element={<KYC />} />
+            <Route path="/demo" element={<DEMO />} />
+            <Route path="/steam" element={<STEAM />} />
+            <Route path="/yicu2016" element={<YICU2016 />} />
+            <Route path="/yicu2017" element={<YICU2017 />} />
+            <Route path="/yicu2018" element={<YICU2018 />} />
+            <Route path="/yicu2019" element={<YICU2019 />} />
+            <Route path="/yicu2020" element={<YICU2020 />} />
+            <Route path="/yicu2021" element={<YICU2021 />} />
+            <Route path="/yicu2022" element={<YICU2022 />} />
+            <Route path="/yicu2023" element={<YICU2023 />} />
+            <Route path="/yicu2024" element={<YICU2024 />} />
+            <Route path="/ygc2016" element={<YGC2016 />} />
+            <Route path="/ygc2017" element={<YGC2017 />} />
+            <Route path="/ygc2018" element={<YGC2018 />} />
+            <Route path="/ygc2019" element={<YGC2019 />} />
+            <Route path="/ygc2020" element={<YGC2020 />} />
+            <Route path="/ygc2021" element={<YGC2021 />} />
+            <Route path="/ygc2022" element={<YGC2022 />} />
+            <Route path="/ygc2023" element={<YGC2023 />} />
+            <Route path="/ygc2024" element={<YGC2024 />} />
+            <Route path="/ygc2025" element={<YGC2025 />} />
+            <Route path="/ygc2026" element={<YGC2026 />} />
+            <Route path="/ygc2027" element={<YGC2027 />} />
+            <Route path="/flyer/:name" element={<Flyer />} />
+            <Route path="/*" element={<NotFoundPage />} />
           </Routes>
 
         </div>
