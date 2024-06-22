@@ -1,34 +1,51 @@
 import { useState } from 'react';
 import '../styles/Home.css';
 import { useParams } from 'react-router-dom';
+import projectData from '../data/projectData.json';
+import parse from 'html-react-parser';
+
 
 const Project = () => {
     const { name } = useParams();
-    var flyerName = "YGC";
-    //console.log("testing testing testing");
-    //console.log(name);
-    //console.log(name.localeCompare("ygc"));
-    //test
-    if (name.localeCompare("ygc") == 0) {
-        flyerName = "YGC";
-    } else if (name.localeCompare("kitefest") == 0) {
-        flyerName = "KiteFest2024";
-    } else if (name.localeCompare("nonprofitfair") == 0) {
-        flyerName = "KiteFest-NonProfitFair";
-    } else if (name.localeCompare("sponsor") == 0) {
-        flyerName = "KiteFest-Sponsor";
-    } else if (name.localeCompare("talent") == 0) {
-        flyerName = "KiteFest-Talent";
-    }
+    var projectName = name;
 
-    var source = "/images/flyers/" + flyerName + ".jpg";
+
+    //if (name.localeCompare("ygc") == 0) {
+    //    projectName = "YGC";
+    // }
+
+    var loc = 0;
+    projectData.projects.map((project, index) => {
+        if (project.uriName.localeCompare(projectName) == 0) {
+            loc = index;
+        }
+    });
+
+    //var source = "/images/flyers/" + projectName + ".jpg";
     return (
         <div className="container">
-            <div>
-                <div>
-                    <p className="center-align rounded"><img src={source} alt="" width="100%" /></p>
+            <div className="row">
+
+                <div className="col-sm">
+                    <p className="center-align"><img src={"/images/projects/" + projectData.projects[loc].logo} alt="" width="150" height="150" className="rounded" /></p>
+                    <h2 className="center-align"><a href={projectData.projects[loc].uri}><b>{projectData.projects[loc].name}</b></a></h2>
+                    <p >&nbsp;</p>
+                    <h5 className="justify  "><i >{parse(projectData.projects[loc].desc)}</i></h5>
                 </div>
+
             </div>
+            {(typeof projectData.projects[loc].pic1) != "undefined" &&
+
+                <div className="row">
+                    <p >&nbsp;&nbsp;</p>
+                    <div className="col-sm">
+                        <p className="center-align"><img src={"/images/projects/" + projectData.projects[loc].pic1} alt="" className="rounded" /></p>
+                        <h5 className="center-align">{parse(projectData.projects[loc].desc1)}</h5>
+                    </div>
+                </div>
+            }
+
+
         </div>
     );
 }
