@@ -39,7 +39,7 @@ const Project = () => {
                 <div className="row">
                     <p >&nbsp;&nbsp;</p>
                     <div className="col-sm">
-                        <p className="center-align"><img src={"/images/projects/" + projectData.projects[loc].pic1} alt="" className="rounded" /></p>
+                        <p className="center-align"><img src={"/images/projects/" + projectData.projects[loc].pic1} alt="" width="80%" className="rounded" /></p>
                         <h5 className="center-align">{parse(projectData.projects[loc].desc1)}</h5>
                     </div>
                 </div>
