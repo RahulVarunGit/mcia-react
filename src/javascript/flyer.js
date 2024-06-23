@@ -1,24 +1,20 @@
 import { useState } from 'react';
 import '../styles/Home.css';
 import { useParams } from 'react-router-dom';
+import flyerData from '../data/flyerData.json';
 
 const Flyer = () => {
     const { name } = useParams();
     var flyerName = "YGC";
 
-    if (name.localeCompare("ygc") == 0) {
-        flyerName = "YGC";
-    } else if (name.localeCompare("kitefest2024") == 0) {
-        flyerName = "KiteFest2024";
-    } else if (name.localeCompare("nonprofitfair") == 0) {
-        flyerName = "KiteFest-NonProfitFair";
-    } else if (name.localeCompare("sponsor") == 0) {
-        flyerName = "KiteFest-Sponsor";
-    } else if (name.localeCompare("talent") == 0) {
-        flyerName = "KiteFest-Talent";
-    }
+    flyerData.flyers.map((flyer, index) => {
+        if (name.localeCompare(flyer.link) == 0) {
+            flyerName = flyer.file;
+        }
+    });
 
-    var source = "/images/flyers/" + flyerName + ".jpg";
+    var source = "/images/flyers/" + flyerName;
+
     return (
         <div className="container">
             <div>
