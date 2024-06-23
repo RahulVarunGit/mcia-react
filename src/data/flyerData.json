@@ -1,0 +1,29 @@
+{
+    "flyers": [
+        {
+            "name": "YGC",
+            "file": "YGC.jpg",
+            "link": "/flyer/ygc"
+        },
+        {
+            "name": "Kite Fest 2024",
+            "file": "KiteFest2024.jpg",
+            "link": "/flyer/kitefest2024"
+        },
+        {
+            "name": "Kite Fest 2024 - Nonprofit Fair",
+            "file": "KiteFest-NonProfitFair.jpg",
+            "link": "/flyer/nonprofitfair"
+        },
+        {
+            "name": "Kite Fest 2024 - Sponsor",
+            "file": "KiteFest-Sponsor.jpg",
+            "link": "/flyer/sponsor"
+        },
+        {
+            "name": "Kite Fest 2024 - Talent Show",
+            "file": "KiteFest-Talent.jpg",
+            "link": "/flyer/talent"
+        }
+    ]
+}

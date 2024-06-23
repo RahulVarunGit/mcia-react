@@ -5,13 +5,10 @@ import { useParams } from 'react-router-dom';
 const Flyer = () => {
     const { name } = useParams();
     var flyerName = "YGC";
-    //console.log("testing testing testing");
-    //console.log(name);
-    //console.log(name.localeCompare("ygc"));
-    //test
+
     if (name.localeCompare("ygc") == 0) {
         flyerName = "YGC";
-    } else if (name.localeCompare("kitefest") == 0) {
+    } else if (name.localeCompare("kitefest2024") == 0) {
         flyerName = "KiteFest2024";
     } else if (name.localeCompare("nonprofitfair") == 0) {
         flyerName = "KiteFest-NonProfitFair";
