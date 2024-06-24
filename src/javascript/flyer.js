@@ -5,13 +5,15 @@ import flyerData from '../data/flyerData.json';
 
 const Flyer = () => {
     const { name } = useParams();
-    var flyerName = "YGC";
+    var flyerName = "YGC.jpg";
 
     flyerData.flyers.map((flyer, index) => {
         if (name.localeCompare(flyer.link) == 0) {
             flyerName = flyer.file;
         }
     });
+
+    console.log(flyerName);
 
     var source = "/images/flyers/" + flyerName;
 
