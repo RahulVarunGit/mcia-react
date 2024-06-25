@@ -48,6 +48,7 @@ import YGC2026 from './javascript/YGC/ygc2026';
 import YGC2027 from './javascript/YGC/ygc2027';
 import Flyers from './javascript/flyers';
 import Flyer from './javascript/flyer';
+import ProjectsNew from './javascript/projectsNew';
 import Project from './javascript/project';
 
 
@@ -111,6 +112,7 @@ function App() {
             <Route path="/ygc2027" element={<YGC2027 />} />
             <Route path="/flyers" element={<Flyers />} />
             <Route path="/flyer/:name" element={<Flyer />} />
+            <Route path="/projectsNew" element={<ProjectsNew />} />
             <Route path="/project/:name" element={<Project />} />
             <Route path="/*" element={<NotFoundPage />} />
           </Routes>
