@@ -71,7 +71,7 @@ const projects = () => {
     bld = bld + "<div><hr className=\"hr-line\"></hr></div>";
   }
 
-  //console.log(bld);
+  console.log(bld);
 
 
 
