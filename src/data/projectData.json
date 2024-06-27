@@ -1,6 +1,42 @@
 {
     "projects": [
         {
+            "name": "El Porvenir",
+            "uriName": "el-porvenir",
+            "uri": "https://www.elporvenir.org/",
+            "logo": "El-Porvenir.jpg",
+            "shortDesc": "Water is life. Clean water, improved sanitation, and hygiene education save lives. Watershed restoration ensures clean water for future lives. El Porvenir (‘the future’) is working to provide clean water to improve the health and lives of rural Nicaraguans now and in the future.",
+            "desc": "<b>El Porvenir</b> works to provide water and sanitation to communities in Nicaragua. They likewise facilitate watershed management programs, which \"promotes water flow, increases food security, and reduces the impact of climate change.\" El Porvenir has used FBT funding to partner with an estimated 129 residents in the rural village of San Jose Kasquita Guano in Waslala, Matagalpa for improved access to clean water using a gravity-fed, piped water distribution system from a tank filled from a spring capture.",
+            "type": "G"
+        },
+        {
+            "name": "VOC Rural Development Centre",
+            "uriName": "voc",
+            "uri": "http://vocrdc.org/",
+            "logo": "voc.png",
+            "shortDesc": "VOC Rural Development Centre (VOCRDC) is dedicated to engendering a new social order through their interventions and development programs. Their mission is to empower every individual, with a special focus on women and children, to live their lives exuberantly to the fullest.",
+            "desc": "VOC Rural Development Centre (VOCRDC) is dedicated to engendering a new social order through their interventions and development programs. Their mission is to empower every individual, with a special focus on women and children, to live their lives exuberantly to the fullest. The primary objective of this project is to tackle the pressing issue of insufficient potable water affecting 1300 students and 50 staff members at the girls' higher secondary school in Vadipatti, Tamilnadu, India, while also providing clean water access to 200 nearby families.",
+            "type": "G"
+        },
+        {
+            "name": "Nyamboyo Technical School",
+            "uriName": "nyamboyo",
+            "uri": "www.nyamboyotechnical.org",
+            "logo": "nyamboyo.png",
+            "shortDesc": "Nyamboyo Technical School (NTS) is a community-based, three-year vocational school for teens ages 14-20. Their mission is to create a model program that moves Kenya’s poorest youth and their families out of poverty.",
+            "desc": "Nyamboyo Technical School (NTS) is a community-based, three-year vocational school for teens ages 14-20. Their mission is to create a model program that moves Kenya’s poorest youth and their families out of poverty through vocational education, educational support programs, business education, nutrition, health education, and community engagement. With FBT funding, 110 students in Nyamboyo Village will have expanded instruction in electrical wiring, hairdressing, masonry, carpentry, and tailoring.",
+            "type": "G"
+        },
+        {
+            "name": "Friends of Guéoul",
+            "uriName": "friends-of-gueoul",
+            "uri": "https://gueoul.org",
+            "logo": "gueoul.png",
+            "shortDesc": "Friends of Guéoul (FoG) is a 501(c)(3) non-profit organization whose mission is to enable female students in Guéoul, Senegal to achieve economic and life successes by creating access to education through annual scholarships and learning enrichment opportunities to pursue education through high school and beyond.",
+            "desc": "Friends of Guéoul (FoG) is a 501(c)(3) non-profit organization whose mission is to enable female students in Guéoul, Senegal to achieve economic and life successes by creating access to education through annual scholarships and learning enrichment opportunities to pursue education through high school and beyond. FoG envisions a world in which girls who were not once a part of the educational processes have continued access to education at equal rates as their male counterparts. With the grant received from FBT, FoG will be able to purchase 95 refurbished laptops and educational programs to improve their students’ learning experiences.",
+            "type": "G"
+        },
+        {
             "name": "Maya Book Project",
             "uriName": "maya-book-project",
             "uri": "https://www.margaritosforest.com/the-maya-book-project/",
@@ -8,16 +44,6 @@
             "shortDesc": "The book is an extremely important resource for educators and students. Its message about protecting the environment and caring for the forests is so important for students. The book reinforces reading and writing in K’iche’, English, and Spanish, and it connects students to the roots of their culture and ancestors. It is a family story of someone from the students’ own community and culture.",
             "desc": "For a Better Tomorrow is funding the reprinting of 3000 more copies of Margarito’s Forest, and the books should be ready for distribution in Guatemalan schools by the beginning of the school year in January 2020. The impact of these books is best expressed by the teachers who will use them. Said one, “The book is an extremely important resource for educators and students. Its message about protecting the environment and caring for the forests is so important for students. The book reinforces reading and writing in K’iche’, English, and Spanish, and it connects students to the roots of their culture and ancestors. It is a family story of someone from the students’ own community and culture.” Another teacher said, “The translation of K’iche’ by Eduardo is wonderfully done. For many K’iche’-speaking communities, they never learned to write or read well in their own language, even the teachers. This is a great resource for teaching K’iche’ to students. \" Because many classNamerooms have no books at all, Margarito’s Forest is an especially important teaching tool. One teacher commented, “Being able to read a story in their own language, about their own neighbors, and stories from their own people is incredible. \" ",
             "afs": 8400,
-            "type": "G"
-        },
-        {
-            "name": "El Porvenir",
-            "uriName": "el-porvenir",
-            "uri": "https://www.elporvenir.org/",
-            "logo": "El-Porvenir.jpg",
-            "shortDesc": "El Porvenir works to provide water and sanitation to communities in Nicaragua. They likewise facilitate watershed management programs, which \"promotes water flow, increases food security, and reduces the impact of climate change.\" To this end, this project is intended to support the water distribution system for Regadillo, Nicaragua.",
-            "desc": "<b>El Porvenir</b> works to provide water and sanitation to communities in Nicaragua. They likewise facilitate watershed management programs, which \"promotes water flow, increases food security, and reduces the impact of climate change.\" To this end, this project is intended to support the water distribution system for Regadillo, Nicaragua. The community already has a well in place but needs funding for the distribution of the water to the local homes. There is a matching donor for this project (<b>The Jackson Kemper Foundation</b>), which will fund non-material costs of the project.",
-            "afs": 12500,
             "type": "G"
         },
         {
@@ -33,7 +59,7 @@
         {
             "name": "Yabal Guatemala",
             "uriName": "yabal",
-            "uri": "https://www.integralheartfoundation.org/",
+            "uri": "https://yabal.org",
             "logo": "Yabal.jpg",
             "shortDesc": "Yabal Guatemala promotes the empowerment of indigenous women and their families in rural Guatemalan highland communities through a focus on their economic self-sufficiency.",
             "desc": "Yabal Guatemala promotes the empowerment of indigenous women and their families in rural Guatemalan highland communities through a focus on their economic self-sufficiency. Yabal believes that women are the center of the family and home with the greatest influence over the success of their children- the future generation of the community. Yabal Guatemala focuses on the economic independence of women, education, food security, and the promotion of entrepreneurship as paths towards sustainability and poverty reduction for rural indigenous communities.<br> Y’abal will expand their food security program through a chicken raising project in the Guatemalan communities of Pacutama and Chuicutama. This project will provide local families with a source of protein as well as income for the women in the community. This funding will provide the initial purchase of the baby chicks, the construction of chicken coops, materials for chicken feed, and vaccinations. A separate donor will provide funding for training the community members to raise and care for the chickens.",
@@ -45,9 +71,8 @@
             "uriName": "ihf",
             "uri": "https://www.integralheartfoundation.org/",
             "logo": "IHF.jpg",
-            "shortDesc": "Our school is currently home to 80 children with 6 learning programs, a Teacher-Training Program and serves 1,500 meals and snacks every month. Since 2011, our programs have delivered classNamees and support to over 1,200 students and their families in Guatemala.",
-            "desc": "Education is the heart of our work. Our school is currently home to 80 children with 6 learning programs, a Teacher-Training Program and serves 1,500 meals and snacks every month. Since 2011, our programs have delivered classNamees and support to over 1,200 students and their families in Guatemala. We have also provided over 2,500 food baskets to our 40 sponsored families.",
-            "afs": 8400,
+            "shortDesc": "Education is the heart of Integral Heart’s work. Their school is home to 80 children with 6 learning programs and a Teacher-Training Program and serves 1,500 meals and snacks every month. Since 2011, their programs have delivered class and support to over 1,200 students and their families in Guatemala. They have also provided over 2,500 food baskets to our 40 sponsored families.",
+            "desc": "Education is the heart of Integral Heart’s work. Their school is home to 80 children with 6 learning programs and a Teacher-Training Program and serves 1,500 meals and snacks every month. Since 2011, their programs have delivered class and support to over 1,200 students and their families in Guatemala. They have also provided over 2,500 food baskets to our 40 sponsored families. Most children in Guatemala have no access to intellectual stimulation, spending their formative years on their mothers' backs as they pick coffee or firewood in the mountains, and often beginning their lives of menial labor at three or four years old. Without access to nearby schools, many families are not able to educate their children. Integral Heart delivers a safe container for education, cleanliness, laughs, and love, as children are able to just be children while simultaneously being intellectually stimulated. While they are being taught the fundamentals of reading and writing, they also learn to appreciate the value of maintaining personal hygiene. Integral Heart takes care of each child's nutrition, physical health, and emotional growth.",
             "type": "G"
         },
         {
@@ -59,6 +84,66 @@
             "desc": "Konnect Youth Consortium (KYC) is a non-profit, non-governmental organization (NGO) based in Kericho and Narok Counties, South Rift Valley province of Kenya. KYC implements HIV/AIDS Prevention, Sexual and Reproductive Health Services, peacebuilding, environmental conservation, and economic strengthening programs targeting young people.",
             "afs": 7230,
             "type": "G"
+        },
+        {
+            "name": "Back 2 School Shoes",
+            "uriName": "b2s",
+            "uri": "https://www.back2schoolalliance.org/",
+            "logo": "b2s.png",
+            "shortDesc": "Back 2 School Shoes’s mission is to provide shoes, new or gently used, to public school students. These shoes will fit and be clean, allowing students to not be embarrassed about their shoes. Back 2 School Shoes allows students to foster a healthy relationship with education.",
+            "desc": "Back 2 School Shoes’s mission is to provide shoes, new or gently used, to public school students. These shoes will fit and be clean, allowing students to not be embarrassed about their shoes. Back 2 School Shoes allows students to foster a healthy relationship with education. Since September 2020, they have distributed 268 pairs of new and used shoes. This has increased each year as more people are aware of the program. Students are referred by school counselors when the need for new shoes is apparent in a classroom. This year as of January 25, there have been 106 pairs distributed.",
+            "type": "L"
+        },
+        {
+            "name": "One Hope Project",
+            "uriName": "one-hope-project",
+            "uri": "https://www.onehopeproject.org",
+            "logo": "one-hope-project.png",
+            "shortDesc": "One Hope Project’s mission is to walk alongside clients on their journey to recovery from eating disorders through education, intervention, and treatment. FBT funding will allow One Hope Project to increase the number of support groups they offer. Doing so will help them not only serve more clients but also assist individuals on their road to recovery by providing a safe and inviting space where they can relate to those who are in similar stages of life.",
+            "desc": "One Hope Project’s mission is to walk alongside clients on their journey to recovery from eating disorders through education, intervention, and treatment. FBT funding will allow One Hope Project to increase the number of support groups they offer. Doing so will help them not only serve more clients but also assist individuals on their road to recovery by providing a safe and inviting space where they can relate to those who are in similar stages of life. Overall feedback from these groups has been positive and encouraging. When reviewing post-group assessments, clients reflected by saying things such as, \"This group came at just the right time in my recovery\" and \"It felt like a lifeline had been thrown to me.\"",
+            "pic1": "one-hope-project-e1.png",
+            "desc1": "FBT delivering funds to One Hope Project.",
+            "type": "L"
+        },
+        {
+            "name": "YWCA McLean County",
+            "uriName": "ywca",
+            "uri": "https://www.ywcamclean.org",
+            "logo": "ywca.png",
+            "shortDesc": "YWCA McLean County is on a mission to eliminate racism, empower women, and promote peace, justice, freedom, and dignity for all through services, advocacy, and education. Their Anti-Bias program will focus on increasing knowledge and understanding of diversity and acceptance for children ages 5-12.",
+            "desc": "YWCA McLean County is on a mission to eliminate racism, empower women, and promote peace, justice, freedom, and dignity for all through services, advocacy, and education. Their Anti-Bias program will focus on increasing knowledge and understanding of diversity and acceptance for children ages 5-12. The goal is to reach 170 children through providing one-hour lessons/discussions per week to their before- and after-school program participants and their summer camp program at six different locations. The anti-bias curriculum will help children learn how to create a more inclusive environment.",
+            "type": "L"
+        },
+        {
+            "name": "Creative Healing Expressive Arts Center",
+            "uriName": "creative-healing",
+            "uri": "https://www.facebook.com/creativehealingexpressiveartscenter/",
+            "logo": "creative-healing.png",
+            "shortDesc": "Creative Healing Expressive Arts Center’s mission is to connect central Illinois with the expressive arts in mental healthcare. Their goal is to reconnect all who are interested in the healing power of the expressive arts.",
+            "desc": "Creative Healing Expressive Arts Center’s mission is to connect central Illinois with the expressive arts in mental healthcare. Their goal is to reconnect all who are interested in the healing power of the expressive arts. The goal of their Community Outreach program is to raise awareness about the expressive arts as a modality for mental healthcare, to address the stigma and barriers to equitable mental healthcare, to educate youth about the career path to becoming an expressive arts therapist (if they are interested), to support community-based healing practices, and to build a professional community for their proposed Medicaid funded (state insurance-accessed) behavioral health clinic.",
+            "type": "L"
+        },
+        {
+            "name": "Boys & Girls Club of Livingston County",
+            "uriName": "bgc",
+            "uri": "www.bgcolc.org",
+            "logo": "bgc.png",
+            "shortDesc": "BGC Livingston County’s mission is to enable all young people, especially those who need them most, to reach their full potential as productive, caring and responsible citizens.",
+            "desc": "BGC Livingston County’s mission is to enable all young people, especially those who need them most, to reach their full potential as productive, caring and responsible citizens. BGC Livingston County was provided an FBT grant to purchase iPads and online learning software as part of their Project Learn. At the core of this program are high-yield learning activities. High-yield learning activities are fun activities implemented for BGC Livingston County members; they are activities that utilize skills and information critical for the members’ success in school.",
+            "pic1": "bgc-e1.png",
+            "desc1": "FBT delivering funds to Boys & Girls Club of Livingston County.",
+            "type": "L"
+        },
+        {
+            "name": "Illinois Art Station",
+            "uriName": "art-station",
+            "uri": "https://illinoisartstation.org/",
+            "logo": "as.png",
+            "shortDesc": "The mission of Illinois Art Station is to provide young artists and families from all neighborhoods and backgrounds with transformative experiences in the visual arts. Art Works! with Western Avenue Community Center engages young artists in practical skills including sewing and construction/fabrication through the exploration of a curated selection of practicing artists and art mediums.",
+            "desc": "The mission of Illinois Art Station is to provide young artists and families from all neighborhoods and backgrounds with transformative experiences in the visual arts. Art Works! with Western Avenue Community Center (WACC) is a pilot program that entered its second season in Spring 2024. Art Works! engages young artists in practical skills including sewing and construction/fabrication through the exploration of a curated selection of practicing artists and art mediums.",
+            "pic1": "as-e1.png",
+            "desc1": "FBT delivering funds to Illinois Art Station.",
+            "type": "L"
         },
         {
             "name": "Sunnyside Community Garden and Food Forest",
@@ -79,7 +164,7 @@
             "type": "L"
         },
         {
-            "name": "Projet OZ",
+            "name": "Project OZ",
             "uriName": "project-oz",
             "uri": "https://www.projectoz.org/",
             "logo": "project-oz.png",
@@ -92,8 +177,8 @@
             "uriName": "dreams-are-possible",
             "uri": "https://dreamsarepossible.org/",
             "logo": "dreams-are-possible.jpg",
-            "shortDesc": "Dreams are possible is one of the nonprofit beneficiaries from Kite Fest 2019. Mary and Feli have served our community for many years. Kite Fest and For A Better Tomorrow were glad to have supported Dreams are Possible and Labyrinth Outreach Service for Women (YWCA), two nonprofit founded by Mary and Feli.",
-            "desc": "Dreams are possible is one of the nonprofit beneficiaries from Kite Fest 2019. Mary and Feli have served our community for many years. Kite Fest and For A Better Tomorrow were glad to have supported Dreams are Possible and Labyrinth Outreach Service for Women (YWCA), two nonprofit founded by Mary and Feli.",
+            "shortDesc": "Dreams are Possible is one of the non-profit beneficiaries from Kite Fest 2019. Mary and Feli have served our community for many years. Kite Fest and For A Better Tomorrow were glad to have supported Dreams are Possible and Labyrinth Outreach Service for Women (YWCA), two non-profits founded by Mary and Feli.",
+            "desc": "Dreams are Possible is one of the non-profit beneficiaries from Kite Fest 2019. Mary and Feli have served our community for many years. Kite Fest and For A Better Tomorrow were glad to have supported Dreams are Possible and Labyrinth Outreach Service for Women (YWCA), two non-profits founded by Mary and Feli.",
             "type": "L"
         },
         {
@@ -103,111 +188,6 @@
             "logo": "Path-1.png",
             "shortDesc": "PATH runs a 24/7 hotline with phones being answered by well-trained volunteers. In 2018, they want to expand opportunities for people to reach out for help. They offer telephone response; by dialing 2-1-1 people can talk about problems or needs and we can link callers to solutions. However, young adults do a lot of texting and we want to offer this as an option. They purchased software to make this a reality with the funds from the Kite Fest 2018.",
             "desc": "PATH runs a 24/7 hotline with phones being answered by well-trained volunteers. In 2018, they want to expand opportunities for people to reach out for help. They offer telephone response; by dialing 2-1-1 people can talk about problems or needs and we can link callers to solutions. However, young adults do a lot of texting and we want to offer this as an option. They purchased software to make this a reality with the funds from the Kite Fest 2018.",
-            "type": "L"
-        },
-        {
-            "name": "Integral Heart",
-            "uriName": "integral-heart2",
-            "uri": "https://www.integralheartfoundation.org/",
-            "logo": "ihf2.png",
-            "shortDesc": "Integral Heart delivers a safe container for education, cleanliness, laughs, and love, as children are able to just be children while simultaneously being intellectually stimulated.",
-            "desc": "Most children in Guatemala have no access to intellectual stimulation, spending their formative years on their mothers' backs as they pick coffee or firewood in the mountains, and often beginning their lives of menial labor at three or four years old. Without access to nearby schools, many families are not able to educate their children. Integral Heart delivers a safe container for education, cleanliness, laughs, and love, as children are able to just be children while simultaneously being intellectually stimulated. While they are being taught the fundamentals of reading and writing, they also learn to appreciate the value of maintaining personal hygiene. Integral Heart takes care of each child's nutrition, physical health, and emotional growth.",
-            "type": "G"
-        },
-        {
-            "name": "El Porvenir",
-            "uriName": "el-porvenir2",
-            "uri": "www.elporvenir.org",
-            "logo": "El-Porvenir.png",
-            "shortDesc": "El Porvenir has used FBT funding to partner with an estimated 129 residents in the rural village of San Jose Kasquita Guano in Waslala, Matagalpa for improved access to clean water using a gravity-fed, piped water distribution system from a tank filled from a spring capture.",
-            "desc": "Water is life. Clean water, improved sanitation, and hygiene education save lives. Watershed restoration ensures clean water for future lives. El Porvenir (‘the future’) is working to provide clean water to improve the health and lives of rural Nicaraguans now and in the future. El Porvenir has used FBT funding to partner with an estimated 129 residents in the rural village of San Jose Kasquita Guano in Waslala, Matagalpa for improved access to clean water using a gravity-fed, piped water distribution system from a tank filled from a spring capture.",
-            "type": "G"
-        },
-        {
-            "name": "VOC Rural Development Centre",
-            "uriName": "voc",
-            "uri": "http://vocrdc.org/",
-            "logo": "voc.png",
-            "shortDesc": " The primary objective of this project is to tackle the pressing issue of insufficient potable water affecting 1300 students and 50 staff members at the girls' higher secondary school in Vadipatti, Tamilnadu, India, while also providing clean water access to 200 nearby families.",
-            "desc": "VOC Rural Development Centre (VOCRDC) is dedicated to engendering a new social order through their interventions and development programs. Their mission is to empower every individual, with a special focus on women and children, to live their lives exuberantly to the fullest. The primary objective of this project is to tackle the pressing issue of insufficient potable water affecting 1300 students and 50 staff members at the girls' higher secondary school in Vadipatti, Tamilnadu, India, while also providing clean water access to 200 nearby families.",
-            "type": "G"
-        },
-        {
-            "name": "Nyamboyo Technical School",
-            "uriName": "nyamboyo",
-            "uri": "www.nyamboyotechnical.org",
-            "logo": "nyamboyo.png",
-            "shortDesc": "With FBT funding, 110 students in Nyamboyo Village will have expanded instruction in electrical wiring, hairdressing, masonry, carpentry, and tailoring.",
-            "desc": "Nyamboyo Technical School (NTS) is a community-based, three-year vocational school for teens ages 14-20. Their mission is to create a model program that moves Kenya’s poorest youth and their families out of poverty through vocational education, educational support programs, business education, nutrition, health education, and community engagement. With FBT funding, 110 students in Nyamboyo Village will have expanded instruction in electrical wiring, hairdressing, masonry, carpentry, and tailoring.",
-            "type": "G"
-        },
-        {
-            "name": "Friends of Guéoul",
-            "uriName": "friends-of-gueoul",
-            "uri": "https://gueoul.org",
-            "logo": "gueoul.png",
-            "shortDesc": "With the grant received from FBT, FoG will be able to purchase 95 refurbished laptops and educational programs to improve their students’ learning experiences.",
-            "desc": "Friends of Guéoul (FoG) is a 501(c)(3) nonprofit organization whose mission is to enable female students in Guéoul, Senegal to achieve economic and life successes by creating access to education through annual scholarships and learning enrichment opportunities to pursue education through high school and beyond. FoG envisions a world in which girls who were not once a part of the educational processes have continued access to education at equal rates as their male counterparts. With the grant received from FBT, FoG will be able to purchase 95 refurbished laptops and educational programs to improve their students’ learning experiences.",
-            "type": "G"
-        },
-        {
-            "name": "Boys & Girls Club of Livingston County",
-            "uriName": "bgc",
-            "uri": "www.bgcolc.org",
-            "logo": "bgc.png",
-            "shortDesc": "BGC Livingston County’s mission is to enable all young people, especially those who need them most, to reach their full potential as productive, caring and responsible citizens. BGC Livingston County was provided an FBT grant to purchase iPads and online learning software as part of their Project Learn.",
-            "desc": "BGC Livingston County’s mission is to enable all young people, especially those who need them most, to reach their full potential as productive, caring and responsible citizens. BGC Livingston County was provided an FBT grant to purchase iPads and online learning software as part of their Project Learn.",
-            "pic1": "bgc-e1.png",
-            "desc1": "FBT delivering funds to Boys & Girls Club of Livingston County.",
-            "type": "L"
-        },
-        {
-            "name": "Illinois Art Station",
-            "uriName": "art-station",
-            "uri": "https://illinoisartstation.org/",
-            "logo": "as.png",
-            "shortDesc": "The mission of Illinois Art Station is to provide young artists and families from all neighborhoods and backgrounds with transformative experiences in the visual arts. Art Works! with Western Avenue Community Center (WACC) is a pilot program that entered its second season in Spring 2024. Art Works! engages young artists in practical skills including sewing and construction/fabrication through the exploration of a curated selection of practicing artists and art mediums.",
-            "desc": "The mission of Illinois Art Station is to provide young artists and families from all neighborhoods and backgrounds with transformative experiences in the visual arts. Art Works! with Western Avenue Community Center (WACC) is a pilot program that entered its second season in Spring 2024. Art Works! engages young artists in practical skills including sewing and construction/fabrication through the exploration of a curated selection of practicing artists and art mediums.",
-            "pic1": "as-e1.png",
-            "desc1": "FBT delivering funds to Illinois Art Station.",
-            "type": "L"
-        },
-        {
-            "name": "Back 2 School Shoes",
-            "uriName": "b2s",
-            "uri": "https://www.back2schoolalliance.org/",
-            "logo": "b2s.png",
-            "shortDesc": "Back 2 School Shoes’s mission is to provide shoes, new or gently used, to public school students. These shoes will fit and be clean, allowing students to not be embarrassed about their shoes. Back 2 School Shoes allows students to foster a healthy relationship with education.",
-            "desc": "Back 2 School Shoes’s mission is to provide shoes, new or gently used, to public school students. These shoes will fit and be clean, allowing students to not be embarrassed about their shoes. Back 2 School Shoes allows students to foster a healthy relationship with education.",
-            "type": "L"
-        },
-        {
-            "name": "One Hope Project",
-            "uriName": "one-hope-project",
-            "uri": "https://www.onehopeproject.org",
-            "logo": "one-hope-project.png",
-            "shortDesc": "One Hope Project’s mission is to walk alongside clients on their journey to recovery from eating disorders through education, intervention, and treatment. FBT funding will allow One Hope Project to increase the number of support groups they offer. Doing so will help them not only serve more clients but also assist individuals on their road to recovery by providing a safe and inviting space where they can relate to those who are in similar stages of life.",
-            "desc": "One Hope Project’s mission is to walk alongside clients on their journey to recovery from eating disorders through education, intervention, and treatment. FBT funding will allow One Hope Project to increase the number of support groups they offer. Doing so will help them not only serve more clients but also assist individuals on their road to recovery by providing a safe and inviting space where they can relate to those who are in similar stages of life.",
-            "pic1": "one-hope-project-e1.png",
-            "desc1": "FBT delivering funds to One Hope Project.",
-            "type": "L"
-        },
-        {
-            "name": "YWCA McLean County",
-            "uriName": "ywca",
-            "uri": "https://www.ywcamclean.org",
-            "logo": "ywca.png",
-            "shortDesc": "YWCA McLean County is on a mission to eliminate racism, empower women, and promote peace, justice, freedom, and dignity for all through services, advocacy, and education. Their Anti-Bias program will focus on increasing knowledge and understanding of diversity and acceptance for children ages 5-12. The goal is to reach 170 children through providing one-hour lessons/discussions per week to their before- and after-school program participants and their summer camp program at six different locations. The anti-bias curriculum will help children learn how to create a more inclusive environment.",
-            "desc": "YWCA McLean County is on a mission to eliminate racism, empower women, and promote peace, justice, freedom, and dignity for all through services, advocacy, and education. Their Anti-Bias program will focus on increasing knowledge and understanding of diversity and acceptance for children ages 5-12. The goal is to reach 170 children through providing one-hour lessons/discussions per week to their before- and after-school program participants and their summer camp program at six different locations. The anti-bias curriculum will help children learn how to create a more inclusive environment.",
-            "type": "L"
-        },
-        {
-            "name": "Creative Healing Expressive Arts Center",
-            "uriName": "creative-healing",
-            "uri": "https://www.facebook.com/creativehealingexpressiveartscenter/",
-            "logo": "creative-healing.png",
-            "shortDesc": "Creative Healing Expressive Arts Center’s mission is to connect central Illinois with the expressive arts in mental healthcare. Their goal is to reconnect all who are interested in the healing power of the expressive arts. The goal of their Community Outreach program is to raise awareness about the expressive arts as a modality for mental healthcare, to address the stigma and barriers to equitable mental healthcare, to educate youth about the career path to becoming an expressive arts therapist (if they are interested), to support community-based healing practices, and to build a professional community for their proposed Medicaid funded (state insurance-accessed) behavioral health clinic.",
-            "desc": "Creative Healing Expressive Arts Center’s mission is to connect central Illinois with the expressive arts in mental healthcare. Their goal is to reconnect all who are interested in the healing power of the expressive arts. The goal of their Community Outreach program is to raise awareness about the expressive arts as a modality for mental healthcare, to address the stigma and barriers to equitable mental healthcare, to educate youth about the career path to becoming an expressive arts therapist (if they are interested), to support community-based healing practices, and to build a professional community for their proposed Medicaid funded (state insurance-accessed) behavioral health clinic.",
             "type": "L"
         },
         {
