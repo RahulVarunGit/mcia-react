@@ -17,6 +17,10 @@ const projects = () => {
       bld = bld + "<p className=\"center-align\"><a href=\"/project/" + project.uriName + " \"><img src=\"/images/projects/" + project.logo + "\" alt=\"\" width=\"150\" height=\"150\" className=\"rounded\" /></a></p>"
       bld = bld + "<h4 className=\"center-align\"><a href=\"/project/" + project.uriName + " \"><b>" + project.name + "</b></a></h4>"
       bld = bld + "<h6 className=\"justify\">" + project.shortDesc + "</h6>";
+      if (project.afs) {
+        bld = bld + "<h5 classname=\"afs center-align\">Approved Financial Support : $" + project.afs + "</h5>";
+      }
+
       bld = bld + "</div>";
       if (cnt % 3 == 2) {
         bld = bld + "</div>";
