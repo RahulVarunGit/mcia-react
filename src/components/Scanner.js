@@ -13,7 +13,7 @@ function Scanner() {
                 height: 250,
                 experimentalFeatures: { useBarCodeDetectorIfSupported: true }
             },
-            fps: 5
+            fps: 20
         });
 
         scanner.render(success, error);

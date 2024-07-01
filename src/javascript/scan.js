@@ -11,11 +11,10 @@ const Scan = () => {
 
     return (
         <div className="container">
-            <div><h2>Test</h2></div>
-            <div>
-                <div>
+            <div className="App">
+                <h1> Scan Student QR Code:</h1>
+                <Scanner />
 
-                </div>
             </div>
         </div>
     );
