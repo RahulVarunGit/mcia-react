@@ -12,17 +12,26 @@ import YICU from './javascript/YICU';
 import YGC from './javascript/YGC';
 import Donate from './javascript/donate';
 import Contact from './javascript/contact';
-import Projects from './javascript/projects';
+//import Projects from './javascript/projects';
 import KiteFest from './javascript/KiteFest';
 import NotFoundPage from './javascript/NotFoundPage';
 import Grant from './javascript/grant';
-import MayaBookProject from './javascript/maya-book-project';
-import Nirmaan from './javascript/nirmaan';
-import SafePassage from './javascript/safe-passage';
-import Yabal from './javascript/yabal';
-import ElPorvenir from './javascript/el-porvenir';
-import IHF from './javascript/IHF';
-import KYC from './javascript/KYC';
+//import MayaBookProject from './javascript/maya-book-project';
+//import Nirmaan from './javascript/nirmaan';
+//import SafePassage from './javascript/safe-passage';
+//import Yabal from './javascript/yabal';
+//import ElPorvenir from './javascript/el-porvenir';
+//import IHF from './javascript/IHF';
+//import KYC from './javascript/KYC';
+//<Route path="/projects" element={<Projects />} />
+//<Route path="/maya-book-project" element={<MayaBookProject />} />
+//<Route path="/nirmaan" element={<Nirmaan />} />
+//<Route path="/safe-passage" element={<SafePassage />} />
+//<Route path="/yabal" element={<Yabal />} />
+//<Route path="/el-porvenir" element={<ElPorvenir />} />
+//<Route path="/ihf" element={<IHF />} />
+//<Route path="/kyc" element={<KYC />} />
+
 import DEMO from './javascript/demo';
 import STEAM from './javascript/steam';
 import YICU2016 from './javascript/YICU/yicu2016';
@@ -50,6 +59,7 @@ import Flyers from './javascript/flyers';
 import Flyer from './javascript/flyer';
 import ProjectsNew from './javascript/projectsNew';
 import Project from './javascript/project';
+import Scan from './javascript/scan';
 
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
@@ -77,16 +87,9 @@ function App() {
             <Route path="/yicu" element={<YICU />} />
             <Route path="/ygc" element={<YGC />} />
             <Route path="/contact" element={<Contact />} />
-            <Route path="/projects" element={<Projects />} />
+
             <Route path="/donate" element={<Donate />} />
             <Route path="/grant" element={<Grant />} />
-            <Route path="/maya-book-project" element={<MayaBookProject />} />
-            <Route path="/nirmaan" element={<Nirmaan />} />
-            <Route path="/safe-passage" element={<SafePassage />} />
-            <Route path="/yabal" element={<Yabal />} />
-            <Route path="/el-porvenir" element={<ElPorvenir />} />
-            <Route path="/ihf" element={<IHF />} />
-            <Route path="/kyc" element={<KYC />} />
             <Route path="/demo" element={<DEMO />} />
             <Route path="/steam" element={<STEAM />} />
             <Route path="/yicu2016" element={<YICU2016 />} />
@@ -114,6 +117,7 @@ function App() {
             <Route path="/flyer/:name" element={<Flyer />} />
             <Route path="/projectsNew" element={<ProjectsNew />} />
             <Route path="/project/:name" element={<Project />} />
+            <Route path="/scan" element={<Scan />} />
             <Route path="/*" element={<NotFoundPage />} />
           </Routes>
 
