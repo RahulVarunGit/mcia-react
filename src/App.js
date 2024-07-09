@@ -11,6 +11,7 @@ import Report from './javascript/report';
 import YICU from './javascript/YICU';
 import YGC from './javascript/YGC';
 import Donate from './javascript/donate';
+import DonateZelle from './javascript/donateZelle';
 import Contact from './javascript/contact';
 //import Projects from './javascript/projects';
 import KiteFest from './javascript/KiteFest';
@@ -89,6 +90,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
 
             <Route path="/donate" element={<Donate />} />
+            <Route path="/donate/zelle" element={<DonateZelle />} />
             <Route path="/grant" element={<Grant />} />
             <Route path="/demo" element={<DEMO />} />
             <Route path="/steam" element={<STEAM />} />
