@@ -4,7 +4,6 @@ import '../styles/Home.css';
 const donateZelle = () => {
 
   return (
-
     <div className="container">
 
       <div>
@@ -38,33 +37,27 @@ const donateZelle = () => {
         <p >&nbsp;</p>
       </div>
 
+      <div><hr class="hr-line"></hr></div>
+
       <div className="row">
 
-        <div className="col-sm">
+        <p className="center-align"><img src="/images/base/Zelle_Instructions.png" alt="" width="300" height="300" className="rounded" /></p>
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div col className="center-align">
 
           <a className="btn btn-primary btn-lg btn-block" href="/donate" role="button">Other paths to donate</a>
-        </div>
-
-        <div className="col-sm">
-
-
-        </div>
-
-        <div className="col-sm">
-
-
-        </div>
-
-        <div className="col-sm">
-
-
         </div>
 
       </div>
 
       <p >&nbsp;</p>
       <div className="row">
-        <h5 ><b >A heartfelt thank you to all our supporters!</b></h5>
+        <h5 className="center-align"><b >A heartfelt thank you to all our supporters!</b></h5>
       </div>
 
     </div>
