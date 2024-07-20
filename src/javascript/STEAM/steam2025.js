@@ -1,8 +1,9 @@
 import { useState } from 'react';
-import '../styles/Home.css';
-import STEAMnav from '.././STEAM-Nav';
+import '../../styles/Home.css';
+import Wip from '../.././wip';
+import STEAMnav from '../.././STEAM-Nav';
 
-const steam = () => {
+const STEAM2025 = () => {
 
   return (
 
@@ -23,4 +24,4 @@ const steam = () => {
 
   );
 }
-export default steam;
+export default STEAM2025;

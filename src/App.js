@@ -35,6 +35,10 @@ import Grant from './javascript/grant';
 
 import DEMO from './javascript/demo';
 import STEAM from './javascript/steam';
+import STEAM2023 from './javascript/STEAM/steam2027';
+import STEAM2024 from './javascript/STEAM/steam2024';
+import STEAM2025 from './javascript/STEAM/steam2025';
+import STEAM2026 from './javascript/STEAM/steam2026';
 import YICU2016 from './javascript/YICU/yicu2016';
 import YICU2017 from './javascript/YICU/yicu2017';
 import YICU2018 from './javascript/YICU/yicu2018';
@@ -94,6 +98,10 @@ function App() {
             <Route path="/grant" element={<Grant />} />
             <Route path="/demo" element={<DEMO />} />
             <Route path="/steam" element={<STEAM />} />
+            <Route path="/steam2023" element={<STEAM2023 />} />
+            <Route path="/steam2024" element={<STEAM2024 />} />
+            <Route path="/steam2025" element={<STEAM2025 />} />
+            <Route path="/steam2026" element={<STEAM2026 />} />
             <Route path="/yicu2016" element={<YICU2016 />} />
             <Route path="/yicu2017" element={<YICU2017 />} />
             <Route path="/yicu2018" element={<YICU2018 />} />
