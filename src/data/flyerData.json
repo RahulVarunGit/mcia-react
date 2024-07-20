@@ -1,6 +1,11 @@
 {
     "flyers": [
         {
+            "name": "STEAM 2025",
+            "file": "STEAM2025.png",
+            "link": "steam2025"
+        },
+        {
             "name": "YGC",
             "file": "YGC.jpg",
             "link": "ygc"

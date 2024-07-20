@@ -40,7 +40,7 @@ const projects = () => {
     bld = bld + "</div>";
     bld = bld + "<div><hr className=\"hr-line\"></hr></div>";
   }
-
+  bld = bld + "<div><hr className=\"hr-line\"></hr></div>";
   bld = bld + "<div> <h4 className=\"center-align\"><b >Here are the local projects currently supported by For A Better Tomorrow:</b></h4>  </div>"
   bld = bld + "<div><hr className=\"hr-line\"></hr></div>";
   cnt = 0;
