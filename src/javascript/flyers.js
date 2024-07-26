@@ -10,6 +10,7 @@ const Flyers = () => {
     // var flyerName = "YGC";
     //var source = "/images/flyers/" + flyerName + ".jpg";
     var bld = "";
+    var cnt = 0;
 
     flyerData.flyers.map((flyer, index) => {
         if (index % 3 == 0) {
@@ -21,7 +22,17 @@ const Flyers = () => {
         if (index % 3 == 2) {
             bld = bld + "<p> &nbsp; </p> </div>";
         }
+        cnt++;
     });
+    if (cnt % 3 == 1) {
+        bld = bld + "<div className=\"col-sm\"></div><div className=\"col-sm\"></div>";
+        bld = bld + "</div>";
+        bld = bld + "<div><hr className=\"hr-line\"></hr></div>";
+    } else if (cnt % 3 == 2) {
+        bld = bld + "<div className=\"col-sm\"></div>";
+        bld = bld + "</div>";
+        bld = bld + "<div><hr className=\"hr-line\"></hr></div>";
+    }
 
     if (flyerData.flyers.length % 3 != 0) {
         bld = bld + "</div>";

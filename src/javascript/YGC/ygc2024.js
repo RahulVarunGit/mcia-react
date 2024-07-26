@@ -1,154 +1,175 @@
-import {useState} from 'react';
+import { useState } from 'react';
 import '../../styles/Home.css';
 import Wip from '../.././wip';
 import YGCnav from '../.././YGC-Nav';
 
 const ygc2024 = () => {
 
-  return(
+  return (
 
 
 
 
-<div className="container">
-<YGCnav ></YGCnav>
-<div>
-<p className="center-align"><img src="/images/ygc/logo.png"alt="YGC 2023" width="150" height="150" className="rounded center center-align" ></img></p>
-</div>
+    <div className="container">
+      <YGCnav ></YGCnav>
+      <div>
+        <h3 className="center-align"><b >Class of 2024</b></h3>
+      </div>
 
-<div>
-<h2 className="fbt-title"><img src="/images/homePage/Logo.jpg"alt="" width="40" height="40" className="rounded"/>  for a <span className="fbt-title-sub">better</span> tomorrow </h2>
-</div>
+      <div><hr class="hr-line"></hr></div>
 
-<div>
-<h3 className="center-align c-gray"><b >Youth Global Citizen (YGC)</b></h3>
-</div>
+      <p >&nbsp;&nbsp;</p>
+      <div className="row">
 
-<p >&nbsp;&nbsp;</p>
-<div>
-<h4 className="justify c737373">Youth Global Citizen (YGC) is an experiential program for local high school students that develops leadership skills and imparts the significance of service and philanthropy.  Participants develop self-awareness, leadership skills, and learn about diversity, poverty, values, and socioeconomic disparities in our community and in our world. By the end of the program, participants will have invested over fifty hours in program activities and information sessions.</h4>
-</div>
+        <div className="col-sm">
 
-<div>
-<h4 className="justify c737373">However, YGC entails much more than leadership training; it also provides participants with an opportunity to use their newfound skills and awareness to help others and in so doing make a positive contribution to their community and their world.</h4>
-</div>
+          <table className="table table-borderless" >
 
-<p >&nbsp;&nbsp;</p>
-<div>
-<h4 className="center-align c737373"><b >Learning Sessions</b></h4>
-</div>
+            <tbody>
 
-<div>
-<h4 className="justify c737373">The YGC program covers a wide range of topics during the learning sessions, which are facilitated by community members with a depth of knowledge and expertise.</h4>
-</div>
+              <tr className="row">
+                <td className="col-md-12 center-align"><img src="/images/ygc/2024/IMG_6972.jpg" alt="" className="rounded" width="70%"></img></td>
+              </tr>
 
-<div className="row">
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Jeeteshi Giri</b></span></h6>
+                  <h6 >Jeeteshi Giri is a persevering individual, who strives for success, whether it be in a classroom or in an athletic environment. She constantly tries to improve upon her mistakes, and looks for new oppurtunities.</h6>
+                  <h6 ><i >Jeeteshi’s favorite quote: “A month from now.. you can either have a month of progress, or a month of excuses why you didn't.” </i></h6>
+                </td>
 
-<div className="col-sm">
+              </tr>
 
-<ul>
-<li >1. Saturday, July 27th - Kickoff: 10:00am - 2:00pm</li>
-<li >2. Saturday, August 3rd - Learning Session: 10:00 am - 8:00 pm</li>
-<li >3. Saturday, August 10th - Learning Session: 10:00 am - 8:00 pm</li>
-<li >4. Saturday, August 17th - Learning Session: 10:00 am - 8:00 pm</li>
-<li >5. Saturday, September 28th - Closing Session: 10:00 am - 4:00 pm</li>
-</ul>
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Viswambari Devari</b></span></h6>
+                  <h6 >Vishu is an incoming sophomore at Normal Community High School, known for her diverse interests and activities. She loves biking, dancing, skating, and gymnastics, and her passion for learning extends to engineering, science, math, and computer science. At school, Vishu is actively involved in clubs such as FBLA (Future Business Leaders of America), Key Club, and the Film Production Club. She is also dedicated to volunteering and frequently helps out in her community. For the past two years, Vishu has been a valuable member of the FBT Design Team, creating engaging flyers and social media posts.</h6>
+                  <h6 ><i >Vishu’s favorite quote: "The only way to do great work is to love what you do." - Steve Jobs</i></h6>
+                </td>
 
-</div>
+              </tr>
 
-</div >
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Dhruv Dalvi</b></span></h6>
+                  <h6 >Dhruv is a very outgoing person who loves to make friends with everyone. He loves music, theatre, and science. Dhruv unique in his own way, which makes him a very likable person. He enjoys spending time with friends and family whenever possible, as they are his supports and trusted people.</h6>
+                  <h6 ><i >Dhruv’s favorite quote: “The two most important days in your life are the day you are born and the day you find out why.” — Mark Twain</i></h6>
+                </td>
 
-<p >&nbsp;&nbsp;</p>
-<div>
-<h4 className="center-align c737373"><b >Learning Session Topics</b></h4>
-</div>
+              </tr>
 
-<div>
-<h4 className="justify c737373">Learning session topics addressed in YGC may include:</h4>
-</div>
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Elliott Tolentino</b></span></h6>
+                  <h6 >Elliott is a very kind and lighthearted person who always puts others before himself. He is a part of many different programs from a wide variety of sports, councils, and arts. His passion in life is to make sure that all others around him are happy at all times and will do whatever necessary to please them. His calling in life is to make sure that everybody in the world has equal opportunity to find peace of mind and to live happily and carefree.</h6>
+                  <h6 ><i >Elliott’s favorite quote: “Peace cannot be kept by force; it can only be achieved by understanding". -Albert Einstein</i></h6>
+                </td>
 
-<div className="row">
+              </tr>
 
-<div className="col-sm">
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Nikhil Kavutarapu</b></span></h6>
+                  <h6 >Nikhil is an upcoming Junior from Normal Community High School. He strives to continue learning new things, as he believes knowledge in invaluable. He participates in a variety of activities, such as Math Competitions or Chess Tournaments. He is a hard worker, and giving up is never an option for him. Instead, he perseveres. One of Nikhil's biggest goals is to make a large impact in his community!</h6>
+                  <h6 ><i >Nikhil’s favorite quote: "The greatest glory in living lies not in never falling, but in rising every time we fall." – Nelson Mandela</i></h6>
+                </td>
 
-<ul>
-<li >Self-Awareness Development</li>
-<li >Personal Strength Identification</li>
-<li >Social Justice</li>
-<li >Servant Leadership</li>
-<li >Team Building and Collaboration</li>
-</ul>
+              </tr>
 
-</div>
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Manvitha Lella</b></span></h6>
+                  <h6 >Manvitha is a soon-to-be freshman who will be going to Tri-Valley High School. She was born in India and moved to the US when she was young. She first went to school at Northpoint Elementary until Covid-19 hit when she was in 4th grade. During lockdown, Manvitha moved houses and started her 5th grade year at Tri-Valley Middle School. She is now finished with middle school and ready for her high school years.</h6>
+                  <h6 ><i >Manvitha’s favorite quote: "Competition is not about tearing others down, but about building yourself up."</i></h6>
+                </td>
 
-<div className="col-sm">
+              </tr>
 
-<ul>
-<li >Fundraising Strategies</li>
-<li >For a Better Tomorrow Operating Model</li>
-<li >Presentation Skills</li>
-<li >Values Clarification</li>
-<li >Emotional Intelligence</li>
-</ul>
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Pranika Kurella</b></span></h6>
+                  <h6 >Pranika Kurella is currently a sophomore at NCHS. She is a person with a wide range of interests. She loves the thrill but values tranquility. One thing she also loves is learning about medicine/science. Her favorite animals are snakes and white tigers. She catches snakes and other reptiles but strongly dislikes frogs. She adores the unpredictability of the wilderness and despises city life. Her ultimate goal is to become the best surgeon in the world, but above all, she loves fettucini alfredo.</h6>
+                  <h6 ><i >Pranika’s favorite quote: “Fake it ‘till you make it.”</i></h6>
+                </td>
 
-</div>
+              </tr>
 
-</div >
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Pranav Bhookya</b></span></h6>
+                  <h6 >Pranav Bhookya is a current junior at Normal Community high school. He is a very outgoing person: he enjoys meeting new people, talking to old friends, and hanging out with his current ones. Pranav also enjoys being outside, he likes playing sports, going for a swim in the lake, hiking, and driving around any chance he gets. Pranav really likes to read as well, anything from books to newspaper articles, anything that he finds interesting. Nonetheless, Pranav is quite the hard-worker and he’s overall a great person. </h6>
+                  <h6 ><i >Pranav’s favorite quote: “Don't stop when you're tired. Stop when you're done." - David Goggins</i></h6>
+                </td>
 
-<p >&nbsp;&nbsp;</p>
-<div>
-<h4 className="justify c737373">We ask all program participants to fully commit to the sessions. If you are unable to attend all the program sessions in person, please consider applying for the program next year. Besides the learning events, please be prepared to spend at least two additional hours a week in August and September to complete your project assignment.</h4>
-</div>
+              </tr>
 
-<p >&nbsp;&nbsp;</p>
-<div>
-<h4 className="center-align c737373"><b >Project Overview</b></h4>
-</div>
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Pranav Kosaraju</b></span></h6>
+                  <h6 >Pranav is an incoming freshman to NCHS who is passionate about technology and games. Currently excelling in subjects like Math and Science, Pranav is particularly fond of biology and exploring chemistry. Pranav is also an active member of the school's STEM Club and activities, where he enjoys doing science experiments and learning technology. Outside of academics, Pranav is interested in music and play viola and also participates in Robotics. Pranav loves to play outdoor as well as video games and enjoys playing basket ball and cricket.</h6>
+                  <h6 ><i >Pranav’s favorite quote: “Education is the strongest tool we have to make a difference in the world."</i></h6>
+                </td>
 
-<div>
-<h4 className="justify c737373">Participants work actively to support a local non-profit organization, and this active involvement allows participants to put their developing leadership skills to immediate use. By pairing learning with action, YGC ensures that participants are knowledgeable about how they can become engaged citizens and equips participants to do so through hands-on experience in the program.</h4>
-</div>
+              </tr>
 
-<p >&nbsp;&nbsp;</p>
-<div>
-<h4 className="center-align cBlue"><b ><a href="https://docs.google.com/document/d/10si-3x2quUG_PT_Ppa_HlaUJcNVAvY86asyzwmrNayU/edit#heading=h.6jynaot9cbnq">Click here for additional information</a></b></h4>
-</div>
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Harini Magesh</b></span></h6>
+                  <h6 >Hi! I'm Harini Magesh and I am a rising senior at Normal Community High School. Ever since a young age my biggest goal in life is to help those in need. This is my biggest reason for wanting to go into a field of science where lots of innovation occurs for the greater good. I am thrilled to be a part of YGC and can't wait to meet you all!</h6>
+                  <h6 ><i >Harini’s favorite quote: "There is no passion to be found playing small--in settling for a life that is less than the one you are capable of living." -Nelson Mandela</i></h6>
+                </td>
 
-<p >&nbsp;&nbsp;</p>
-<div className="row">
+              </tr>
 
-<div className="col-sm-1 ">
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Rianna Evans </b></span></h6>
+                  <h6 >Rianna lives with her parents and older brother in Bloomington Illinois. She goes to Bloomington High School. Shes loves spending time with her friends, going on bike rides, and trips to the beach. Rianna loves music, she sings and plays the piano. She’s in her school choir and is a vocalist for the junior high worship band at Eastview Christian Church. </h6>
+                  <h6 ><i >Rianna’s favorite quote: “Just one small positive thought in the morning can change your whole day.” -Dalai Lama</i></h6>
+                </td>
 
-</div>
+              </tr>
 
-<div className="col-sm-4 bg-info border">
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Soumili Aich</b></span></h6>
+                  <h6 >Soumili Aich is a highschooler who aspires to learn and explore as much as she can about the world. She aims to make a positive difference in her community, even if it is a small one. Her strategic approach to every problem and analyzing different outcomes leads her to flawlessly choose the best route both for her, and the people she works with. Additionally, Soumili is an outgoing person who enjoys getting to know new people.</h6>
+                  <h6 ><i >Soumili’s favorite quote: "The self is made, not given"</i></h6>
+                </td>
 
-<p ></p>
-<h3 className="center-align c-white"   ><a href="http://tinyurl.com/ygc-app"><b><span className="c-white">Interested</span></b></a></h3>
-<h4 className="center-align c-ivory"   ><a href="http://tinyurl.com/ygc-app"><b><span className="c-ivory">Let us know with this quick form</span></b></a></h4>
-<p ></p>
-</div>
+              </tr>
 
-<div className="col-sm-2 ">
+              <tr className="row">
+                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
+                <td className="col-md-9">
+                  <h6 ><span ><b >Savannah </b></span></h6>
+                  <h6 >Savannah is an outgoing girl who kinda likes to do new things. Shes not very organized, but she still gets things done even if its not on time. She spends alot of time with her best friends, but when shes not she spends her time with her family and enjoys every minute. Savannah knows a thing or two on team work because she is in marching. She works with them all the time weather its at rehearsal or competition. She also loves to win but when she loses she doesnt get to upset, she learns from the experiences and help her to do better next time. Savannah is not a big fan on meeting new people, but she hopes this organization can help her communicate more and make more friends. I am the type of person to get work done when asked to. I think about my future alot and how I can succeed in life and make sure I can take care of myself and my family. I am not that organized but I still get things done even if its a little late. I am in marching band so I know a thing or two on teamwork. Weather if its just for rehearsal or for competition. And I lobe to win at things but wouldn't be mad if I lost because I can learn from that and win the next time.</h6>
+                  <h6 ><i ></i></h6>
+                </td>
 
-</div>
+              </tr>
 
-<div className="col-sm-4  bg-info border">
+            </tbody>
 
-<p ></p>
-<h3 className="center-align c-white"   ><a href="http://tinyurl.com/ygc-nom"><b><span className="c-white">Nominations</span></b></a></h3>
-<h4 className="center-align c-ivory"   ><a href="http://tinyurl.com/ygc-nom"><b><span className="c-ivory">Share your recommendations here</span></b></a></h4>
-<p ></p>
-</div>
+          </table>
 
-<div className="col-sm-1 ">
+        </div>
 
-</div>
+      </div>
 
-</div>
-
-<p >&nbsp;&nbsp;</p>
-</div>
+    </div>
 
 
 
