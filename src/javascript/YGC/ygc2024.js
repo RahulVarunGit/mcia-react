@@ -13,6 +13,10 @@ const ygc2024 = () => {
     <div className="container">
       <YGCnav ></YGCnav>
       <div>
+        <p className="center-align"><img src="/images/ygc/2024/YGC_2024.png" alt="" width="200" height="100" className="rounded center center-align" ></img></p>
+      </div>
+
+      <div>
         <h3 className="center-align"><b >Class of 2024</b></h3>
       </div>
 
@@ -28,7 +32,7 @@ const ygc2024 = () => {
             <tbody>
 
               <tr className="row">
-                <td className="col-md-12 center-align"><img src="/images/ygc/2024/IMG_6972.jpg" alt="" className="rounded" width="70%"></img></td>
+                <td className="col-md-12 center-align"><img src="/images/ygc/2024/YGC_Class_2024.png" alt="" className="rounded" width="70%"></img></td>
               </tr>
 
               <tr className="row">
@@ -170,7 +174,6 @@ const ygc2024 = () => {
       </div>
 
     </div>
-
 
 
 
