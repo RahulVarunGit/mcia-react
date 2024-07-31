@@ -9,7 +9,6 @@ const ygc2024 = () => {
 
 
 
-
     <div className="container">
       <YGCnav ></YGCnav>
       <div>
@@ -51,16 +50,6 @@ const ygc2024 = () => {
                   <h6 ><span ><b >Elliott Tolentino</b></span></h6>
                   <h6 >Elliott is a very kind and lighthearted person who always puts others before himself. He is a part of many different programs from a wide variety of sports, councils, and arts. His passion in life is to make sure that all others around him are happy at all times and will do whatever necessary to please them. His calling in life is to make sure that everybody in the world has equal opportunity to find peace of mind and to live happily and carefree.</h6>
                   <h6 ><i >Elliott s favorite quote:  Peace cannot be kept by force; it can only be achieved by understanding". -Albert Einstein</i></h6>
-                </td>
-
-              </tr>
-
-              <tr className="row">
-                <td className="col-md-3 center-align"><img src="/images/base/Contact-1.png" alt="Class of 2019" width="150" height="150" className="rounded-circle"></img></td>
-                <td className="col-md-9">
-                  <h6 ><span ><b >Harini Magesh</b></span></h6>
-                  <h6 >Hi! I'm Harini Magesh and I am a rising senior at Normal Community High School. Ever since a young age my biggest goal in life is to help those in need. This is my biggest reason for wanting to go into a field of science where lots of innovation occurs for the greater good. I am thrilled to be a part of YGC and can't wait to meet you all!</h6>
-                  <h6 ><i >Harini s favorite quote: "There is no passion to be found playing small--in settling for a life that is less than the one you are capable of living." -Nelson Mandela</i></h6>
                 </td>
 
               </tr>
@@ -174,6 +163,7 @@ const ygc2024 = () => {
       </div>
 
     </div>
+
 
 
 
