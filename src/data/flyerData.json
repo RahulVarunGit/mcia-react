@@ -1,6 +1,11 @@
 {
     "flyers": [
         {
+            "name": "Kite Fest 2025",
+            "file": "KiteFest2025.jpg",
+            "link": "kitefest2025"
+        },
+        {
             "name": "STEAM 2025",
             "file": "STEAM2025.png",
             "link": "steam2025"
