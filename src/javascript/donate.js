@@ -30,7 +30,7 @@ const donate = () => {
           <li ><h5 >Over 98% of all donated funds go directly to project recipients. All FBT board members volunteer their time and take no salary or compensation of any kind.</h5></li>
           <li ><h5 >All projects are carefully vetted to ensure that they align with the FBT mission including the creation of self-sustainability and transparency in how funds are used (FBT does not support political or religious organizations).</h5></li>
           <li ><h5 >All projects require representation by a liaison known personally by at least one member of the board.</h5></li>
-          <li ><h5 >All donations are <a href="https://forbettertomorrow.org/wp-content/uploads/2018/05/FBT-501C3.pdf" className="highlt">100% tax deductible</a>.</h5></li>
+          <li ><h5 >All donations are <a href="/images/base/FBT-501C3.pdf" className="highlt">100% tax deductible</a>.</h5></li>
         </ul>
 
       </div>
@@ -108,10 +108,11 @@ const donate = () => {
       </div>
 
       <div className="row">
-        <h5 >For A Better Tomorrow (FBT) is a public charity, tax exempt under Section 501(c)(3) of Internal Revenue Code. Review the <a href="https://forbettertomorrow.org/wp-content/uploads/2018/05/FBT-501C3.pdf" className="highlt"> 501(c)(3) approval document. </a></h5>
+        <h5 >For A Better Tomorrow (FBT) is a public charity, tax exempt under Section 501(c)(3) of Internal Revenue Code. Review the <a href="/images/base/FBT-501C3.pdf" className="highlt"> 501(c)(3) approval document. </a></h5>
       </div>
 
     </div>
+
 
 
   );
