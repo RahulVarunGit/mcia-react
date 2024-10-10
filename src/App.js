@@ -64,7 +64,7 @@ import Flyers from './javascript/flyers';
 import Flyer from './javascript/flyer';
 import Projects from './javascript/projects';
 import Project from './javascript/project';
-import Scan from './javascript/scan';
+
 
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
@@ -127,7 +127,6 @@ function App() {
             <Route path="/flyer/:name" element={<Flyer />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/project/:name" element={<Project />} />
-            <Route path="/scan" element={<Scan />} />
             <Route path="/*" element={<NotFoundPage />} />
           </Routes>
 
