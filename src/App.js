@@ -35,10 +35,20 @@ import Grant from './javascript/grant';
 
 import DEMO from './javascript/demo';
 import STEAM from './javascript/steam';
-import STEAM2023 from './javascript/STEAM/steam2027';
 import STEAM2024 from './javascript/STEAM/steam2024';
 import STEAM2025 from './javascript/STEAM/steam2025';
 import STEAM2026 from './javascript/STEAM/steam2026';
+import STEAM2027 from './javascript/STEAM/steam2027';
+import STEAMprintworkshop from './javascript/STEAM/PrintWorkshop';
+import STEAMartworkshop from './javascript/STEAM/ArtWorkshop';
+import STEAMdesignathon from './javascript/STEAM/Designathon';
+import STEAMessaywriting from './javascript/STEAM/EssayWriting';
+import STEAMmathtest from './javascript/STEAM/MathTest';
+import STEAMsciencetest from './javascript/STEAM/ScienceTest';
+import STEAMsciencefair from './javascript/STEAM/ScienceFair';
+import STEAMdebate from './javascript/STEAM/Debate';
+import STEAMspellingbee from './javascript/STEAM/SpellingBee';
+import STEAMquest from './javascript/STEAM/SteamQuest';
 import YICU2016 from './javascript/YICU/yicu2016';
 import YICU2017 from './javascript/YICU/yicu2017';
 import YICU2018 from './javascript/YICU/yicu2018';
@@ -98,10 +108,20 @@ function App() {
             <Route path="/grant" element={<Grant />} />
             <Route path="/demo" element={<DEMO />} />
             <Route path="/steam" element={<STEAM />} />
-            <Route path="/steam2023" element={<STEAM2023 />} />
+            <Route path="/steam/printWorkshop" element={<STEAMprintworkshop />} />
+            <Route path="/steam/artWorkshop" element={<STEAMartworkshop />} />
+            <Route path="/steam/designathon" element={<STEAMdesignathon />} />
+            <Route path="/steam/essayWriting" element={<STEAMessaywriting />} />
+            <Route path="/steam/mathTest" element={<STEAMmathtest />} />
+            <Route path="/steam/scienceTest" element={<STEAMsciencetest />} />
+            <Route path="/steam/scienceFair" element={<STEAMsciencefair />} />
+            <Route path="/steam/debate" element={<STEAMdebate />} />
+            <Route path="/steam/spellingBee" element={<STEAMspellingbee />} />
+            <Route path="/steam/steamQuest" element={<STEAMquest />} />
             <Route path="/steam2024" element={<STEAM2024 />} />
             <Route path="/steam2025" element={<STEAM2025 />} />
             <Route path="/steam2026" element={<STEAM2026 />} />
+            <Route path="/steam2027" element={<STEAM2027 />} />
             <Route path="/yicu2016" element={<YICU2016 />} />
             <Route path="/yicu2017" element={<YICU2017 />} />
             <Route path="/yicu2018" element={<YICU2018 />} />
