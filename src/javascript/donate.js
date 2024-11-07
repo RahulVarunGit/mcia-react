@@ -4,6 +4,7 @@ import '../styles/Home.css';
 const donate = () => {
 
   return (
+
     <div className="container">
 
       <div>
@@ -67,11 +68,6 @@ const donate = () => {
 
       <p >&nbsp;</p>
       <div className="row">
-
-        <div className="col-sm">
-
-          <a className="btn btn-primary btn-lg btn-block" href="https://www.facebook.com/4ABetterTomorrow" role="button">Facebook Donate</a>
-        </div>
 
         <div className="col-sm">
 
