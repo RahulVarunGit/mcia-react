@@ -1,6 +1,31 @@
 {
     "flyers": [
         {
+            "name": "STEAM 2025 Science Fair",
+            "file": "STEAM-2025-Science-Fair.png",
+            "link": "STEAM-2025-Science-Fair"
+        },
+        {
+            "name": "STEAM 2025 Math Test",
+            "file": "STEAM-2025-Math-Test.png",
+            "link": "STEAM-2025-Math-Test"
+        },
+        {
+            "name": "STEAM 2025 Science Test",
+            "file": "STEAM-2025-Science-Test.png",
+            "link": "STEAM-2025-Science-Test"
+        },
+        {
+            "name": "STEAM 2025 Spelling Bee",
+            "file": "STEAM-2025-Spelling-Bee.png",
+            "link": "STEAM-2025-Spelling-Bee"
+        },
+        {
+            "name": "STEAM 2025 STEAM Quest",
+            "file": "STEAM-2025-STEAM-Quest.png",
+            "link": "STEAM-2025-STEAM-Quest"
+        },
+        {
             "name": "Kite Fest 2025",
             "file": "KiteFest2025.jpg",
             "link": "kitefest2025"
