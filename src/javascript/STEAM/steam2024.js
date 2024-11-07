@@ -10,9 +10,8 @@ const STEAM2024 = () => {
 
     <div className="container">
       <STEAMnav ></STEAMnav>
-
       <div>
-        <h2 className="center-align"><b>STEAM Olympics 2024</b></h2>
+        <h3 className="center-align"><b>STEAM Olympics 2024</b></h3>
       </div>
 
       <div><hr class="hr-line"></hr></div>
@@ -21,12 +20,12 @@ const STEAM2024 = () => {
 
         <div className="col-sm">
 
-          <p className="center-align"><img src="/images/steam/FBT.png" alt="" width="100%" className="rounded" /></p>
+          <p className="center-align"><img src="/images/steam/FBT.png" alt="" width="70%" className="rounded" /></p>
         </div>
 
         <div className="col-sm">
 
-          <p className="center-align"><img src="/images/steam/IWU.png" alt="" width="100%" className="rounded" /></p>
+          <p className="center-align"><img src="/images/steam/IWU.png" alt="" width="70%" className="rounded" /></p>
         </div>
 
       </div>
@@ -758,6 +757,7 @@ const STEAM2024 = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
+
 
 
   );

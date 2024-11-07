@@ -8,10 +8,13 @@ const steam = () => {
 
 
 
-    <div className="container">
 
+
+
+    <div className="container">
+      <STEAMnav ></STEAMnav>
       <div>
-        <h2 className="center-align"><b>STEAM Olympics 2025</b></h2>
+        <h3 className="center-align"><b>STEAM Olympics 2025</b></h3>
       </div>
 
       <div><hr class="hr-line"></hr></div>
@@ -20,12 +23,12 @@ const steam = () => {
 
         <div className="col-sm">
 
-          <p className="center-align"><img src="/images/steam/FBT.png" alt="" width="100%" className="rounded" /></p>
+          <p className="center-align"><img src="/images/steam/FBT.png" alt="" width="70%" className="rounded" /></p>
         </div>
 
         <div className="col-sm">
 
-          <p className="center-align"><img src="/images/steam/IWU.png" alt="" width="100%" className="rounded" /></p>
+          <p className="center-align"><img src="/images/steam/IWU.png" alt="" width="70%" className="rounded" /></p>
         </div>
 
       </div>
@@ -86,7 +89,7 @@ const steam = () => {
           <tbody>
 
             <tr>
-              <td rowspan="4" className="center-align align-middle">3D Printing Workshop</td>
+              <td rowspan="4" className="center-align align-middle"><a href="/steam/printWorkshop">3D Printing Workshop</a></td>
               <td className="center-align">2, 3, 4, 5<br />
                 (Option #1)</td>
               <td className="center-align">Sunday, Feb 23<br />
@@ -117,7 +120,7 @@ const steam = () => {
             </tr>
 
             <tr>
-              <td rowspan="3" className="center-align align-middle">Art Workshop</td>
+              <td rowspan="3" className="center-align align-middle"><a href="/steam/artWorkshop">Art Workshop</a></td>
               <td className="center-align">1, 2 & 3</td>
               <td className="center-align">Sunday, Feb 23 <br />
                 10:30 am - Noon</td>
@@ -138,7 +141,7 @@ const steam = () => {
             </tr>
 
             <tr>
-              <td rowspan="2" className="center-align align-middle">Design-athon</td>
+              <td rowspan="2" className="center-align align-middle"><a href="/steam/designathon">Design-athon</a></td>
               <td className="center-align align-middle">6, 7 & 8</td>
               <td rowspan="2" className="center-align align-middle">Saturday, Feb 15<br />
                 1 pm - 5 pm<br />
@@ -156,7 +159,7 @@ const steam = () => {
             </tr>
 
             <tr>
-              <td rowspan="3" className="center-align align-middle">Essay Writing</td>
+              <td rowspan="3" className="center-align align-middle"><a href="/steam/essayWriting">Essay Writing</a></td>
               <td className="center-align">1, 2 & 3</td>
               <td className="center-align">Saturday, Feb 22<br />
                 8:30 am - 10 am</td>
@@ -177,7 +180,7 @@ const steam = () => {
             </tr>
 
             <tr>
-              <td rowspan="3" className="center-align align-middle">Math Test</td>
+              <td rowspan="3" className="center-align align-middle"><a href="/steam/printWorkshop">Math Test</a></td>
               <td className="center-align">1, 2 & 3</td>
               <td className="center-align">Saturday, Feb 22<br />
                 2:30 pm - 4 pm</td>
@@ -198,7 +201,7 @@ const steam = () => {
             </tr>
 
             <tr>
-              <td rowspan="3" className="center-align align-middle">Science Fair</td>
+              <td rowspan="3" className="center-align align-middle"><a href="/steam/scienceFair">Science Fair</a></td>
               <td className="center-align">1, 2 & 3</td>
               <td rowspan="3" className="center-align align-middle">Sunday, Feb 23<br />
                 8:30 am - 9 am (Set Up)<br />
@@ -216,7 +219,7 @@ const steam = () => {
             </tr>
 
             <tr>
-              <td rowspan="3" className="center-align align-middle">Science Test</td>
+              <td rowspan="3" className="center-align align-middle"><a href="/steam/scienceTest">Science Test</a></td>
               <td className="center-align">1, 2 & 3</td>
               <td className="center-align">Saturday, Feb 22<br />
                 10:30 am - Noon</td>
@@ -237,7 +240,7 @@ const steam = () => {
             </tr>
 
             <tr>
-              <td rowspan="4" className="center-align align-middle">Speech & Debate Competition</td>
+              <td rowspan="4" className="center-align align-middle"><a href="/steam/debate">Speech & Debate Competition</a></td>
               <td className="center-align">1, 2 & 3</td>
               <td className="center-align">Saturday, Feb 22<br />
                 12:30 pm - 2 pm</td>
@@ -264,7 +267,7 @@ const steam = () => {
             </tr>
 
             <tr>
-              <td rowspan="3" className="center-align align-middle">Spelling Bee</td>
+              <td rowspan="3" className="center-align align-middle"><a href="/steam/spellingBee">Spelling Bee</a></td>
               <td className="center-align">1, 2 & 3</td>
               <td className="center-align">Saturday, Feb 22<br />
                 4:30 pm - 6 pm</td>
@@ -285,7 +288,7 @@ const steam = () => {
             </tr>
 
             <tr>
-              <td rowspan="4" className="center-align align-middle">STEAM Quest</td>
+              <td rowspan="4" className="center-align align-middle"><a href="/steam/steamQuest">STEAM Quest</a></td>
               <td className="center-align">1, 2 & 3</td>
               <td className="center-align">Sunday, Feb 23<br />
                 2 pm - 3:30 pm</td>
@@ -375,7 +378,7 @@ const steam = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >Share the Excitement!</b></h4>
-          <h5 className="justify c737373"><i >Help us spread the word about STEAM Olympics by sharing our event flier! <a href="/steam"><b>Access our event flier here.</b></a> </i></h5>
+          <h5 className="center-align"><i >Help us spread the word about STEAM Olympics by sharing our <a href="/flyer/steam2025"><b>event flier!</b></a></i></h5>
         </div>
 
       </div>
@@ -386,9 +389,10 @@ const steam = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >Ready to Register?</b></h4>
-          <h5 className="justify c737373"><i >Sign up now to secure your spot in one or more activities. Early registration discounts apply! <a href="http://tinyurl.com/FBT-STEAM" >Register here</a>.</i></h5>
+          <h5 className="center-align"><i >Sign up now to secure your spot in one or more activities. Early registration discounts apply! </i></h5>
+          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/FBT-STEAM">Register here</a></h5>
           <p >&nbsp;</p>
-          <h5 className="justify c737373"><i >Join us for a fantastic celebration of creativity, learning, and innovation in STEAM!</i></h5>
+          <h5 className="center-align"><i >Join us for a fantastic celebration of creativity, learning, and innovation in STEAM!</i></h5>
         </div>
 
       </div>
@@ -397,6 +401,9 @@ const steam = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
+
+
+
 
 
 
