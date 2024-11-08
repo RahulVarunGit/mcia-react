@@ -102,7 +102,7 @@ const STEAM2024 = () => {
           <h5 className="center-align"><i >Secure your spot in the <b>Speech & Debate Competition</b> now! Enhance your speaking skills, boost your confidence, and gain valuable insights during the workshop.</i></h5>
           <p >&nbsp;</p>
           <h5 className="center-align"><i >Spots are limited and will be filled on a first-come, first-served basis. Don t miss out secure your spot today using the Registration button below.</i></h5>
-          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/FBT-STEAM">Register here</a></h5>
+          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/steam-fbt">Register here</a></h5>
           <p >&nbsp;</p>
           <h5 className="center-align"><i >Stay tuned for more details and our event flier   <b>Coming Soon!</b></i></h5>
         </div>

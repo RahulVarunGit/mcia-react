@@ -150,7 +150,7 @@ const STEAM2024 = () => {
           <h4 className="center-align"><b >Registration</b></h4>
           <h5 className="justify c737373"><i >We have limited availability (up to 24 slots), and registration is on a first-come, first-served basis. <b>Register today using button below</b>. If you re interested but need help forming a team, email us at <b>contactus@forbettertomorrow.org</b>, and we ll do our best to pair you with other participants.</i></h5>
           <p >&nbsp;</p>
-          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/FBT-STEAM">Register here</a></h5>
+          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/steam-fbt">Register here</a></h5>
           <p >&nbsp;</p>
         </div>
 

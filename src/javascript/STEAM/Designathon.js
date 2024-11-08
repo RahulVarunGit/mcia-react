@@ -112,7 +112,7 @@ const STEAM2024 = () => {
           <h4 className="center-align"><b >Interested in Participating?</b></h4>
           <h5 className="center-align"><i >Secure your spot by registering here. Early registration discounts are available! Sibling discount will be made available in the upcoming weeks.</i></h5>
           <p >&nbsp;</p>
-          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/FBT-STEAM">Register here</a></h5>
+          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/steam-fbt">Register here</a></h5>
           <p >&nbsp;</p>
           <h5 className="center-align"><b >Get Ready to Innovate</b></h5>
           <h5 className="center-align"><i >Join us for a collaborative, hands-on experience in the world of STEAM and compete to bring your ideas to life. We can’t wait to see what you create at the Design-athon!</i></h5>

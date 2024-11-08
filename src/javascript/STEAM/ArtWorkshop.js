@@ -92,7 +92,7 @@ const STEAM2024 = () => {
           <h5 className="center-align"><i >This workshop promises a memorable experience filled with joy, creativity, and fun!</i></h5>
           <p >&nbsp;</p>
           <h5 className="center-align"><i >Stay tuned for more details and our event flier   Coming Soon!</i></h5>
-          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/FBT-STEAM">Register here</a></h5>
+          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/steam-fbt">Register here</a></h5>
           <p >&nbsp;</p>
           <h5 className="center-align"><i >Join us for a fantastic celebration of creativity, learning, and innovation in STEAM!</i></h5>
         </div>

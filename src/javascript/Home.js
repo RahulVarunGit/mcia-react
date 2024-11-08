@@ -167,21 +167,21 @@ const Home = () => {
         <div className="col-sm">
 
           <p className="center-align"><img src="/images/projects/kite-fest-150x150.png" alt="" width="150" height="150" className="rounded" /></p>
-          <h4 className="center-align"><a href="https://forbettertomorrow.org/events/kitefest/"><b>Kite Fest</b></a></h4>
+          <h4 className="center-align"><a href="/kitefest/"><b>Kite Fest</b></a></h4>
           <h6 className="center-align">Kite Fest is an annual family oriented event that raises funds for local and global nonprofits. Join in on the kite flying fun. Come enjoy a live band, dance performances, face painting, kids activities food and, above all, kite flying.</h6>
         </div>
 
         <div className="col-sm">
 
           <p className="center-align"><img src="/images/projects/NS3_2991-150x150.jpg" alt="" width="150" height="150" className="rounded" /></p>
-          <h4 className="center-align"><a href="events/yicu/"><b>YICU Service Awards</b></a></h4>
+          <h4 className="center-align"><a href="/yicu/"><b>YICU Service Awards</b></a></h4>
           <h6 className="center-align">Why I See You (YICU) Service Awards banquet recognizes and celebrates community service and leadership in McLean County. Proceeds from the event benefit the diverse efforts supported by FBT, including Youth Global Citizen (YGC).</h6>
         </div>
 
         <div className="col-sm">
 
           <p className="center-align"><img src="/images/projects/IMG_6972-150x150.jpg" alt="" width="150" height="150" className="rounded" /></p>
-          <h4 className="center-align"><a href="https://forbettertomorrow.org/services/ygc/"><b>Youth Global Citizen</b></a></h4>
+          <h4 className="center-align"><a href="/ygc/"><b>Youth Global Citizen</b></a></h4>
           <h6 className="center-align">Youth Global Citizen (YGC) is an experiential learning program that teaches young adults leadership skills and the significance of service and philanthropy. YGC cultivates leaders with diverse perspectives to serve and lead.</h6>
         </div>
 

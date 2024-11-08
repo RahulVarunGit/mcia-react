@@ -128,7 +128,7 @@ const STEAM2024 = () => {
           <h5 className="center-align"><i ><b>Spots are limited</b>, so secure your place early. Don't miss out on the chance to be part of this exciting spelling challenge!</i></h5>
           <p >&nbsp;</p>
           <h5 className="center-align"><i >For more details and to register, please use the link below to reserve your spot today</i></h5>
-          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/FBT-STEAM">Register here</a></h5>
+          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/steam-fbt">Register here</a></h5>
           <p >&nbsp;</p>
           <h5 className="center-align"><i >Stay tuned for additional event information, and get ready to spell your way to victory!</i></h5>
         </div>

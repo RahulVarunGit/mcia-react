@@ -120,7 +120,7 @@ const STEAM2024 = () => {
           <h5 className="center-align"><i >Spaces are limited, so <b>register early</b> to ensure your spot in the STEAM Quest! Gather your team, and get ready to embark on this fun and educational journey through the world of STEAM!<br />
             Don t miss out secure your spot today using the Registration button below.</i></h5>
           <p >&nbsp;</p>
-          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/FBT-STEAM">Register here</a></h5>
+          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/steam-fbt">Register here</a></h5>
           <p >&nbsp;</p>
           <h5 className="center-align"><i >Stay tuned for more details and our event flier   <b>Coming Soon!</b></i></h5>
           <h5 className="center-align"><i >Get ready to compete, learn, and have fun with the <b>STEAM Quest</b> where education meets adventure!</i></h5>

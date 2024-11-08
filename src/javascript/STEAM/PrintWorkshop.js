@@ -102,7 +102,7 @@ const STEAMartworkshop = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >Interested in Learning More?</b></h4>
-          <h5 className="center-align"><i >Check out our <a href="/flyer/steam2025"><b>activity flier</b></a> for additional details.</i></h5>
+          <h5 className="center-align"><i >Check out our <a href="/flyer/STEAM-2025-3D-Printing"><b>activity flier</b></a> for additional details.</i></h5>
         </div>
 
       </div>
@@ -114,7 +114,7 @@ const STEAMartworkshop = () => {
 
           <h4 className="center-align"><b >Ready to Register?</b></h4>
           <h5 className="center-align"><i >Sign up now to secure your spot in one or more activities. Early registration discounts apply! </i></h5>
-          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/FBT-STEAM">Register here</a></h5>
+          <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/steam-fbt">Register here</a></h5>
           <p >&nbsp;</p>
           <h5 className="center-align"><i >Join us for a fantastic celebration of creativity, learning, and innovation in STEAM!</i></h5>
         </div>
