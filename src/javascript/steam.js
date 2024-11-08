@@ -180,7 +180,7 @@ const steam = () => {
             </tr>
 
             <tr>
-              <td rowspan="3" className="center-align align-middle"><a href="/steam/printWorkshop">Math Test</a></td>
+              <td rowspan="3" className="center-align align-middle"><a href="/steam/mathTest">Math Test</a></td>
               <td className="center-align">1, 2 & 3</td>
               <td className="center-align">Saturday, Feb 22<br />
                 2:30 pm - 4 pm</td>

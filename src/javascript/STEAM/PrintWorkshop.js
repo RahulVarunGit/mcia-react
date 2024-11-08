@@ -10,6 +10,7 @@ const STEAMartworkshop = () => {
 
 
 
+
     <div className="container">
 
       <div className="row">
@@ -47,7 +48,7 @@ const STEAMartworkshop = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >Workshop Overview</b></h4>
-          <h5 className="justify c737373"><i >In this workshop, students will dive into the world of <b>3D printing</b> and <b>computer-aided design (CAD)</b>. With over 20 themed topics covering real-world applications, participants will gain hands-on experience in STEM while learning about inspiring women in the field. Here’s what the workshop will include:</i></h5>
+          <h5 className="justify c737373">In this workshop, students will dive into the world of <b>3D printing</b> and <b>computer-aided design (CAD)</b>. With over 20 themed topics covering real-world applications, participants will gain hands-on experience in STEM while learning about inspiring women in the field. Here’s what the workshop will include:</h5>
         </div>
 
       </div>
@@ -57,9 +58,9 @@ const STEAMartworkshop = () => {
         <div className="col-sm">
 
           <ul>
-            <li ><b>Introduction to 3D Printing:</b> Exploring its uses across industries from healthcare to fashion</li>
-            <li ><b>Getting Started with CAD:</b> Hands-on practice in creating personal 3D designs.</li>
-            <li ><b>Celebrating Women in STEM:</b> Discovering the stories of trailblazing women through a show-and-tell activity.</li>
+            <li ><h6 className="c737373"><b>Introduction to 3D Printing:</b> Exploring its uses across industries from healthcare to fashion</h6></li>
+            <li ><h6 className="c737373"><b>Getting Started with CAD:</b> Hands-on practice in creating personal 3D designs.</h6></li>
+            <li ><h6 className="c737373"><b>Celebrating Women in STEM:</b> Discovering the stories of trailblazing women through a show-and-tell activity.</h6></li>
           </ul>
 
         </div>
@@ -73,7 +74,7 @@ const STEAMartworkshop = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >Workshop Outcomes</b></h4>
-          <h5 className="justify c737373"><i >By the end of the session, participants will:</i></h5>
+          <h6 className="justify c737373">By the end of the session, participants will:</h6>
         </div>
 
       </div>
@@ -83,15 +84,15 @@ const STEAMartworkshop = () => {
         <div className="col-sm">
 
           <ul>
-            <li >Understand how 3D printing is applied in various industries.</li>
-            <li >Develop foundational CAD skills.</li>
-            <li >Learn about pioneering women in STEM.</li>
-            <li >Create their own unique 3D design, which they’ll receive by mail after printing.</li>
+            <li ><h6 className="c737373">Understand how 3D printing is applied in various industries.</h6></li>
+            <li ><h6 className="c737373">Develop foundational CAD skills.</h6></li>
+            <li ><h6 className="c737373">Learn about pioneering women in STEM.</h6></li>
+            <li ><h6 className="c737373">Create their own unique 3D design, which they’ll receive by mail after printing.</h6></li>
           </ul>
 
         </div>
 
-        <h5 className="justify c737373"><i >The workshop will be tailored to the grade level of participants to ensure an engaging, age-appropriate experience.</i></h5>
+        <h6 className="justify c737373">The workshop will be tailored to the grade level of participants to ensure an engaging, age-appropriate experience.</h6>
       </div >
 
       <div><hr class="hr-line"></hr></div>
