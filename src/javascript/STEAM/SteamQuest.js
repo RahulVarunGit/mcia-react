@@ -100,7 +100,6 @@ const STEAM2024 = () => {
 
       <div><hr class="hr-line"></hr></div>
 
-
       <div className="row">
 
         <div className="col-sm">
@@ -110,6 +109,7 @@ const STEAM2024 = () => {
         </div>
 
       </div>
+
       <div><hr class="hr-line"></hr></div>
 
       <div className="row">
@@ -122,7 +122,7 @@ const STEAM2024 = () => {
           <p >&nbsp;</p>
           <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/steam-fbt">Register here</a></h5>
           <p >&nbsp;</p>
-          <h5 className="center-align"><i >Stay tuned for more details and our event flier   <b>Coming Soon!</b></i></h5>
+          <h5 className="center-align"><i >Check out our <a href="/flyer/STEAM-2025-STEAM-Quest">activity flier</a> here for additional details.</i></h5>
           <h5 className="center-align"><i >Get ready to compete, learn, and have fun with the <b>STEAM Quest</b> where education meets adventure!</i></h5>
         </div>
 
