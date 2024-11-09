@@ -9,7 +9,6 @@ const steam = () => {
 
 
 
-
     <div className="container">
       <STEAMnav ></STEAMnav>
       <div>
@@ -95,7 +94,7 @@ const steam = () => {
               <td className="center-align">Sunday, Feb 23<br />
                 8:30 am -10 am</td>
               <td rowspan="4" className="center-align align-middle">$25 (before 12/ 31)<br />
-                $30 (After 12/31)</td>
+                $30 (After 12/31 5:00PM)</td>
             </tr>
 
             <tr>
@@ -119,7 +118,7 @@ const steam = () => {
                 (Option #2)<br />
                 20 student limit</td>
               <td className="center-align">Sunday, Feb 23<br />
-                12:30 pm - 2 pm</td>
+                2 pm - 3:30 pm</td>
             </tr>
 
             <tr>
@@ -128,7 +127,7 @@ const steam = () => {
               <td className="center-align">Sunday, Feb 23 <br />
                 10:30 am - Noon</td>
               <td rowspan="3" className="center-align align-middle">$25 (before 12/ 31)<br />
-                $30 (After 12/31)</td>
+                $30 (After 12/31 5:00PM)</td>
             </tr>
 
             <tr>
@@ -140,7 +139,7 @@ const steam = () => {
             <tr>
               <td className="center-align">6, 7 & 8</td>
               <td className="center-align">Sunday, Feb 23<br />
-                O12:30 pm - 2 pm</td>
+                12:30 pm - 2 pm</td>
             </tr>
 
             <tr>
@@ -151,7 +150,7 @@ const steam = () => {
                 Sunday, Feb 16<br />
                 12:30 pm - 5:30 pm</td>
               <td rowspan="2" className="center-align">$25 (before 12/ 31)<br />
-                $30 (After 12/31)<br />
+                $30 (After 12/31 5:00PM)<br />
                 Sibling discounts available
 
               </td>
@@ -167,7 +166,7 @@ const steam = () => {
               <td className="center-align">Saturday, Feb 22<br />
                 8:30 am - 10 am</td>
               <td rowspan="3" className="center-align align-middle">$25 (before 12/ 31)<br />
-                $30 (After 12/31)</td>
+                $30 (After 12/31 5:00PM)</td>
             </tr>
 
             <tr>
@@ -188,7 +187,7 @@ const steam = () => {
               <td className="center-align">Saturday, Feb 22<br />
                 2:30 pm - 4 pm</td>
               <td rowspan="3" className="center-align align-middle">$25 (before 12/ 31)<br />
-                $30 (After 12/31)</td>
+                $30 (After 12/31 5:00PM)</td>
             </tr>
 
             <tr>
@@ -207,7 +206,7 @@ const steam = () => {
               <td rowspan="3" className="center-align align-middle"><a href="/steam/scienceFair">Science Fair</a></td>
               <td className="center-align">1, 2 & 3</td>
               <td rowspan="3" className="center-align align-middle">Sunday, Feb 23<br />
-                8:30 am - 9 am (Set Up)<br />
+                8:00 am - 8:30 am (Set Up)<br />
                 2 pm  - 4 pm (Demo & Judging)</td>
               <td rowspan="3" className="center-align align-middle">$100 per team <br />
                 (Up to 4 students)</td>
@@ -227,7 +226,7 @@ const steam = () => {
               <td className="center-align">Saturday, Feb 22<br />
                 10:30 am - Noon</td>
               <td rowspan="3" className="center-align align-middle">$25 (before 12/ 31)<br />
-                $30 (After 12/31)</td>
+                $30 (After 12/31 5:00PM)</td>
             </tr>
 
             <tr>
@@ -243,12 +242,12 @@ const steam = () => {
             </tr>
 
             <tr>
-              <td rowspan="4" className="center-align align-middle"><a href="/steam/debate">Speech & Debate Competition</a></td>
+              <td rowspan="4" className="center-align align-middle"><a href="/steam/debate">Speech & Debate</a></td>
               <td className="center-align">1, 2 & 3</td>
               <td className="center-align">Saturday, Feb 22<br />
                 12:30 pm - 2 pm</td>
               <td rowspan="4" className="center-align align-middle">$25 (before 12/ 31)<br />
-                $30 (After 12/31)</td>
+                $30 (After 12/31 5:00PM)</td>
             </tr>
 
             <tr>
@@ -275,7 +274,7 @@ const steam = () => {
               <td className="center-align">Saturday, Feb 22<br />
                 4:30 pm - 6 pm</td>
               <td rowspan="3" className="center-align align-middle">$25 (before 12/ 31)<br />
-                $30 (After 12/31)</td>
+                $30 (After 12/31 5:00PM)</td>
             </tr>
 
             <tr>
@@ -296,7 +295,7 @@ const steam = () => {
               <td className="center-align">Sunday, Feb 23<br />
                 2 pm - 3:30 pm</td>
               <td rowspan="4" className="center-align align-middle">$25 (before 12/ 31)<br />
-                $30 (After 12/31)</td>
+                $30 (After 12/31 5:00PM)</td>
             </tr>
 
             <tr>
@@ -331,7 +330,7 @@ const steam = () => {
 
         <div className="col-sm">
 
-          <h4 className="center-align"><b >Special Activities & Tours</b></h4>
+          <h4 className="center-align"><b >Special Tours</b></h4>
           <h5 className="justify c737373"><i >Registered participants and their families will have access to optional lab tours to experience real-world applications of STEAM fields. The following labs are available unless noted otherwise:</i></h5>
         </div>
 
@@ -370,6 +369,7 @@ const steam = () => {
 
           <h4 className="center-align"><b >Award Ceremony & Keynote Address</b></h4>
           <h5 className="justify c737373"><i >Celebrate our participants  achievements with an award ceremony featuring a keynote address from a prominent leader in the STEAM field, scheduled for Sunday, Feb 23, from 6 pm - 7:30 pm. Medals will be awarded to the top scorers per grade, and all participants will receive a <b>participation certificate</b>. This is a great way to enjoy a low-stakes challenge and celebrate your skills in different STEAM activities.</i></h5>
+          <h5 className="justify c737373"><i >School with most medals will win a <b>Championship Trophie</b> and <b>$250 cash prize</b>.</i></h5>
         </div>
 
       </div>

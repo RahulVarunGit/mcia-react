@@ -9,6 +9,7 @@ const STEAM2024 = () => {
 
 
 
+
     <div className="container">
 
       <div className="row">
@@ -61,7 +62,7 @@ const STEAM2024 = () => {
             <li ><b>Level 1:</b> Grades 1-3 | 12:30 PM - 2:00 PM</li>
             <li ><b>Level 2:</b> Grades 4-5 | 12:30 PM - 2:00 PM</li>
             <li ><b>Level 3:</b> Grades 6-8 | 10:30 AM - 12:00 PM</li>
-            <li ><b>Level 3:</b> Grades 9-12| 10:30 AM - 12:00 PM</li>
+            <li ><b>Level 4:</b> Grades 9-12| 10:30 AM - 12:00 PM</li>
           </ul>
 
         </div>
@@ -75,7 +76,7 @@ const STEAM2024 = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >What to Expect</b></h4>
-          <h5 className="justify c737373"><i >The competition will kick off with a <b>Speech & Debate Workshop</b>, led by experienced professionals, where participants will receive expert tips on public speaking, argumentation, and presentation strategies. Afterward, students will be given their topics, which they must research and prepare speeches or debates around.</i></h5>
+          <h5 className="justify c737373"><i >The competition will kick off with a <b>Speech & Debate Workshop</b>, led by experienced professionals, where participants will receive expert tips on public speaking, argumentation, and presentation strategies. Students will get an opportunity to showcase their newly learned skills through either speech or debate competition. Level 1 kids will be going through a friendly competition depending on their interest after the workshop.</i></h5>
         </div>
 
       </div>

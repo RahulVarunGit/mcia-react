@@ -73,7 +73,7 @@ const STEAM2024 = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >What to Expect</b></h4>
-          <h5 className="justify c737373"><i >The Spelling Bee will consist of students competing individually, with each speller taking turns to spell a word aloud. Students may ask for the word to be repeated or for its meaning before attempting to spell it. If a word is spelled correctly, the speller returns to their seat; if it s incorrect, they will sit at the back of the room.</i></h5>
+          <h5 className="justify c737373"><i >The Spelling Bee will consist of students competing individually, with each speller taking turns to spell a word aloud. Students may ask for the word to be repeated or for its meaning before attempting to spell it. If a word is spelled correctly, the speller returns to their seat; if it's incorrect, they will sit at the back of the room.</i></h5>
           <p >&nbsp;</p>
           <h5 className="justify c737373"><i >Words will be selected based on grade level and difficulty, with both <b>Elementary</b> and <b>Junior High</b> categories.</i></h5>
         </div>

@@ -46,7 +46,7 @@ const STEAM2024 = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >Workshop Highlights</b></h4>
-          <h5 className="justify c737373"><i >This creative session gives young artists the opportunity to paint and personalize their own pottery piece. Here s what participants can expect:</i></h5>
+          <h5 className="justify c737373"><i >This creative session gives young artists the opportunity to paint and personalize their own pottery piece. Here is what participants can expect:</i></h5>
         </div>
 
       </div>

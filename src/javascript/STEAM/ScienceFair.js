@@ -68,9 +68,9 @@ const STEAM2024 = () => {
         <div className="col-sm">
 
           <ul>
-            <li ><b>Fair Setup:</b> 8:30 am - 9:00 am</li>
-            <li ><b>Project Display:</b> 9:00 am - 2:00 pm (students don t need to be present)</li>
-            <li ><b>Demo Presentations:</b> 2:00 pm - 4:00 pm (ensure this time doesn t conflict with other activities you signed up for)</li>
+            <li ><b>Fair Setup:</b> 8:00 am - 8:30 am</li>
+            <li ><b>Project Display:</b> 9:00 am - 2:00 pm (students don't need to be present)</li>
+            <li ><b>Demo Presentations:</b> 2:00 pm - 4:00 pm (ensure this time doesn't conflict with other activities you signed up for)</li>
             <li ><b>Judging:</b> 4:00 pm - 5:00 pm</li>
           </ul>
 
