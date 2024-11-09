@@ -9,7 +9,6 @@ const STEAM2024 = () => {
 
 
 
-
     <div className="container">
 
       <div className="row">
@@ -61,7 +60,7 @@ const STEAM2024 = () => {
             <li ><b>Guided Instruction:</b> Experienced art volunteers will offer tips and techniques to help bring your artistic vision to life.</li>
             <li ><b>Design Variety:</b> Select from a range of patterns and designs, or let your imagination run wild with a unique creation.</li>
             <li ><b>Fun & Relaxed Atmosphere:</b> Enjoy a positive, friendly environment that encourages self-expression and creativity.</li>
-            <li ><b>Take-Home Creations:</b> Participants will receive their finished pieces, ready to take home and display with pride!</li>
+            <li ><b>Take-Home Creations:</b> Pick up your finished art piece from the Artful Design Studio at a later date to take home and display with pride.</li>
             <li ><b>Show & Tell Session:</b> Everyone will have the chance to present their artwork, share their creative process, and receive supportive feedback.</li>
           </ul>
 
@@ -71,14 +70,12 @@ const STEAM2024 = () => {
 
       <div><hr class="hr-line"></hr></div>
 
-
-
       <div className="row">
 
         <div className="col-sm">
 
           <h4 className="center-align"><b >Pickup Information</b></h4>
-          <h5 className="center-align"><i >Participants will be able to pick up their finished pieces from the <b>Artful Designs office</b> after the event.</i></h5>
+          <h5 className="center-align"><i >Participants will be able to pick up their finished pieces at a later date from the <b>Artful Designs Studio</b> located in Bloomington. Additional information regarding pickup timeline and location address will be provided during the workshop.</i></h5>
         </div>
 
       </div>

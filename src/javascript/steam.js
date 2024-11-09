@@ -10,7 +10,6 @@ const steam = () => {
 
 
 
-
     <div className="container">
       <STEAMnav ></STEAMnav>
       <div>
@@ -90,8 +89,9 @@ const steam = () => {
 
             <tr>
               <td rowspan="4" className="center-align align-middle"><a href="/steam/printWorkshop">3D Printing Workshop</a></td>
-              <td className="center-align">2, 3, 4, 5<br />
-                (Option #1)</td>
+              <td className="center-align">1, 2, 3, 4, 5<br />
+                (Option #1)<br />
+                20 student limit</td>
               <td className="center-align">Sunday, Feb 23<br />
                 8:30 am -10 am</td>
               <td rowspan="4" className="center-align align-middle">$25 (before 12/ 31)<br />
@@ -99,22 +99,25 @@ const steam = () => {
             </tr>
 
             <tr>
-              <td className="center-align">2, 3, 4, 5<br />
-                (Option #2)</td>
+              <td className="center-align">1, 2, 3, 4, 5<br />
+                (Option #2)<br />
+                20 student limit</td>
               <td className="center-align">Sunday, Feb 23<br />
                 12:30 pm - 2 pm</td>
             </tr>
 
             <tr>
               <td className="center-align">6, 7 & 8<br />
-                (Option #1)</td>
+                (Option #1)<br />
+                20 student limit</td>
               <td className="center-align">Sunday, Feb 23<br />
                 10:30 am - Noon</td>
             </tr>
 
             <tr>
               <td className="center-align">6, 7 & 8<br />
-                (Option #2)</td>
+                (Option #2)<br />
+                20 student limit</td>
               <td className="center-align">Sunday, Feb 23<br />
                 12:30 pm - 2 pm</td>
             </tr>
@@ -318,6 +321,7 @@ const steam = () => {
 
         </table>
 
+        <h5 className="justify c737373"><i ><b>Note:</b> As a volunteer-led fundraising event, we are unable to provide refunds for registration fees. Your support helps make the STEAM Olympics possible and allows us to offer valuable opportunities and financial assistance to students. Thank you for your understanding and commitment to our mission!</i></h5>
       </div>
 
       <p >&nbsp;</p>
@@ -365,7 +369,7 @@ const steam = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >Award Ceremony & Keynote Address</b></h4>
-          <h5 className="justify c737373"><i >Celebrate our participants  achievements with an award ceremony featuring a keynote address from a prominent leader in the STEM field, scheduled for Sunday, Feb 23, from 6 pm - 7:30 pm. Medals will be awarded to the top scorers per grade, and all participants will receive a <b>participation certificate</b>. This is a great way to enjoy a low-stakes challenge and celebrate your skills in different STEAM activities.</i></h5>
+          <h5 className="justify c737373"><i >Celebrate our participants  achievements with an award ceremony featuring a keynote address from a prominent leader in the STEAM field, scheduled for Sunday, Feb 23, from 6 pm - 7:30 pm. Medals will be awarded to the top scorers per grade, and all participants will receive a <b>participation certificate</b>. This is a great way to enjoy a low-stakes challenge and celebrate your skills in different STEAM activities.</i></h5>
         </div>
 
       </div>
@@ -401,8 +405,6 @@ const steam = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
-
-
 
 
 
