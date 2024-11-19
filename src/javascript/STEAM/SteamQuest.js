@@ -46,7 +46,7 @@ const STEAM2024 = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >Activity Details</b></h4>
-          <h5 className="justify c737373"><i ><b>Date:</b> Saturday, February 22</i></h5>
+          <h5 className="justify c737373"><i ><b>Date:</b> Sunday, February 23</i></h5>
           <h5 className="justify c737373"><i ><b>Duration:</b> Each level will have a 1.5-hour session</i></h5>
           <h5 className="justify c737373"><i ><b>Competition Levels:</b></i></h5>
         </div>
@@ -134,8 +134,6 @@ const STEAM2024 = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
-
-
 
 
   );
