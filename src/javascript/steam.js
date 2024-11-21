@@ -330,6 +330,22 @@ const steam = () => {
 
         <div className="col-sm">
 
+          <h4 className="center-align"><b >Schedule</b></h4>
+        </div>
+
+      </div>
+
+      <div>
+        <h2 class="center-align"><b ></b></h2>
+        <p class="center-align"><img src="/images/steam/2025/Schedule.png" alt="" width="100%" border="2" className="rounded" /></p>
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm">
+
           <h4 className="center-align"><b >Special Tours</b></h4>
           <h5 className="justify c737373"><i >Registered participants and their families will have access to optional lab tours to experience real-world applications of STEAM fields. The following labs are available unless noted otherwise:</i></h5>
         </div>
@@ -405,7 +421,6 @@ const steam = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
-
 
 
 
