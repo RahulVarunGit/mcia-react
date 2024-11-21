@@ -385,7 +385,7 @@ const steam = () => {
 
           <h4 className="center-align"><b >Award Ceremony & Keynote Address</b></h4>
           <h5 className="justify c737373"><i >Celebrate our participants  achievements with an award ceremony featuring a keynote address from a prominent leader in the STEAM field, scheduled for Sunday, Feb 23, from 6 pm - 7:30 pm. Medals will be awarded to the top scorers per grade, and all participants will receive a <b>participation certificate</b>. This is a great way to enjoy a low-stakes challenge and celebrate your skills in different STEAM activities.</i></h5>
-          <h5 className="justify c737373"><i >School with most medals will win a <b>Championship Trophie</b> and <b>$250 cash prize</b>.</i></h5>
+          <h5 className="justify c737373"><i >School with most medals will win a <b>Championship Trophy</b> and <b>$250 cash prize</b>.</i></h5>
         </div>
 
       </div>
