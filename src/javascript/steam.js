@@ -9,6 +9,7 @@ const steam = () => {
 
 
 
+
     <div className="container">
       <STEAMnav ></STEAMnav>
       <div>
@@ -145,9 +146,9 @@ const steam = () => {
             <tr>
               <td rowspan="2" className="center-align align-middle"><a href="/steam/designathon">Design-athon</a></td>
               <td className="center-align align-middle">6, 7 & 8</td>
-              <td rowspan="2" className="center-align align-middle">Saturday, Feb 15<br />
+              <td rowspan="2" className="center-align align-middle">Saturday, Mar 1<br />
                 1 pm - 5 pm<br />
-                Sunday, Feb 16<br />
+                Sunday, Mar 2<br />
                 12:30 pm - 5:30 pm</td>
               <td rowspan="2" className="center-align">$25 (before 12/ 31)<br />
                 $30 (After 12/31 5:00PM)<br />
@@ -421,8 +422,6 @@ const steam = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
-
-
 
 
 

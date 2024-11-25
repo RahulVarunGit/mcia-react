@@ -1,0 +1,32 @@
+{
+    "steamEvents": [
+        {
+            "activity": "S001",
+            "name": "S001",
+            "date": "2024-12-31",
+            "startTime": "11:30",
+            "stopTime": "12:30"
+        },
+        {
+            "activity": "S002",
+            "name": "S002",
+            "date": "2024-12-31",
+            "startTime": "11:30",
+            "stopTime": "12:30"
+        },
+        {
+            "activity": "S005",
+            "name": "S005",
+            "date": "2024-12-31",
+            "startTime": "11:30",
+            "stopTime": "12:30"
+        },
+        {
+            "activity": "S007",
+            "name": "S007",
+            "date": "2024-12-31",
+            "startTime": "11:30",
+            "stopTime": "12:30"
+        }
+    ]
+}
