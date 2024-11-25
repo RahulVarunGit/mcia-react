@@ -9,7 +9,6 @@ const steam = () => {
 
 
 
-
     <div className="container">
       <STEAMnav ></STEAMnav>
       <div>
@@ -37,7 +36,7 @@ const steam = () => {
       </div>
 
       <div>
-        <h5 className="justify c737373">We're excited to welcome students in grades 1 through 12 for an inspiring four-day event focused on exploring the worlds of Science, Technology, Engineering, Arts, and Mathematics (STEAM)! Mark your calendars for <b>February 15, 16, 22, and 23, 2025.</b></h5>
+        <h5 className="justify c737373">We're excited to welcome students in grades 1 through 12 for an inspiring four-day event focused on exploring the worlds of Science, Technology, Engineering, Arts, and Mathematics (STEAM)! Mark your calendars for <b>February 22, 23 and March 1, 2 2025.</b></h5>
       </div>
 
       <div>
@@ -422,6 +421,7 @@ const steam = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
+
 
 
 
