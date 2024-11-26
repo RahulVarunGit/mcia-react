@@ -55,9 +55,9 @@ const STEAM2024 = () => {
         <div className="col-sm">
 
           <ul>
-            <li ><b>Day 1 (Saturday, Feb 15 1 - 5 pm): Interactive Learning Sessions</b><br />
+            <li ><b>Day 1 (Saturday, March 1<sup>st</sup> 1 - 5 pm): Interactive Learning Sessions</b><br />
               Students will kick off with short learning sessions on cutting-edge topics led by STEAM professionals. Participants can choose from topics like <b>AI Basics, Computer Vision, Machine Learning, Natural Language Processing (NLP),</b> and <b>AI in Gaming</b>. These sessions will be tailored for middle and high school students with minimal prior experience, ensuring a foundation of hands-on learning and exploration.</li>
-            <li ><b>Day 2 (Sunday, Feb 16 12:30-5:30 pm): Team-Based Design Challenge and Competition</b><br />
+            <li ><b>Day 2 (Sunday, March 2<sup>nd</sup> 12:30-5:30 pm): Team-Based Design Challenge and Competition</b><br />
               Teams of 3-4 students will work on a STEAM-related project for 2-3 hours, supported by mentors. Guided by their selected prompt or thought starter, teams will tackle a unique challenge, applying concepts from their learning sessions. Each team will be mentored by a speaker or industry expert, ensuring a supportive and enriching experience.
               At the end of the day, teams will pitch their projects to a panel of judges in a <b>5-10 minute presentation</b>, "Shark Tank" style. Judges will evaluate creativity, technical skill, and overall impact, with prizes awarded to winning teams.</li>
           </ul>

@@ -8,7 +8,6 @@ const steam = () => {
 
 
 
-
     <div className="container">
       <STEAMnav ></STEAMnav>
       <div>
@@ -32,11 +31,11 @@ const steam = () => {
       </div>
 
       <div>
-        <h5 className="justify c737373"><a href="/"><b>For A Better Tomorrow (FBT)</b></a> and <a href="https://www.iwu.edu/"><b>Illinois Wesleyan University (IWU)</b></a> <b>Proudly Present the 2nd Annual STEAM Olympics!. </b></h5>
+        <h5 className="justify c737373"><a href="/"><b>For A Better Tomorrow (FBT)</b></a> and <a href="https://www.iwu.edu/"><b>Illinois Wesleyan University (IWU)</b></a> <b>Proudly Present the 2<sup>nd</sup> Annual STEAM Olympics!. </b></h5>
       </div>
 
       <div>
-        <h5 className="justify c737373">We're excited to welcome students in grades 1 through 12 for an inspiring four-day event focused on exploring the worlds of Science, Technology, Engineering, Arts, and Mathematics (STEAM)! Mark your calendars for <b>February 22, 23 and March 1, 2 2025.</b></h5>
+        <h5 className="justify c737373">We're excited to welcome students in grades 1 through 12 for an inspiring four-day event focused on exploring the worlds of Science, Technology, Engineering, Arts, and Mathematics (STEAM)! Mark your calendars for <b>February 22<sup>nd</sup>, 23<sup>rd</sup> and March 1<sup>st</sup>, 2<sup>nd</sup> 2025.</b></h5>
       </div>
 
       <div>
@@ -91,7 +90,7 @@ const steam = () => {
               <td className="center-align">1, 2, 3, 4, 5<br />
                 (Option #1)<br />
                 20 student limit</td>
-              <td className="center-align">Sunday, Feb 23<br />
+              <td className="center-align">Sunday, Feb 23<sup>rd</sup><br />
                 8:30 am -10 am</td>
               <td rowspan="4" className="center-align align-middle">$25 (before 12/ 31)<br />
                 $30 (After 12/31 5:00PM)</td>
@@ -101,7 +100,7 @@ const steam = () => {
               <td className="center-align">1, 2, 3, 4, 5<br />
                 (Option #2)<br />
                 20 student limit</td>
-              <td className="center-align">Sunday, Feb 23<br />
+              <td className="center-align">Sunday, Feb 23<sup>rd</sup><br />
                 12:30 pm - 2 pm</td>
             </tr>
 
@@ -109,7 +108,7 @@ const steam = () => {
               <td className="center-align">6, 7 & 8<br />
                 (Option #1)<br />
                 20 student limit</td>
-              <td className="center-align">Sunday, Feb 23<br />
+              <td className="center-align">Sunday, Feb 23<sup>rd</sup><br />
                 10:30 am - Noon</td>
             </tr>
 
@@ -117,14 +116,14 @@ const steam = () => {
               <td className="center-align">6, 7 & 8<br />
                 (Option #2)<br />
                 20 student limit</td>
-              <td className="center-align">Sunday, Feb 23<br />
+              <td className="center-align">Sunday, Feb 23<sup>rd</sup><br />
                 2 pm - 3:30 pm</td>
             </tr>
 
             <tr>
               <td rowspan="3" className="center-align align-middle"><a href="/steam/artWorkshop">Art Workshop</a></td>
               <td className="center-align">1, 2 & 3</td>
-              <td className="center-align">Sunday, Feb 23 <br />
+              <td className="center-align">Sunday, Feb 23<sup>rd</sup> <br />
                 10:30 am - Noon</td>
               <td rowspan="3" className="center-align align-middle">$25 (before 12/ 31)<br />
                 $30 (After 12/31 5:00PM)</td>
@@ -132,22 +131,22 @@ const steam = () => {
 
             <tr>
               <td className="center-align">4,5</td>
-              <td className="center-align">Sunday, Feb 23<br />
+              <td className="center-align">Sunday, Feb 23<sup>rd</sup><br />
                 10:30 am - Noon</td>
             </tr>
 
             <tr>
               <td className="center-align">6, 7 & 8</td>
-              <td className="center-align">Sunday, Feb 23<br />
+              <td className="center-align">Sunday, Feb 23<sup>rd</sup><br />
                 12:30 pm - 2 pm</td>
             </tr>
 
             <tr>
               <td rowspan="2" className="center-align align-middle"><a href="/steam/designathon">Design-athon</a></td>
               <td className="center-align align-middle">6, 7 & 8</td>
-              <td rowspan="2" className="center-align align-middle">Saturday, Mar 1<br />
+              <td rowspan="2" className="center-align align-middle">Saturday, Mar 1<sup>st</sup><br />
                 1 pm - 5 pm<br />
-                Sunday, Mar 2<br />
+                Sunday, Mar 2<sup>nd</sup><br />
                 12:30 pm - 5:30 pm</td>
               <td rowspan="2" className="center-align">$25 (before 12/ 31)<br />
                 $30 (After 12/31 5:00PM)<br />
@@ -163,7 +162,7 @@ const steam = () => {
             <tr>
               <td rowspan="3" className="center-align align-middle"><a href="/steam/essayWriting">Essay Writing</a></td>
               <td className="center-align">1, 2 & 3</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 8:30 am - 10 am</td>
               <td rowspan="3" className="center-align align-middle">$25 (before 12/ 31)<br />
                 $30 (After 12/31 5:00PM)</td>
@@ -171,13 +170,13 @@ const steam = () => {
 
             <tr>
               <td className="center-align">4,5</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 10:30 am - Noon</td>
             </tr>
 
             <tr>
               <td className="center-align">6, 7 & 8</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 12:30 pm - 2 pm</td>
             </tr>
 
@@ -192,20 +191,20 @@ const steam = () => {
 
             <tr>
               <td className="center-align">4,5</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 2:30 pm - 4 pm</td>
             </tr>
 
             <tr>
               <td className="center-align">6, 7 & 8</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 4:30 pm - 6 pm</td>
             </tr>
 
             <tr>
               <td rowspan="3" className="center-align align-middle"><a href="/steam/scienceFair">Science Fair</a></td>
               <td className="center-align">1, 2 & 3</td>
-              <td rowspan="3" className="center-align align-middle">Sunday, Feb 23<br />
+              <td rowspan="3" className="center-align align-middle">Sunday, Feb 23<sup>rd</sup><br />
                 8:00 am - 8:30 am (Set Up)<br />
                 2 pm  - 4 pm (Demo & Judging)</td>
               <td rowspan="3" className="center-align align-middle">$100 per team <br />
@@ -223,7 +222,7 @@ const steam = () => {
             <tr>
               <td rowspan="3" className="center-align align-middle"><a href="/steam/scienceTest">Science Test</a></td>
               <td className="center-align">1, 2 & 3</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 10:30 am - Noon</td>
               <td rowspan="3" className="center-align align-middle">$25 (before 12/ 31)<br />
                 $30 (After 12/31 5:00PM)</td>
@@ -231,20 +230,20 @@ const steam = () => {
 
             <tr>
               <td className="center-align">4,5</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 8:30 am - 10 am</td>
             </tr>
 
             <tr>
               <td className="center-align">6, 7 & 8</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 8:30 am - 10 am</td>
             </tr>
 
             <tr>
               <td rowspan="4" className="center-align align-middle"><a href="/steam/debate">Speech & Debate</a></td>
               <td className="center-align">1, 2 & 3</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 12:30 pm - 2 pm</td>
               <td rowspan="4" className="center-align align-middle">$25 (before 12/ 31)<br />
                 $30 (After 12/31 5:00PM)</td>
@@ -252,26 +251,26 @@ const steam = () => {
 
             <tr>
               <td className="center-align">4,5</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 12:30 pm - 2 pm</td>
             </tr>
 
             <tr>
               <td className="center-align">6, 7 & 8</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 10:30 am - Noon</td>
             </tr>
 
             <tr>
               <td className="center-align">9, 10, 11 & 12</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 2:30 pm - 4 pm</td>
             </tr>
 
             <tr>
               <td rowspan="3" className="center-align align-middle"><a href="/steam/spellingBee">Spelling Bee</a></td>
               <td className="center-align">1, 2 & 3</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 4:30 pm - 6 pm</td>
               <td rowspan="3" className="center-align align-middle">$25 (before 12/ 31)<br />
                 $30 (After 12/31 5:00PM)</td>
@@ -279,7 +278,7 @@ const steam = () => {
 
             <tr>
               <td className="center-align">4,5</td>
-              <td className="center-align">Saturday, Feb 22<br />
+              <td className="center-align">Saturday, Feb 22<sup>nd</sup><br />
                 4:30 pm - 6 pm</td>
             </tr>
 
@@ -292,7 +291,7 @@ const steam = () => {
             <tr>
               <td rowspan="4" className="center-align align-middle"><a href="/steam/steamQuest">STEAM Quest</a></td>
               <td className="center-align">1, 2 & 3</td>
-              <td className="center-align">Sunday, Feb 23<br />
+              <td className="center-align">Sunday, Feb 23<sup>rd</sup><br />
                 2 pm - 3:30 pm</td>
               <td rowspan="4" className="center-align align-middle">$25 (before 12/ 31)<br />
                 $30 (After 12/31 5:00PM)</td>
@@ -300,19 +299,19 @@ const steam = () => {
 
             <tr>
               <td className="center-align">4,5</td>
-              <td className="center-align">Sunday, Feb 23<br />
+              <td className="center-align">Sunday, Feb 23<sup>rd</sup><br />
                 2 pm - 3:30 pm</td>
             </tr>
 
             <tr>
               <td className="center-align">6, 7 & 8</td>
-              <td className="center-align">Sunday, Feb 23<br />
+              <td className="center-align">Sunday, Feb 23<sup>rd</sup><br />
                 8:30 am - 10 am</td>
             </tr>
 
             <tr>
               <td className="center-align">9, 10, 11, 12</td>
-              <td className="center-align">Sunday, Feb 23<br />
+              <td className="center-align">Sunday, Feb 23<sup>rd</sup><br />
                 12:30 pm - 2 pm</td>
             </tr>
 
@@ -357,10 +356,10 @@ const steam = () => {
         <div className="col-sm">
 
           <ul>
-            <li ><b>Physics Lab (ISU):</b> Friday, Feb 22, 6 pm - 7:30 pm</li>
-            <li ><b>Biology Lab (IWU):</b> Sunday, Feb 23, 3:30 pm - 4 pm</li>
-            <li ><b>Chemistry Lab (IWU):</b> Sunday, Feb 23, 4 pm - 4:30 pm</li>
-            <li ><b>Physics Lab (IWU):</b> Sunday, Feb 23, 4:30 pm - 5 pm</li>
+            <li ><b>Physics Lab (ISU):</b> Friday, Feb 22<sup>nd</sup>, 6 pm - 7:30 pm</li>
+            <li ><b>Biology Lab (IWU):</b> Sunday, Feb 23<sup>rd</sup>, 3:30 pm - 4 pm</li>
+            <li ><b>Chemistry Lab (IWU):</b> Sunday, Feb 23<sup>rd</sup>, 4 pm - 4:30 pm</li>
+            <li ><b>Physics Lab (IWU):</b> Sunday, Feb 23<sup>rd</sup>, 4:30 pm - 5 pm</li>
           </ul>
 
         </div>
@@ -384,7 +383,7 @@ const steam = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >Award Ceremony & Keynote Address</b></h4>
-          <h5 className="justify c737373"><i >Celebrate our participants  achievements with an award ceremony featuring a keynote address from a prominent leader in the STEAM field, scheduled for Sunday, Feb 23, from 6 pm - 7:30 pm. Medals will be awarded to the top scorers per grade, and all participants will receive a <b>participation certificate</b>. This is a great way to enjoy a low-stakes challenge and celebrate your skills in different STEAM activities.</i></h5>
+          <h5 className="justify c737373"><i >Celebrate our participants  achievements with an award ceremony featuring a keynote address from a prominent leader in the STEAM field, scheduled for Sunday, Feb 23<sup>rd</sup>, from 6 pm - 7:30 pm. Medals will be awarded to the top scorers per grade, and all participants will receive a <b>participation certificate</b>. This is a great way to enjoy a low-stakes challenge and celebrate your skills in different STEAM activities.</i></h5>
           <h5 className="justify c737373"><i >School with most medals will win a <b>Championship Trophy</b> and <b>$250 cash prize</b>.</i></h5>
         </div>
 
@@ -421,7 +420,6 @@ const steam = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
-
 
 
 
