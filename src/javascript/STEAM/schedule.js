@@ -1,11 +1,13 @@
 import { useState } from 'react';
 import '../../styles/Home.css';
 import { useParams } from 'react-router-dom';
+import parse from 'html-react-parser';
 
 const Schedule = () => {
 
     const [userId, setUserId] = useState("");
     const [userUrl, setUserUrl] = useState("");
+    var userActStr = "";
 
     const handleChange = event => {
         setUserId(event.target.value);
@@ -18,6 +20,7 @@ const Schedule = () => {
     //<button onClick={click}>click me</button> -- this should be in return
 
     return (
+
 
 
 
@@ -42,6 +45,7 @@ const Schedule = () => {
             </div>
             <h6 ></h6>
             <p >&nbsp;</p>
+            {parse(userActStr)}
             <div className="center-align">
                 <lable className="justify c737373"><b >User ID  </b></lable>
                 <input type="text" name="user" id="user" value={userId} onChange={handleChange}></input>

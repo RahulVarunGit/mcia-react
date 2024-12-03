@@ -1,21 +1,20 @@
 {
     "steamUsers": [
         {
-            "id": "aa001",
-            "name": "Aaa Aaaaaa",
+            "id": "AA001",
+            "name": "Rahul B",
             "activities": [
-                "a001",
-                "a005",
-                "a007"
+                "E001",
+                "E005",
+                "E007"
             ]
         },
         {
-            "id": "bb001",
-            "name": "Bbb Aaaaaa",
+            "id": "BB001",
+            "name": "Varun B",
             "activities": [
-                "a201",
-                "a005",
-                "a007"
+                "E001",
+                "E013"
             ]
         }
     ]
