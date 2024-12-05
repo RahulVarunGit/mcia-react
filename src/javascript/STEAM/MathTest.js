@@ -74,15 +74,14 @@ const STEAM2024 = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >What to Expect</b></h4>
-          <h5 className="justify c737373"><i >The Math Test consists of <b>20 questions</b> to be completed in <b>45 minutes</b>. Questions are crafted to go slightly beyond typical schoolwork, encouraging students to apply their knowledge creatively. Remember, we don't expect everyone to get every answer right, the focus is on problem-solving and perseverance!</i></h5>
-          <h5 className="justify c737373"><i >Following the test, an educator from Illinois Wesleyan University (IWU) will lead a <b>45-minute review session</b> to discuss approaches to solving the questions. Students can ask questions and learn new strategies directly from the expert.</i></h5>
+          <h5 className="justify c737373"><i >The Math Test consists of mixture of multiple choice and free response questions to be completed in 45-60 minutes. Questions are crafted to go slightly beyond typical schoolwork, encouraging students to apply their knowledge creatively. Remember, we don't expect everyone to get every answer right, the focus is on problem-solving and perseverance!</i></h5>
+          <h5 className="justify c737373"><i >Following the test, an educator from Illinois Wesleyan University (IWU) will lead a 30-45 minute review session to discuss approaches to solving the questions. Students can ask questions and learn new strategies directly from the expert.</i></h5>
           <h5 className="justify c737373"><i >While the test will be geared towards age groups (1-3, 4-5, 6-8), awards will be given to the top 3 scores per grade level.</i></h5>
         </div>
 
       </div>
 
       <div><hr class="hr-line"></hr></div>
-
 
       <div className="row">
 
@@ -108,7 +107,6 @@ const STEAM2024 = () => {
 
       </div>
 
-
       <div className="row">
 
         <div className="col-sm">
@@ -122,7 +120,6 @@ const STEAM2024 = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
-
 
 
 
