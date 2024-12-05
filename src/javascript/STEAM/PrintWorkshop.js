@@ -102,7 +102,7 @@ const STEAMartworkshop = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >Interested in Learning More?</b></h4>
-          <h5 className="center-align"><i >Check out our <a href="/flyer/STEAM-2025-3D-Printing"><b>activity flier</b></a> for additional details.</i></h5>
+          <h5 className="center-align"><i >Check out our <a href="/flyer/STEAM-2025-3D-Printing">activity flier</a> for additional details.</i></h5>
         </div>
 
       </div>

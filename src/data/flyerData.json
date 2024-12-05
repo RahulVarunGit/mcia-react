@@ -1,6 +1,21 @@
 {
     "flyers": [
         {
+            "name": "STEAM 2025 Designathon BLM",
+            "file": "STEAM-2025-Designathon-BLM.png",
+            "link": "STEAM-2025-designathon-blm"
+        },
+        {
+            "name": "STEAM 2025 Designathon TX",
+            "file": "STEAM-2025-Designathon-TX.png",
+            "link": "STEAM-2025-designathon-tx"
+        },
+        {
+            "name": "STEAM 2025 Designathon Virtual",
+            "file": "STEAM-2025-Designathon-Virtual.png",
+            "link": "STEAM-2025-designathon-virtual"
+        },
+        {
             "name": "STEAM 2025 Science Fair",
             "file": "STEAM-2025-Science-Fair.png",
             "link": "STEAM-2025-Science-Fair"

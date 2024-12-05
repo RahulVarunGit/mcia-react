@@ -74,13 +74,11 @@ const STEAM2024 = () => {
 
           <h4 className="center-align"><b >Participation Options</b></h4>
           <h5 className="justify c737373"><i >The Design-athon is open for both <b>in-person</b> and <b>virtual</b> participation, with in-person locations available in <b>Bloomington, Dallas, Atlanta,</b> and <b>Phoenix</b>. Virtual attendance is available for students from other regions based on registration.</i></h5>
-
         </div>
 
       </div>
 
       <div><hr class="hr-line"></hr></div>
-
 
       <div className="row">
 
@@ -113,6 +111,26 @@ const STEAM2024 = () => {
           <h5 className="center-align"><i >Secure your spot by registering here. Early registration discounts are available! Sibling discount will be made available in the upcoming weeks.</i></h5>
           <p >&nbsp;</p>
           <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="http://tinyurl.com/steam-fbt">Register here</a></h5>
+          <p >&nbsp;</p>
+          <div className="row">
+
+            <div className="col-sm">
+              <p className="center-align"><a href="/flyer/STEAM-2025-designathon-blm"> <img src="/images/flyers/STEAM-2025-Designathon-BLM.png" alt="" width="150" height="200" class="rounded" /> </a></p>
+              <h5 className="center-align"><a href="/flyer/STEAM-2025-designathon-blm">Bloomington, IL</a></h5>
+            </div>
+
+            <div className="col-sm">
+              <p className="center-align"><a href="/flyer/STEAM-2025-designathon-tx"> <img src="/images/flyers/STEAM-2025-Designathon-TX.png" alt="" width="150" height="200" class="rounded" /> </a></p>
+              <h5 className="center-align"><a href="/flyer/STEAM-2025-designathon-tx">Frisco, TX</a></h5>
+            </div>
+
+            <div className="col-sm">
+              <p className="center-align"><a href="/flyer/STEAM-2025-designathon-virtual"> <img src="/images/flyers/STEAM-2025-Designathon-Virtual.png" alt="" width="150" height="200" class="rounded" /> </a></p>
+              <h5 className="center-align"><a href="/flyer/STEAM-2025-designathon-virtual">Virtual</a></h5>
+            </div>
+
+          </div>
+
           <p >&nbsp;</p>
           <h5 className="center-align"><b >Get Ready to Innovate</b></h5>
           <h5 className="center-align"><i >Join us for a collaborative, hands-on experience in the world of STEAM and compete to bring your ideas to life. We can’t wait to see what you create at the Design-athon!</i></h5>
