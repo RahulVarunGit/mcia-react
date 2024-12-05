@@ -397,7 +397,7 @@ const steam = () => {
         <div className="col-sm">
 
           <h4 className="center-align"><b >Share the Excitement!</b></h4>
-          <h5 className="center-align"><i >Help us spread the word about STEAM Olympics by sharing our <a href="/flyer/steam2025"><b>event flier!</b></a></i></h5>
+          <h5 className="center-align"><i >Help us spread the word about STEAM Olympics by sharing our <a href="/flyer/steam2025">event flier!</a></i></h5>
         </div>
 
       </div>
@@ -416,10 +416,28 @@ const steam = () => {
 
       </div>
 
-      <p >&nbsp;</p>
+
+      <div className="row">
+
+        <div className="col-sm">
+
+        </div>
+
+        <div className="col-sm">
+          <p className="center-align"><a href="https://docs.google.com/document/d/11J7X41H_QxbzhAlOboh50C2B75XvyGA75yhZF_NVKl0/"> <img src="/images/steam/FAQ.png" alt="" width="100" height="100" class="rounded" /> </a></p>
+          <h5 className="center-align"><a href="https://docs.google.com/document/d/11J7X41H_QxbzhAlOboh50C2B75XvyGA75yhZF_NVKl0/ ">Frequently asked questions.</a></h5>
+        </div>
+
+        <div className="col-sm">
+
+        </div>
+
+      </div>
+
       <div><hr class="hr-line"></hr></div>
 
     </div>
+
 
 
 
