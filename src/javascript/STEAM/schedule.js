@@ -23,6 +23,8 @@ const Schedule = () => {
     //<button onClick={click}>click me</button> -- this should be in return 
     //testing comment change
 
+    userActStr = "<div><h5 className=\"center-align\"><b >Get your schedule:</b></h5></div>";
+
     return (
 
 

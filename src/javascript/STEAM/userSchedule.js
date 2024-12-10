@@ -81,7 +81,7 @@ const UserSchedule = () => {
     actStr = actStr + "</tbody></table></div>"
     actStr = actStr + "<h6 className=\"center-align\"><a type=\"button\" class=\"btn btn-primary\" href=\"/steam/schedule\">Clear</a></h6>"
     actStr = actStr + "<div><hr className=\"hr-line\"></hr></div>";
-    actStr = actStr + "<div><h5 className=\"center-align\"><b >Enter another user id:</b></h5></div>";
+    actStr = actStr + "<div><h5 className=\"center-align\"><b >Search another name:</b></h5></div>";
 
 
     userActStr = userActStr + actStr;
