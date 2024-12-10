@@ -3,6 +3,7 @@ import '../../styles/Home.css';
 import { useParams } from 'react-router-dom';
 import steamEventData from '../../data/steamEventData.json';
 import steamUserData from '../../data/steamUserData.json';
+import SearchBar from '../../components/SearchBar';
 import parse from 'html-react-parser';
 
 const UserSchedule = () => {
@@ -106,6 +107,7 @@ const UserSchedule = () => {
     return (
 
 
+
         <div className="container">
 
             <div className="row">
@@ -128,11 +130,8 @@ const UserSchedule = () => {
             <h6 ></h6>
             <p >&nbsp;</p>
             {parse(userActStr)}
-            <div className="center-align">
-                <lable className="justify c737373"><b >User ID  </b></lable>
-                <input type="text" name="user" id="user" value={userId} onChange={handleChange}></input>
-                <p ></p>
-                <h6 className="center-align"><a type="button" class="btn btn-primary" href={userUrl}>Get user schedule</a></h6>
+            <div className="flex-container">
+                <SearchBar placeholder="Enter name..." data={steamUserData} />
             </div>
 
             <p ></p>
@@ -155,6 +154,7 @@ const UserSchedule = () => {
             <div><hr class="hr-line"></hr></div>
 
         </div>
+
 
 
     );

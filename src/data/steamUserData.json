@@ -2,7 +2,7 @@
     "steamUsers": [
         {
             "id": "AA001",
-            "name": "Rahul B",
+            "name": "Rahul Balivada",
             "activities": [
                 "E001",
                 "E005",
@@ -11,7 +11,15 @@
         },
         {
             "id": "BB001",
-            "name": "Varun B",
+            "name": "Varun Balivada",
+            "activities": [
+                "E001",
+                "E013"
+            ]
+        },
+        {
+            "id": "BB002",
+            "name": "Rahul Dravid",
             "activities": [
                 "E001",
                 "E013"

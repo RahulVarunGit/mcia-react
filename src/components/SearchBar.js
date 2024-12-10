@@ -30,7 +30,7 @@ function SearchBar({ placeholder, data }) {
             {filteredData.length != 0 && (
                 <div className="dataResult">
                     {filteredData.slice(0, 5).map((value, key) => {
-                        return <a className="dataItem" href={value.link} > <p>{value.name}</p></a>
+                        return <a className="dataItem" href={"/steam/schedule/" + value.id} > <p>{value.name}</p></a>
                     })}
                 </div>
             )}
