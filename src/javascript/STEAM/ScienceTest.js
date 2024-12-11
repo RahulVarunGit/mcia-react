@@ -101,7 +101,7 @@ const STEAM2024 = () => {
 
         <div className="col-sm">
           <p className="center-align"><a href="https://drive.google.com/drive/u/0/folders/1tYMZPxXPdLW7qyT1UBNzmCL9pBSvF1OU"> <img src="/images/steam/REF.png" alt="" width="100" height="100" class="rounded" /> </a></p>
-          <h5 className="center-align"><a href="https://drive.google.com/drive/u/0/folders/1tYMZPxXPdLW7qyT1UBNzmCL9pBSvF1OU">Last year Q and A</a></h5>
+          <h5 className="center-align"><a href="https://drive.google.com/drive/u/0/folders/1tYMZPxXPdLW7qyT1UBNzmCL9pBSvF1OU">2024 Test Papers</a></h5>
         </div>
 
         <div className="col-sm">
