@@ -424,8 +424,8 @@ const steam = () => {
         </div>
 
         <div className="col-sm">
-          <p className="center-align"><a href="https://docs.google.com/document/d/11J7X41H_QxbzhAlOboh50C2B75XvyGA75yhZF_NVKl0/"> <img src="/images/steam/FAQ.png" alt="" width="100" height="100" class="rounded" /> </a></p>
-          <h5 className="center-align"><a href="https://docs.google.com/document/d/11J7X41H_QxbzhAlOboh50C2B75XvyGA75yhZF_NVKl0/ ">Frequently asked questions.</a></h5>
+          <p className="center-align"><a href="https://docs.google.com/document/d/1ODoL0oz9SP1L-Cbnf-spTl7RF2Rbn4n60yIupvq53D0/edit?tab=t.0"> <img src="/images/steam/FAQ.png" alt="" width="100" height="100" class="rounded" /> </a></p>
+          <h5 className="center-align"><a href="https://docs.google.com/document/d/1ODoL0oz9SP1L-Cbnf-spTl7RF2Rbn4n60yIupvq53D0/edit?tab=t.0">Frequently asked questions.</a></h5>
         </div>
 
         <div className="col-sm">
