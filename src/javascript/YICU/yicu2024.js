@@ -48,7 +48,7 @@ const yicu2024 = () => {
 
                 <td className="col-md">
                   <h5 className="col-md-12 center-align"><span className="font-weight-bold"><b>YICU Winners</b></span></h5>
-                  <h5 className="col-md-12 center-align">Team Award: 2025 NCHS IT Cohort (Nikitha Philip, Dhyan Chaudhari, Megan Heidrick, Vedha Garapati, Lillian Campbell, Carson Goodwin and Logan Jaynes,)</h5>
+                  <h5 className="col-md-12 center-align">Team Award: 2025 NCHS IT Cohort (Nikitha Philip, Dhyan Chaudhari, Megan Heidrick, Vedha Garapati, Lillian Campbell, Carson Goodwin and Logan Jaynes)</h5>
                   <h5 className="col-md-12 center-align">Youth Mentor Award: Sudhir Pai</h5>
                   <h5 className="col-md-12 center-align">Advocate Award : Threshold to Hope Inc.</h5>
                   <h5 className="col-md-12 center-align">Ovation and Community Hero Award : Brandon Wood and Shriyans Gurijala</h5>

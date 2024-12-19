@@ -1,213 +1,71 @@
-import {useState} from 'react';
+import { useState } from 'react';
 import '../styles/Home.css';
 import YICUnav from '.././YICU-Nav';
 
 const YICU = () => {
 
-  return(
+  return (
 
 
 
 
-<div className="container">
-<YICUnav ></YICUnav>
-<div>
-<p className="center-align"><img src="/images/YICU/2024/YICU2024.png"alt="YICU 2024" width="200" height="100" className="rounded center-align"></img></p>
-</div>
+    <div className="container">
+      <YICUnav ></YICUnav>
+      <div>
+        <p className="center-align"><img src="/images/YICU/2024/YICU2024.png" alt="YICU 2023" width="200" height="100" className="rounded"></img></p>
+      </div>
 
-<p >&nbsp;&nbsp;</p>
-<div>
-<h3 className="center-align"><b>For A Better Tomorrow (FBT)</b> is proud to accept nominations and applications for 2024 Why I See You (YICU) Service Awards, as part of its mission to recognize and celebrate young adults’ leadership skills and contributions to the broader community.</h3>
-</div>
+      <div><hr class="hr-line"></hr></div>
 
-<p >&nbsp;&nbsp;</p>
-<div>
-<h4 className="center-align c737373"><b >Program Overview</b></h4>
-</div>
+      <p >&nbsp;&nbsp;</p>
+      <div className="row">
 
-<div>
-<h4 className="center-align c737373">FBT collaborates with other community partners to give special recognition to young adults who have made their mark on our community. FBT’s YICU Service Award recognizes and celebrates community service and leadership in McLean County. Proceeds from the event will benefit the diverse efforts supported by FBT, including Youth Global Citizen (YGC).</h4>
-</div>
+        <div className="col-sm">
 
-<p >&nbsp;&nbsp;</p>
-<div>
-<h4 className="cFF5833"><b >Note : Last date for nominations is September 15, 2024. Applications are due September 15, 2024.</b></h4>
-</div>
+          <table className="table table-borderless">
 
-<p >&nbsp;&nbsp;</p>
-<p >&nbsp;&nbsp;</p>
-<div className="row">
+            <tbody>
 
-<div className="col-md-2 ">
+              <tr className="row">
+                <td className="col-md-12 center-align"><img src="/images/YICU/2024/YICU-Winners2.png" alt="2024 YICU Winners" className="rounded" width="80%"></img></td>
+              </tr>
 
-</div>
+              <tr className="row">
 
-<div className="col-md-4">
+                <td className="col-md">
+                  <h5 className="col-md-12 center-align"><span className="font-weight-bold"><b>YICU Winners</b>, 10 Recipients of Individual 2024 YICU Service Awards</span></h5>
+                  <h5 className="col-md-12 center-align">Jacob Kossler, Disha Rai, Dhruv Ravinuthala, Sohum Mehta, Joshitha Bodavula, Shreya Nallamothu, Shriyans Gurijala, Kamorah Carter, Emily Drew and Amy Dederich</h5>
+                </td>
 
-<div className="div-img-text">
+              </tr>
 
-<img src="/images/base/BlueSquare.png" alt="" width="100%" className="rounded-circle"></img>
-<div className="text-on-image">
+              <tr className="row">
+                <td className="col-md-12 center-align"><img src="/images/YICU/2024/YICU-Winners1.png" alt="2024 YICU Winners" className="rounded" width="80%"></img></td>
+              </tr>
 
-<p >&nbsp;</p>
-<h3 ><b >Nominations</b></h3>
-<h4 className="cF8F8F8"><u >Eligibility</u></h4>
-<h6 className="cFFFFFF"><i >Nominate a young person ages 12-22, who resides in Mclean County.</i></h6>
-<h4 className="cF8F8F8"><u >Required</u></h4>
-<h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicu-nom"><b><span className="cFFFFFF">Nomination Form</span></b></a></i></h6>
-</div>
+              <tr className="row">
 
-</div>
+                <td className="col-md">
+                  <h5 className="col-md-12 center-align"><span className="font-weight-bold"><b>YICU Winners</b></span></h5>
+                  <h5 className="col-md-12 center-align">Team Award: 2025 NCHS IT Cohort (Nikitha Philip, Dhyan Chaudhari, Megan Heidrick, Vedha Garapati, Lillian Campbell, Carson Goodwin and Logan Jaynes)</h5>
+                  <h5 className="col-md-12 center-align">Youth Mentor Award: Sudhir Pai</h5>
+                  <h5 className="col-md-12 center-align">Advocate Award : Threshold to Hope Inc.</h5>
+                  <h5 className="col-md-12 center-align">Ovation and Community Hero Award : Brandon Wood and Shriyans Gurijala</h5>
+                </td>
 
-</div>
+              </tr>
 
-<div className="col-md-4">
+            </tbody>
 
-<div className="div-img-text">
+          </table>
 
-<img src="/images/base/BlueSquare.png" alt="" width="100%" className="rounded-circle"></img>
-<div className="text-on-image">
+        </div>
 
-<h3 ><b >Individual</b></h3>
-<h4 className="cF8F8F8"><u >Eligibility</u></h4>
-<h6 className="cFFFFFF"><i >Age - 12 to 22</i></h6>
-<h6 className="cFFFFFF"><i >Resident of McLean County</i></h6>
-<h4 className="cF8F8F8"><u >Required</u></h4>
-<h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicu-app"><b><span className="cFFFFFF">Application Form</span></b></a></i></h6>
-<h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicumed"><b><span className="cFFFFFF">Media Release Form</span></b></a></i></h6>
-<h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicurefer"><b><span className="cFFFFFF">Reference Form</span></b></a></i></h6>
-</div>
+      </div>
 
-</div>
+    </div>
 
-</div>
 
-<div className="col-md-2 ">
-
-</div>
-
-</div>
-
-<div className="row">
-
-<div className="col-md-4">
-
-<div className="div-img-text">
-
-<img src="/images/base/BlueSquare.png" alt="" width="100%" className="rounded-circle"></img>
-<div className="text-on-image">
-
-<h3 ><b >Team</b></h3>
-<p >&nbsp;</p>
-<h4 className="cF8F8F8"><u >Eligibility</u></h4>
-<h6 className="cFFFFFF"><i >Serving McLean County</i></h6>
-<h4 className="cF8F8F8"><u >Required</u></h4>
-<h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicuteam"><b><span className="cFFFFFF">Nomination Form</span></b></a></i></h6>
-<h6 className="cF8F8F8"><i ><a href="https://tinyurl.com/yicumed"><b><span className="cFFFFFF">Media Release Form</span></b></a></i></h6>
-</div>
-
-</div>
-
-</div>
-
-<div className="col-md-4">
-
-<div className="div-img-text">
-
-<img src="/images/base/BlueSquare.png" alt="" width="100%" className="rounded-circle"></img>
-<div className="text-on-image">
-
-<h3 ><b >Advocate</b></h3>
-<p >&nbsp;</p>
-<h4 className="cF8F8F8"><u >Eligibility</u></h4>
-<h6 className="cFFFFFF"><i >Resident of McLean County</i></h6>
-<h4 className="cF8F8F8"><u >Required</u></h4>
-<h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicuadvocate"><b><span className="cFFFFFF">Nomination Form</span></b></a></i></h6>
-</div>
-
-</div>
-
-</div>
-
-<div className="col-md-4">
-
-<div className="div-img-text">
-
-<img src="/images/base/BlueSquare.png" alt="" width="100%" className="rounded-circle"></img>
-<div className="text-on-image">
-
-<h3 ><b >Mentor</b></h3>
-<p >&nbsp;</p>
-<h4 className="cF8F8F8"><u >Eligibility</u></h4>
-<h6 className="cFFFFFF"><i >Resident of McLean County</i></h6>
-<h4 className="cF8F8F8"><u >Required</u></h4>
-<h6 className="cFFFFFF"><i ><a href="https://tinyurl.com/yicumentor"><b><span className="cFFFFFF">Nomination Form</span></b></a></i></h6>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div className="row">
-
-<div className="col-md-2 ">
-
-</div>
-
-<div className="col-md-4">
-
-<div className="div-img-text">
-
-<img src="/images/base/BlueSquare.png" alt="" width="100%" className="rounded-circle"></img>
-<div className="text-on-image">
-
-<p >&nbsp;</p>
-<h3 ><b >Selection Criteria</b></h3>
-<h6 className="c646063;">Demonstrates a strong desire to become a better leader in all aspects of life.</h6>
-<h6 className="c646063;">Demonstrates the ability to lead and inspire others.</h6>
-<h6 className="c646063;">Passion for serving others.</h6>
-</div>
-
-</div>
-
-</div>
-
-<div className="col-md-4">
-
-<div className="div-img-text">
-
-<img src="/images/base/BlueSquare.png" alt="" width="100%" className="rounded-circle"></img>
-<div className="text-on-image">
-
-<p >&nbsp;</p>
-<h3 ><b >Event Info</b></h3>
-<h6 className="c646063;">FBT’s YICU Service Awards Celebration will held at Jon Astroth Auditorium, Heartland Community College on Sunday, November 10 at Noon.</h6>
-<h6 className="c646063;">Ten winners will be announced from the nominees, three from each age category and one at large.</h6>
-</div>
-
-</div>
-
-</div>
-
-<div className="col-md-2 ">
-
-</div>
-
-</div>
-
-<p >&nbsp;&nbsp;</p>
-<p >&nbsp;&nbsp;</p>
-<div>
-<h4 className="center-align"><b ><i >"FBT will make a $250 donation towards a non-profit in honor of each award winner."</i></b></h4>
-</div>
-
-<div>
-<h3 className="center-align redBg"><b >Be a sponsor for YICU Award!! Please contact us at <a href="mailto:contactus@forbettertomorrow.org">contactus@forbettertomorrow.org</a></b></h3>
-</div>
-
-</div>
 
 
 
