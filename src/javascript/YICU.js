@@ -34,7 +34,8 @@ const YICU = () => {
 
                 <td className="col-md">
                   <h5 className="col-md-12 center-align"><span className="font-weight-bold"><b>YICU Winners</b>, 10 Recipients of Individual 2024 YICU Service Awards</span></h5>
-                  <h5 className="col-md-12 center-align">Jacob Kossler, Disha Rai, Dhruv Ravinuthala, Sohum Mehta, Joshitha Bodavula, Shreya Nallamothu, Shriyans Gurijala, Kamorah Carter, Emily Drew and Amy Dederich</h5>
+                  <h5 className="col-md-12 center-align">Top Row : Jacob Kossler, Dhruv Ravinuthala, Disha Rai, Kamorah Carter, Sohum Mehta</h5>
+                  <h5 className="col-md-12 center-align">Bottom row : Emily drew, Shreya Nallamothu, Amy Dederich, Joshitha Bodavula, Shriyans gurijala</h5>
                 </td>
 
               </tr>
@@ -47,7 +48,7 @@ const YICU = () => {
 
                 <td className="col-md">
                   <h5 className="col-md-12 center-align"><span className="font-weight-bold"><b>YICU Winners</b></span></h5>
-                  <h5 className="col-md-12 center-align">Team Award: 2025 NCHS IT Cohort (Nikitha Philip, Dhyan Chaudhari, Megan Heidrick, Vedha Garapati, Lillian Campbell, Carson Goodwin and Logan Jaynes)</h5>
+                  <h5 className="col-md-12 center-align">Team Award: 2025 NCHS IT Cohort (Nikitha Philip, Dhyan Chaudhari, Megan Heidrick, Vedha Garapati, Lillian Campbell, Carson Goodwin and Logan Jaynes,)</h5>
                   <h5 className="col-md-12 center-align">Youth Mentor Award: Sudhir Pai</h5>
                   <h5 className="col-md-12 center-align">Advocate Award : Threshold to Hope Inc.</h5>
                   <h5 className="col-md-12 center-align">Ovation and Community Hero Award : Brandon Wood and Shriyans Gurijala</h5>
@@ -64,9 +65,6 @@ const YICU = () => {
       </div>
 
     </div>
-
-
-
 
 
   );
