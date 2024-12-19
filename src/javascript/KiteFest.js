@@ -45,7 +45,7 @@ const KiteFest = () => {
       <p >&nbsp;&nbsp;</p>
       <div>
         <h2 class="center-align"><b ></b></h2>
-        <p class="center-align"><img src="/images/flyers/kiteFest2025.jpg" alt="" width="100%" className="rounded" /></p>
+        <p class="center-align"><img src="/images/flyers/KiteFest2025.jpg" alt="" width="100%" className="rounded" /></p>
         <div><hr class="hr-line"></hr></div>
 
         <h2 class="fbt-tag-line"> Our mission is to promote social justice by meeting needs in the local community and the world through accountable, sustainable philanthropy and by nurturing future generations of servant leaders. </h2>
