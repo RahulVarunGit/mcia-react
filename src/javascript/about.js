@@ -1,130 +1,145 @@
-import {useState} from 'react';
+import { useState } from 'react';
 import '../styles/Home.css';
 
 const About = () => {
 
-  return(
+  return (
 
-<div className="container">
+    <div className="container">
 
-<div>
-<h2 className="fbt-title"><img src="/images/homePage/Logo.jpg"alt="" width="40" height="40" className="rounded"/>  for a <span className="fbt-title-sub">better</span> tomorrow </h2>
-<h2 className="fbt-tag-line">…Eliminating the gap between abundance and need</h2>
-<p >&nbsp;</p>
-</div>
+      <div>
 
-<div className="row">
+        <div>
+          <h2 className="fbt-title"><img src="/images/base/Logo.png" alt="" height="120" className="rounded" />  </h2>
+          <p >&nbsp;</p>
+        </div>
 
-<div className="col-sm">
+        <h4 >MCIA was established in 1979 to provide a means of bringing social and cultural events to the then small Indian community of less than 50 families. Since then, MCIA has done significant work for social and cultural development in the Bloomington-Normal community. It continues to play a large role in serving, leading and representing the Indian community.</h4>
+      </div>
 
-<p className="center-align"><a href="/newsLetter"><img src="/images/base/news-icon.png" alt="" width="150" height="150" className="rounded"  /></a></p>
-<h3 className="center-align"><a href="/newsLetter"><b >News Letters</b></a></h3>
-</div>
+      <p >&nbsp;</p>
+      <p className="center-align"><a href="/events">Please check the Calendar of Events for 2025</a></p>
+      <p className="center-align"><a href="/committee">Contact any committee member for more information.</a></p>
+      <div><hr class="hr-line"></hr></div>
 
-<div className="col-sm">
+      <div className="row">
+        <h4 className="center-align"><b >Goals</b></h4>
+      </div>
 
-<p className="center-align"><a href="/board"><img src="/images/base/board.png" alt="" width="150" height="150" className="rounded" /></a></p>
-<h3 className="center-align"><a href="/board"><b >Board Members</b></a></h3>
-</div>
+      <div className="row">
 
-<div className="col-sm">
+        <ul>
+          <li className="bullet"><h5 >To promote Asian Indian culture and values among its members.</h5></li>
+          <li className="bullet"><h5 >To promote participation in community volunteering and charitable activities.</h5></li>
+          <li className="bullet"><h5 >To promote leadership, volunteerism, sports, and educational activities for its youth members.</h5></li>
+          <li className="bullet"><h5 >To promote cross-cultural awareness and understanding about India and Indian culture in the broader community.</h5></li>
+          <li className="bullet"><h5 >To promote collaborations with various organizations to benefit the Bloomington-Normal community.</h5></li>
+        </ul>
 
-<p className="center-align"><a href="/committee"><img src="/images/base/committee.jpg" alt="" width="150" height="150" className="rounded" /></a></p>
-<h3 className="center-align"><a href="/committee"><b >Committees</b></a></h3>
-</div>
+      </div>
 
-</div>
+      <div><hr class="hr-line"></hr></div>
 
-<p >&nbsp;</p>
-<div className="row">
+      <div className="row">
+        <h4 className="center-align"><b >MCIA BY-LAWS</b></h4>
+      </div>
 
-<div className="col-sm">
+      <div>
+        <h4 className="center-align">MCIA bylaws were approved on October 1st 2016 by a majority of MCIA 2016 members voting  Yes .</h4>
+        <h4 className="center-align">Please <a href="" >click here</a> to read the bylaws.</h4>
+      </div>
 
-</div>
+      <div><hr class="hr-line"></hr></div>
 
-<div className="col-sm">
+      <div className="row">
+        <h4 className="center-align"><b >LIST OF EVENTS</b></h4>
+        <p >&nbsp;</p>
+        <h4 className="center-align">MCIA celebrates the following main events :</h4>
+      </div>
 
-<p className="center-align"><a href="/report"><img src="/images/base/report.png" alt="" width="150" height="150" className="rounded" /></a></p>
-<h3 className="center-align"><a href="/report"><b >Annual Report</b></a></h3>
-</div>
+      <div className="row">
 
-<div className="col-sm">
+        <ul>
+          <li className="list-unstyled"><h5 className="center-align">Jan : Indian Republic Day</h5></li>
+          <li className="list-unstyled"><h5 className="center-align">Feb : Youth Open House</h5></li>
+          <li className="list-unstyled"><h5 className="center-align">Aug : Indian Independence Day</h5></li>
+          <li className="list-unstyled"><h5 className="center-align">Sep : Festival of India</h5></li>
+          <li className="list-unstyled"><h5 className="center-align">Nov : Annual Banquet</h5></li>
+        </ul>
 
-</div>
+      </div>
 
-</div>
+      <div><hr class="hr-line"></hr></div>
 
-<div><hr class="hr-line"></hr></div>
+      <div className="row">
+        <h4 className="center-align"><b >LIST OF PRESIDENTS</b></h4>
+      </div>
 
-<div className="row">
+      <p >&nbsp;</p>
+      <div className="row">
 
-<div className="col-sm">
+        <div className="col-sm">
 
-<p className="center-align"><i className="fa fa-check-circle bigFont"></i></p>
-<h3 className="center-align"><b>Accountability</b></h3>
-<p >&nbsp;</p>
-<h4 className="center-align-light text-justify ">Promote social justice by meeting needs in the local community and the world through accountable, sustainable philanthropy and by nurturing future generations of servant leaders.</h4>
-</div>
+          <ul>
+            <li className="list-unstyled"><h5 >1979 - Mr. Sharad Chitgopekar</h5></li>
+            <li className="list-unstyled"><h5 >1980 - Mr. Jeevan Patel</h5></li>
+            <li className="list-unstyled"><h5 >1981 - Mr. Balwant Singh</h5></li>
+            <li className="list-unstyled"><h5 >1982 - Mr. Rao Duvvuri</h5></li>
+            <li className="list-unstyled"><h5 >1983 - Mr. Ramesh Chaudhari</h5></li>
+            <li className="list-unstyled"><h5 >1984 - Mr. Shri Gupta</h5></li>
+            <li className="list-unstyled"><h5 >1985 - Mrs. Usha Kapoor</h5></li>
+            <li className="list-unstyled"><h5 >1986 - Mr. V. K. Unni</h5></li>
+            <li className="list-unstyled"><h5 >1987 - Mr. Ram Bhat</h5></li>
+            <li className="list-unstyled"><h5 >1988 - Mr. Rammohan Mundlapudi</h5></li>
+            <li className="list-unstyled"><h5 >1989 - Mrs. Savita Patel</h5></li>
+            <li className="list-unstyled"><h5 >1991 - Mrs. Suneeti Chitgopekar</h5></li>
+            <li className="list-unstyled"><h5 >1992 - Mrs. Narinder Sethi</h5></li>
+            <li className="list-unstyled"><h5 >1993 - Mr. Balwant Singh</h5></li>
+            <li className="list-unstyled"><h5 >1994 - Mr. Narendra Jaggi</h5></li>
+            <li className="list-unstyled"><h5 >1995 - Mr. Narendra Jaggi</h5></li>
+            <li className="list-unstyled"><h5 >1996 - Mrs. Anita Deoskar</h5></li>
+            <li className="list-unstyled"><h5 >1997 - Mr. Harish Patel</h5></li>
+            <li className="list-unstyled"><h5 >1998 - Mr. Surender Sethi</h5></li>
+            <li className="list-unstyled"><h5 >1999 - Mr. Ramesh Chaudhari</h5></li>
+            <li className="list-unstyled"><h5 >2000 - Mrs. Asha Chandak      </h5></li>
+          </ul>
 
-<div className="col-sm">
+        </div>
 
-<p className="center-align"><i className="fa fa-cubes bigFont"></i></p>
-<h3 className="center-align"><b>Sustainable Philanthropy</b></h3>
-<p >&nbsp;</p>
-<h4 className="center-align-light text-justify ">We believe in hope and hope for a better tomorrow.We demonstrate in thought and action a firm commitment to social justice and diversity.</h4>
-</div>
+        <div className="col-sm">
 
-<div className="col-sm">
+          <ul>
+            <li className="list-unstyled"><h5 >2001 - Mr. Prasanna Mate</h5></li>
+            <li className="list-unstyled"><h5 >2002 - Mr. Nilesh(Neal) Shah</h5></li>
+            <li className="list-unstyled"><h5 >2003 - Mr. Mandava V Rao</h5></li>
+            <li className="list-unstyled"><h5 >2004 - Mr. Gulshan Bhayana</h5></li>
+            <li className="list-unstyled"><h5 >2005 - Mr. Chandra Shekara</h5></li>
+            <li className="list-unstyled"><h5 >2006 - Mr. Rakesh Gulati</h5></li>
+            <li className="list-unstyled"><h5 >2007 - Mr. Vinod Thaker</h5></li>
+            <li className="list-unstyled"><h5 >2008 - Mr. Vinod Nambiar</h5></li>
+            <li className="list-unstyled"><h5 >2009 - Mr. Rajendra Joshi</h5></li>
+            <li className="list-unstyled"><h5 >2010 - Mr. Ramesh Chilla</h5></li>
+            <li className="list-unstyled"><h5 >2011 - Mr. Suresh Krishna</h5></li>
+            <li className="list-unstyled"><h5 >2012 - Mrs. Jyotsna Gupta</h5></li>
+            <li className="list-unstyled"><h5 >2013 - Mr. Hemant Kale</h5></li>
+            <li className="list-unstyled"><h5 >2014 - Mr. Ajay Kalvala</h5></li>
+            <li className="list-unstyled"><h5 >2015 - Mrs. Uma Kallakuri</h5></li>
+            <li className="list-unstyled"><h5 >2016 - Mrs. Archana Shekara</h5></li>
+            <li className="list-unstyled"><h5 >2017 - Mr. Srinivas Mikkilineni</h5></li>
+            <li className="list-unstyled"><h5 >2018 - Mr. Ajay Rolla</h5></li>
+            <li className="list-unstyled"><h5 >2019 - Mr. Karthik Goteti</h5></li>
+            <li className="list-unstyled"><h5 >2020 - Mr. Karthik Goteti</h5></li>
+            <li className="list-unstyled"><h5 ></h5></li>
+          </ul>
 
-<p className="center-align"><i  className="fa fa-users bigFont"></i></p>
-<h3 className="center-align"><b>Nurturing Future Generations</b></h3>
-<p >&nbsp;</p>
-<h4 className="center-align-light text-justify ">We believe in hope and hope for a better tomorrow.We demonstrate in thought and action a firm commitment to social justice and diversity.</h4>
-</div>
+        </div>
 
-</div>
+      </div>
 
-<div><hr class="hr-line"></hr></div>
+      <div><hr class="hr-line"></hr></div>
 
-<p >&nbsp;</p>
-<div className="row">
-<h3 ><b >Our Beliefs and Behaviors</b></h3>
-</div>
+    </div>
 
-<div className="row">
-
-<ul>
-<li className="bullet"><h5 >We believe in hope and hope for a better tomorrow.</h5></li>
-<li className="bullet"><h5 >We demonstrate in thought and action a firm commitment to social justice and diversity.</h5></li>
-<li className="bullet"><h5 >We seek to provide support that is both sustainable and culturally sensitive.</h5></li>
-<li className="bullet"><h5 >We espouse transparency and integrity in all we do.</h5></li>
-<li className="bullet"><h5 >We collaborate in all endeavors and seek to empower others.</h5></li>
-<li className="bullet"><h5 >We impart the importance of servant leadership to others, including youth.</h5></li>
-</ul>
-
-</div>
-
-<p >&nbsp;</p>
-<div className="row">
-<h3 ><b >Five Tenets of FBT Giving</b></h3>
-</div>
-
-<div className="row">
-
-<ul>
-<li className="bullet"><h5 >We comprehensively vet all projects, ensuring they are non-political and non-religious;</h5></li>
-<li className="bullet"><h5 >We create sustainability;</h5></li>
-<li className="bullet"><h5 >We require representation by a liaison personally known to the board at the site of all global projects;</h5></li>
-<li className="bullet"><h5 >We provide support using local vendors to enhance local economies;</h5></li>
-<li className="bullet"><h5 >We ensure that at least 98% of total funds raised go directly toward the projects we support.</h5></li>
-</ul>
-
-</div>
-
-<div><hr class="hr-line"></hr></div>
-
-<h2 className="mission">“Our mission is to promote social justice by meeting needs in the local community and the world through accountable, sustainable philanthropy and by nurturing future generations of servant leaders.”</h2>
-</div>
 
 
 

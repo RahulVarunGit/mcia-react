@@ -3,7 +3,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
 
 
-      <a className="navbar-brand" href="/"><img src="/images/homePage/Logo.jpg" alt="" width="40" height="40" className="rounded" /></a>
+      <a className="navbar-brand" href="/"><img src="/images/base/Logo-Small.png" alt="" width="60" height="40" className="rounded" /></a>
 
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 
@@ -18,32 +18,27 @@ const Navbar = () => {
             <a className="nav-link  " id="navAbout" aria-current="page" href="/about">About Us</a>
           </li>
           <li className="nav-item ">
-            <a className="nav-link " id="navProjects" aria-current="page" href="/projects">Projects</a>
+            <a className="nav-link " id="navProjects" aria-current="page" href="/membership">Membership</a>
           </li>
           <li className="nav-item dropdown">
-            <a className="nav-link " id="navKiteFest" aria-current="page" href="/kitefest">Kite Fest</a>
+            <a className="nav-link " id="navKiteFest" aria-current="page" href="/comittee">Comittee</a>
           </li>
           <li className="nav-item dropdown">
-            <a className="nav-link " id="navYICU" aria-current="page" href="/yicu">YICU</a>
+            <a className="nav-link " id="navYICU" aria-current="page" href="/Events">Events</a>
           </li>
           <li className="nav-item dropdown">
-            <a className="nav-link " id="navYGC" aria-current="page" href="/ygc">YGC</a>
+            <a className="nav-link " id="navYGC" aria-current="page" href="/youth">Youth</a>
           </li>
           <li className="nav-item dropdown">
-            <a className="nav-link " id="navSTEAM" aria-current="page" href="/steam">STEAM</a>
+            <a className="nav-link " id="navSTEAM" aria-current="page" href="/sponsors">Sponsors</a>
           </li>
-          <li className="nav-item dropdown">
-            <a className="nav-link " id="navYGC" aria-current="page" href="/grant">Grant</a>
-          </li>
-          <li className="nav-item" >
-            <a className="nav-link" id="navContact" href="/contact">Contact Us</a>
-          </li>
+
 
         </ul>
 
       </div>
 
-      <a href="/donate" class="btn btn-success my-2 my-sm-0 btn-md active" role="button" aria-pressed="true">Donate</a>
+
 
 
     </nav>
