@@ -26,7 +26,7 @@ const Home = () => {
       <div>
 
         <div>
-          <h2 className="fbt-title"><img src="/images/base/Logo.png" alt="" height="120" className="rounded" />  </h2>
+          <h2 className="fbt-title"><img src="/images/base/Logo.jpg" alt="" height="120" className="rounded" />  </h2>
           <p >&nbsp;</p>
         </div>
 
