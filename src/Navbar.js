@@ -3,7 +3,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
 
 
-      <a className="navbar-brand" href="/"><img src="/images/base/Logo-Small.jpg" alt="" width="60" height="40" className="rounded" /></a>
+      <a className="navbar-brand" href="/"><img src="/images/base/logo-small.jpg" alt="" width="60" height="40" className="rounded" /></a>
 
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 
