@@ -21,7 +21,7 @@ const Navbar = () => {
             <a className="nav-link " id="navProjects" aria-current="page" href="/membership">Membership</a>
           </li>
           <li className="nav-item dropdown">
-            <a className="nav-link " id="navKiteFest" aria-current="page" href="/comittee">Comittee</a>
+            <a className="nav-link " id="navKiteFest" aria-current="page" href="/committee">Comittee</a>
           </li>
           <li className="nav-item dropdown">
             <a className="nav-link " id="navYICU" aria-current="page" href="/Events">Events</a>
@@ -32,7 +32,9 @@ const Navbar = () => {
           <li className="nav-item dropdown">
             <a className="nav-link " id="navSTEAM" aria-current="page" href="/sponsors">Sponsors</a>
           </li>
-
+          <li className="nav-item dropdown">
+            <a className="nav-link " id="navSTEAM" aria-current="page" href="/contact">Contact Us</a>
+          </li>
 
         </ul>
 

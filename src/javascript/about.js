@@ -10,7 +10,7 @@ const About = () => {
       <div>
 
         <div>
-          <h2 className="fbt-title"><img src="/images/base/Logo.png" alt="" height="120" className="rounded" />  </h2>
+          <h2 className="fbt-title"><img src="/images/base/logo.png" alt="" height="120" className="rounded" />  </h2>
           <p >&nbsp;</p>
         </div>
 
@@ -102,6 +102,11 @@ const About = () => {
             <li className="list-unstyled"><h5 >1998 - Mr. Surender Sethi</h5></li>
             <li className="list-unstyled"><h5 >1999 - Mr. Ramesh Chaudhari</h5></li>
             <li className="list-unstyled"><h5 >2000 - Mrs. Asha Chandak      </h5></li>
+            <li className="list-unstyled"><h5 >2001 - Mr. Prasanna Mate</h5></li>
+            <li className="list-unstyled"><h5 >2002 - Mr. Nilesh(Neal) Shah</h5></li>
+            <li className="list-unstyled"><h5 >2003 - Mr. Mandava V Rao</h5></li>
+            <li className="list-unstyled"><h5 >2004 - Mr. Gulshan Bhayana</h5></li>
+            <li className="list-unstyled"><h5 >2005 - Mr. Chandra Shekara</h5></li>
           </ul>
 
         </div>
@@ -109,11 +114,6 @@ const About = () => {
         <div className="col-sm">
 
           <ul>
-            <li className="list-unstyled"><h5 >2001 - Mr. Prasanna Mate</h5></li>
-            <li className="list-unstyled"><h5 >2002 - Mr. Nilesh(Neal) Shah</h5></li>
-            <li className="list-unstyled"><h5 >2003 - Mr. Mandava V Rao</h5></li>
-            <li className="list-unstyled"><h5 >2004 - Mr. Gulshan Bhayana</h5></li>
-            <li className="list-unstyled"><h5 >2005 - Mr. Chandra Shekara</h5></li>
             <li className="list-unstyled"><h5 >2006 - Mr. Rakesh Gulati</h5></li>
             <li className="list-unstyled"><h5 >2007 - Mr. Vinod Thaker</h5></li>
             <li className="list-unstyled"><h5 >2008 - Mr. Vinod Nambiar</h5></li>
@@ -129,6 +129,11 @@ const About = () => {
             <li className="list-unstyled"><h5 >2018 - Mr. Ajay Rolla</h5></li>
             <li className="list-unstyled"><h5 >2019 - Mr. Karthik Goteti</h5></li>
             <li className="list-unstyled"><h5 >2020 - Mr. Karthik Goteti</h5></li>
+            <li className="list-unstyled"><h5 >2021 - </h5></li>
+            <li className="list-unstyled"><h5 >2022 - </h5></li>
+            <li className="list-unstyled"><h5 >2023 -</h5></li>
+            <li className="list-unstyled"><h5 >2024 - </h5></li>
+            <li className="list-unstyled"><h5 >2025 - Urmy Das</h5></li>
             <li className="list-unstyled"><h5 ></h5></li>
           </ul>
 
