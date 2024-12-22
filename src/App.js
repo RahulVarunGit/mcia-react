@@ -14,6 +14,8 @@ import Contact from './javascript/contact';
 import NotFoundPage from './javascript/NotFoundPage';
 import Flyers from './javascript/flyers';
 import Flyer from './javascript/flyer';
+import Badminton from './javascript/badminton';
+import RepublicDay from './javascript/republicDay';
 
 
 
@@ -45,6 +47,8 @@ function App() {
             <Route path="/*" element={<NotFoundPage />} />
             <Route path="/flyers" element={<Flyers />} />
             <Route path="/flyer/:name" element={<Flyer />} />
+            <Route path="/badminton" element={<Badminton />} />
+            <Route path="/republic-day" element={<RepublicDay />} />
 
           </Routes>
 

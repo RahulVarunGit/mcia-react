@@ -1,94 +1,125 @@
-.fullImg{
+.div-border {
+  border: '1px solid rgba(0, 0, 0, 0.05)'
+}
+
+.fullImg {
   width: 100%;
 }
 
-.afs{
+.afs {
   color: #ff9900;
 }
-.afsa{
+
+.afsa {
   text-decoration: underline;
 }
-.listClass{
+
+.listClass {
   list-style-type: circle;
 }
-.highlt{
+
+.highlt {
   color: #1358E5;
 }
-.noBorder{
-  border: none
 
+.noBorder {
+  border: none
 }
-.cF8F8F8{
+
+.cF8F8F8 {
   color: #F8F8F8;
 }
-.cFFFFFF{
+
+.cFFFFFF {
   color: #FFFFFF;
 }
-.c737373{
+
+.c737373 {
   color: #737373;
 }
-.cFF5833{
+
+.cFF5833 {
   color: #FF5833;
 }
-.c646063{
+
+.c646063 {
   color: #646063;
 }
-.cRed{
+
+.cRed {
   color: red;
 }
-.cBlue{
+
+.cBlue {
   color: blue;
 }
-.cGray{
+
+.cGray {
   color: gray;
 }
-.cFont35{
-  font-size:35px;
+
+.cFont35 {
+  font-size: 35px;
 }
+
 .justify {
   text-align: justify;
   text-justify: inter-word;
 }
+
 .logo {
-  font-size:18px;
+  font-size: 18px;
   font-family: 'Courier New', monospace;
   text-align: center;
   font-weight: bold;
 }
-.font-weight-bold{
+
+.font-weight-bold {
   font-weight: bold;
 }
-.cursiveGray{
+
+.cursiveGray {
   font-family: 'Brush Script MT', cursive;
-  color:gray;
+  color: gray;
   text-align: center;
 }
-.cursiveGrayRight{
+
+.cursiveGrayRight {
   font-family: 'Brush Script MT', cursive;
-  color:gray;
+  color: gray;
   text-align: right;
 }
-.line2{
-  height:1px;border-width:0;color:gray;background-color:gray;
+
+.line2 {
+  height: 1px;
+  border-width: 0;
+  color: gray;
+  background-color: gray;
 }
+
 .div-img-text {
-   position: relative;
+  position: relative;
 }
+
 .text-on-image {
   position: absolute;
   text-align: center;
   top: 10%;
   width: 100%;
 }
-.redBg{
-  background-color:#ff8080;
+
+.redBg {
+  background-color: #ff8080;
 }
+
 .nav-link {
   color: black !important;
 }
-.center-align{
+
+.center-align {
   text-align: center;
 }
-.width100{
+
+.width100 {
   width: 100%;
 }

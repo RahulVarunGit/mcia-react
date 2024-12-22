@@ -129,11 +129,11 @@ const About = () => {
             <li className="list-unstyled"><h5 >2018 - Mr. Ajay Rolla</h5></li>
             <li className="list-unstyled"><h5 >2019 - Mr. Karthik Goteti</h5></li>
             <li className="list-unstyled"><h5 >2020 - Mr. Karthik Goteti</h5></li>
-            <li className="list-unstyled"><h5 >2021 - </h5></li>
-            <li className="list-unstyled"><h5 >2022 - </h5></li>
-            <li className="list-unstyled"><h5 >2023 -</h5></li>
-            <li className="list-unstyled"><h5 >2024 - </h5></li>
-            <li className="list-unstyled"><h5 >2025 - Urmy Das</h5></li>
+            <li className="list-unstyled"><h5 >2021 - None</h5></li>
+            <li className="list-unstyled"><h5 >2022 - None</h5></li>
+            <li className="list-unstyled"><h5 >2023 - Mrs Shweta Sawant</h5></li>
+            <li className="list-unstyled"><h5 >2024 - Mrs Shweta Sawant</h5></li>
+            <li className="list-unstyled"><h5 >2025 - Mrs Urmy Das</h5></li>
             <li className="list-unstyled"><h5 ></h5></li>
           </ul>
 
