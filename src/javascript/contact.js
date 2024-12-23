@@ -39,7 +39,7 @@ const contact = () => {
         <div className="col-sm">
 
           <h3 className="center-align"><img src="/images/contact/mail.jpg" alt="Email" width="75" height="75" className="rounded-circle"></img></h3>
-          <h4 className="center-align"><a href="mailto:ourmcia@gmail.com">outmcia@gmail.com</a></h4>
+          <h4 className="center-align"><a href="mailto:ourmcia@gmail.com">ourmcia@gmail.com</a></h4>
         </div>
 
       </div>
