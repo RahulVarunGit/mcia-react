@@ -37,22 +37,78 @@ const Home = () => {
       <div><hr class="hr-line"></hr></div>
 
       <div>
-        <h4 className="center-align">2025 MCIA Registration is open. Register before Dec 31, 2024 to avail 10% discount.</h4>
+        <h4 className="center-align">2025 MCIA Registration is open.</h4>
         <h4 className="center-align">Member enjoy <b>Exclusive Discounts</b> on ticketed events.</h4>
         <h4 className="center-align">Members-Only Access to stage performances & participation opportunities.</h4>
+        <div className="row">
+
+          <div className="col-md-4 ">
+
+          </div>
+
+          <div className="col-md-4">
+
+            <div className="div-img-text">
+
+              <img src="/images/base/Square.png" alt="" width="100%" className="rounded-circle"></img>
+              <div className="text-on-image">
+
+                <p >&nbsp;</p>
+                <p >&nbsp;</p>
+                <h3 ><b ><a href="/membership"><b><span className="#ca370f">Join Now</span></b></a></b></h3>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div className="col-md-4 ">
+
+          </div>
+
+        </div>
+
       </div>
 
+      <div><hr class="hr-line"></hr></div>
+
       <div>
-        <h4 className="center-align"><b ></b></h4>
-        <p className="center-align"><a href="https://www.zeffy.com/en-US/ticketing/mciamclean-county-india-association-memberships--2025"><img src="/images/flyers/MCIA-Registration.jpg" alt="" width="80%" className="rounded" /></a></p>
-        <div><hr class="hr-line"></hr></div>
+        <h4 className="center-align">MCIA has plans for lot of activities in 2025</h4>
+        <h4 className="center-align">Member enjoy <b>Exclusive Discounts</b> on ticketed events.</h4>
+        <h4 className="center-align">View planned events. And keep watching for more... </h4>
+      </div>
+
+      <div className="row">
+
+        <div className="col-md-4 ">
+
+        </div>
+
+        <div className="col-md-4">
+
+          <div className="div-img-text">
+
+            <img src="/images/base/Square.png" alt="" width="100%" className="rounded-circle"></img>
+            <div className="text-on-image">
+
+              <p >&nbsp;</p>
+              <p >&nbsp;</p>
+              <h3 ><b ><a href="/Events"><b><span className="#ca370f">View upcoming MCIA events</span></b></a></b></h3>
+            </div>
+
+          </div>
+
+        </div>
+
+        <div className="col-md-4 ">
+
+        </div>
 
       </div>
 
       <p >&nbsp;</p>
       <div><hr class="hr-line"></hr></div>
 
-      <p >&nbsp;&nbsp;</p>
     </div>
 
 
