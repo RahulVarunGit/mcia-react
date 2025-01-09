@@ -38,7 +38,9 @@ const Badminton = () => {
 
                             <p >&nbsp;</p>
                             <p >&nbsp;</p>
-                            <h3 ><b ><a href="Https://challonge.com/MCIA2025mens" target="_blank"><b><span className="#ca370f">Mens Doubles Pairings</span></b></a></b></h3>
+
+                            <h3 ><b ><a href="Https://challonge.com/MCIA2025mens" target="_blank"><b><span className="#ca370f">Mens Doubles</span></b></a></b></h3>
+                            <h3 ><b ><a href="Https://challonge.com/MCIA2025mens" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
                         </div>
 
                     </div>
@@ -54,7 +56,8 @@ const Badminton = () => {
 
                             <p >&nbsp;</p>
                             <p >&nbsp;</p>
-                            <h3 ><b ><a href="Https://challonge.com/MCIA2025women" target="_blank"><b><span className="#ca370f">Womens Doubles Pairings</span></b></a></b></h3>
+                            <h3 ><b ><a href="Https://challonge.com/MCIA2025women" target="_blank"><b><span className="#ca370f">Womens Doubles</span></b></a></b></h3>
+                            <h3 ><b ><a href="Https://challonge.com/MCIA2025women" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
                         </div>
 
                     </div>
@@ -70,7 +73,8 @@ const Badminton = () => {
 
                             <p >&nbsp;</p>
                             <p >&nbsp;</p>
-                            <h3 ><b ><a href="Https://challonge.com/MCIA2025mixed" target="_blank"><b><span className="#ca370f">Mixed Doubles Pairings</span></b></a></b></h3>
+                            <h3 ><b ><a href="Https://challonge.com/MCIA2025mixed" target="_blank"><b><span className="#ca370f">Mixed Doubles</span></b></a></b></h3>
+                            <h3 ><b ><a href="Https://challonge.com/MCIA2025mixed" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
                         </div>
 
                     </div>

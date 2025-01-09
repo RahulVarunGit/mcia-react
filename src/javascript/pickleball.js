@@ -43,7 +43,8 @@ const Badminton = () => {
 
                             <p >&nbsp;</p>
                             <p >&nbsp;</p>
-                            <h3 ><b ><a href="Https://challonge.com/MCIAPBYouth" target="_blank"><b><span className="#ca370f">Pickleball Youth Pairings</span></b></a></b></h3>
+                            <h3 ><b ><a href="Https://challonge.com/MCIAPBYouth" target="_blank"><b><span className="#ca370f">Pickleball Youth</span></b></a></b></h3>
+                            <h3 ><b ><a href="Https://challonge.com/MCIAPBYouth" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
                         </div>
 
                     </div>
@@ -59,7 +60,8 @@ const Badminton = () => {
 
                             <p >&nbsp;</p>
                             <p >&nbsp;</p>
-                            <h3 ><b ><a href="Https://challonge.com/MCIAPBAdult" target="_blank"><b><span className="#ca370f">Pickleball Adult Pairings</span></b></a></b></h3>
+                            <h3 ><b ><a href="Https://challonge.com/MCIAPBAdult" target="_blank"><b><span className="#ca370f">Pickleball Adult</span></b></a></b></h3>
+                            <h3 ><b ><a href="Https://challonge.com/MCIAPBAdult" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
                         </div>
 
                     </div>

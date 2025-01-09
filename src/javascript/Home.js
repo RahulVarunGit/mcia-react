@@ -93,7 +93,8 @@ const Home = () => {
 
               <p >&nbsp;</p>
               <p >&nbsp;</p>
-              <h3 ><b ><a href="/Events"><b><span className="#ca370f">View upcoming MCIA events</span></b></a></b></h3>
+              <h3 ><b ><a href="/Events"><b><span className="#ca370f">View upcoming</span></b></a></b></h3>
+              <h3 ><b ><a href="/Events"><b><span className="#ca370f">MCIA events</span></b></a></b></h3>
             </div>
 
           </div>
