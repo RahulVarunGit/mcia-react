@@ -15,6 +15,7 @@ import NotFoundPage from './javascript/NotFoundPage';
 import Flyers from './javascript/flyers';
 import Flyer from './javascript/flyer';
 import Badminton from './javascript/badminton';
+import Pickleball from './javascript/pickleball';
 import RepublicDay from './javascript/republicDay';
 
 
@@ -48,6 +49,7 @@ function App() {
             <Route path="/flyers" element={<Flyers />} />
             <Route path="/flyer/:name" element={<Flyer />} />
             <Route path="/badminton" element={<Badminton />} />
+            <Route path="/pickleball" element={<Pickleball />} />
             <Route path="/republic-day" element={<RepublicDay />} />
 
           </Routes>

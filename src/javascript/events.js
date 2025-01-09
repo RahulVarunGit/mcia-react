@@ -4,7 +4,6 @@ import '../styles/Home.css';
 const Events = () => {
 
   return (
-
     <div className="container">
 
       <div>
@@ -55,7 +54,8 @@ const Events = () => {
           <h5 >Where : Bloomington Tennis & Turf Center</h5>
           <h5 >4101, Wicker Rd, Bloomington</h5>
           <h5 >When : 11 & 12 January, 2024</h5>
-          <h5 ><a type="button" class="btn btn-primary btn-lg" href="https://forms.gle/KKY3K41YfTTRnsmJ7">Register here</a></h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/badminton">Badminton Pairings</a></h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/pickleball">Pickleball Pairings</a></h5>
         </div>
 
       </div>
