@@ -28,9 +28,24 @@ const Sponsors = () => {
       <div><hr class="hr-line"></hr></div>
 
       <div>
+        <h2 className="fbt-title"><img src="/images/sponsors/Bloom-Bazaar.png" alt="" width="60%" className="rounded" />  </h2>
+        <p >&nbsp;</p>
+        <h5 className="center-align"><b >Silver Sponsor</b></h5>
+      </div>
+
+      <div>
         <h2 className="fbt-title"><img src="/images/sponsors/GNR.png" alt="" width="60%" className="rounded" />  </h2>
         <p >&nbsp;</p>
         <h5 className="center-align"><b >Silver Sponsor</b></h5>
+      </div>
+
+      <p >&nbsp;</p>
+      <div><hr class="hr-line"></hr></div>
+
+      <div>
+        <h2 className="fbt-title"><img src="/images/sponsors/Akruti.png" alt="" width="40%" className="rounded" />  </h2>
+        <p >&nbsp;</p>
+        <h5 className="center-align"><b >Bronze Sponsor</b></h5>
       </div>
 
       <p >&nbsp;</p>
@@ -55,7 +70,6 @@ const Sponsors = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
-
 
 
 
