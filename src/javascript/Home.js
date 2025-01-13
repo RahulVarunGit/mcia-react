@@ -3,7 +3,6 @@ import '../styles/Home.css';
 
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
-import projectData from '../data/projectData.json';
 import parse from 'html-react-parser';
 
 const Home = () => {

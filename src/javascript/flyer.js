@@ -5,6 +5,7 @@ import flyerData from '../data/flyerData.json';
 
 const Flyer = () => {
     const { name } = useParams();
+
     var flyerName = "YGC.jpg";
 
     flyerData.flyers.map((flyer, index) => {

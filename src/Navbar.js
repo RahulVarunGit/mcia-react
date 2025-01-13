@@ -30,6 +30,9 @@ const Navbar = () => {
             <a className="nav-link " id="navYGC" aria-current="page" href="/youth">Youth</a>
           </li>
           <li className="nav-item dropdown">
+            <a className="nav-link " id="navGalley" aria-current="page" href="/gallery">Gallery</a>
+          </li>
+          <li className="nav-item dropdown">
             <a className="nav-link " id="navSTEAM" aria-current="page" href="/sponsors">Sponsors</a>
           </li>
           <li className="nav-item dropdown">

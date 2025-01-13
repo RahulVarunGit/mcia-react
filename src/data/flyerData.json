@@ -1,84 +1,9 @@
 {
     "flyers": [
         {
-            "name": "STEAM 2025 Designathon BLM",
-            "file": "STEAM-2025-Designathon-BLM.png",
-            "link": "STEAM-2025-designathon-blm"
-        },
-        {
-            "name": "STEAM 2025 Designathon TX",
-            "file": "STEAM-2025-Designathon-TX.png",
-            "link": "STEAM-2025-designathon-tx"
-        },
-        {
-            "name": "STEAM 2025 Designathon Virtual",
-            "file": "STEAM-2025-Designathon-Virtual.png",
-            "link": "STEAM-2025-designathon-virtual"
-        },
-        {
-            "name": "STEAM 2025 Science Fair",
-            "file": "STEAM-2025-Science-Fair.png",
-            "link": "STEAM-2025-Science-Fair"
-        },
-        {
-            "name": "STEAM 2025 3D Printing Workshop",
-            "file": "STEAM-2025-3D-Printing.png",
-            "link": "STEAM-2025-3D-Printing"
-        },
-        {
-            "name": "STEAM 2025 Math Test",
-            "file": "STEAM-2025-Math-Test.png",
-            "link": "STEAM-2025-Math-Test"
-        },
-        {
-            "name": "STEAM 2025 Science Test",
-            "file": "STEAM-2025-Science-Test.png",
-            "link": "STEAM-2025-Science-Test"
-        },
-        {
-            "name": "STEAM 2025 Spelling Bee",
-            "file": "STEAM-2025-Spelling-Bee.png",
-            "link": "STEAM-2025-Spelling-Bee"
-        },
-        {
-            "name": "STEAM 2025 STEAM Quest",
-            "file": "STEAM-2025-STEAM-Quest.png",
-            "link": "STEAM-2025-STEAM-Quest"
-        },
-        {
-            "name": "Kite Fest 2025",
-            "file": "KiteFest2025.jpg",
-            "link": "kitefest2025"
-        },
-        {
-            "name": "STEAM 2025",
-            "file": "STEAM2025.png",
-            "link": "steam2025"
-        },
-        {
-            "name": "YGC",
-            "file": "YGC.jpg",
-            "link": "ygc"
-        },
-        {
-            "name": "Kite Fest 2024",
-            "file": "KiteFest2024.jpg",
-            "link": "kitefest2024"
-        },
-        {
-            "name": "Kite Fest 2024 - Nonprofit Fair",
-            "file": "KiteFest-NonProfitFair.jpg",
-            "link": "nonprofitfair"
-        },
-        {
-            "name": "Kite Fest 2024 - Sponsor",
-            "file": "KiteFest-Sponsor.jpg",
-            "link": "sponsor"
-        },
-        {
-            "name": "Kite Fest 2024 - Talent Show",
-            "file": "KiteFest-Talent.jpg",
-            "link": "talent"
+            "name": "MCIA 2025 Badminton and Pickleball Tournament",
+            "file": "MCIA-Badminton.jpg",
+            "link": "MCIA-2025-badminton"
         }
     ]
 }
