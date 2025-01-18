@@ -33,7 +33,7 @@ const Events = () => {
           <h5 ><b ><u ><a href="/republic-day">2025 Republic Day</a></u></b></h5>
           <h5 >Where : Normal Community Activity Center</h5>
           <h5 >1110 Douglas St, Normal, IL 61761</h5>
-          <h5 >When : 18 January, 2024</h5>
+          <h5 >When : 18 January, 2025</h5>
           <h5 ><a type="button" class="btn btn-primary btn-lg" href="https://tinyurl.com/MCIA25">Register here</a></h5>
         </div>
 
@@ -53,7 +53,7 @@ const Events = () => {
           <h5 ><b ><u ><a href="/badminton">2025 Badminton & Pickleball Tournament</a></u></b></h5>
           <h5 >Where : Bloomington Tennis & Turf Center</h5>
           <h5 >4101, Wicker Rd, Bloomington</h5>
-          <h5 >When : 11 & 12 January, 2024</h5>
+          <h5 >When : 11 & 12 January, 2025</h5>
           <h5 ><a type="button" class="btn btn-primary btn-lg" href="/badminton">Badminton Pairings</a></h5>
           <h5 ><a type="button" class="btn btn-primary btn-lg" href="/pickleball">Pickleball Pairings</a></h5>
         </div>
