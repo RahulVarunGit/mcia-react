@@ -60,8 +60,7 @@ const Events = () => {
           <h5 >Where : Bloomington Tennis & Turf Center</h5>
           <h5 >4101, Wicker Rd, Bloomington</h5>
           <h5 >When : 11 & 12 January, 2025</h5>
-          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/badminton">Badminton Pairings</a></h5>
-          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/pickleball">Pickleball Pairings</a></h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/galleryView/2025-Badminton-Pickleball">Badminton & Pickleball Gallery</a></h5>
         </div>
 
       </div>
@@ -69,6 +68,7 @@ const Events = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
+
 
 
   );
