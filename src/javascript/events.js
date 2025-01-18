@@ -4,6 +4,7 @@ import '../styles/Home.css';
 const Events = () => {
 
   return (
+
     <div className="container">
 
       <div>
@@ -15,10 +16,9 @@ const Events = () => {
       </div>
 
       <div className="row">
-        <h4 className="center-align"><b >Events</b></h4>
+        <h3 className="center-align"><b >Upcoming Events</b></h3>
       </div>
 
-      <p >&nbsp;</p>
       <div><hr class="hr-line"></hr></div>
 
       <div className="row">
@@ -43,6 +43,12 @@ const Events = () => {
 
       <div className="row">
 
+        <div className="row">
+          <h3 className="center-align"><b >Past Events</b></h3>
+        </div>
+
+        <div><hr class="hr-line"></hr></div>
+
         <div className="col-sm-3">
 
           <p className="center-align"><a href="/badminton"><img src="/images/flyers/MCIA-Badminton.jpg" alt="" width="100%" className="rounded" /></a></p>
@@ -63,8 +69,6 @@ const Events = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
-
-
 
 
   );
