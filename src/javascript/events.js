@@ -25,6 +25,32 @@ const Events = () => {
 
         <div className="col-sm-3">
 
+          <p className="center-align"><a href="https://tinyurl.com/MCIA25ARTS"><img src="/images/flyers/MCIA25-Art.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/republic-day">2025 Kids Art Compitition</a></u></b></h5>
+          <h5 >Where : Parke Regency</h5>
+          <h5 >1413 Leslie Dr</h5>
+          <h5 >When : 8 Feb, 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="https://tinyurl.com/MCIA25ARTS">Register here</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+        <h3 className="center-align"><b >Past Events</b></h3>
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
           <p className="center-align"><a href="/republic-day"><img src="/images/flyers/MCIA-Republic-Day.jpg" alt="" width="100%" className="rounded" /></a></p>
         </div>
 
@@ -34,7 +60,7 @@ const Events = () => {
           <h5 >Where : Normal Community Activity Center</h5>
           <h5 >1110 Douglas St, Normal, IL 61761</h5>
           <h5 >When : 18 January, 2025</h5>
-          <h5 ><a type="button" class="btn btn-primary btn-lg" href="https://tinyurl.com/MCIA25">Register here</a></h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/galleryView/2025-Republic-Day">Republic Day Gallery</a></h5>
         </div>
 
       </div>
@@ -42,12 +68,6 @@ const Events = () => {
       <div><hr class="hr-line"></hr></div>
 
       <div className="row">
-
-        <div className="row">
-          <h3 className="center-align"><b >Past Events</b></h3>
-        </div>
-
-        <div><hr class="hr-line"></hr></div>
 
         <div className="col-sm-3">
 

@@ -1,26 +1,28 @@
 {
     "galleries": [
         {
-            "name": "2025 MLK Award Ceremony",
-            "details": "MCIA Youth Team volunteering at 49th MLK Awards Ceremony on Jan 11, 2025. MCIA Youth Team is lead by youth comittee head Uma Kailasam.",
-            "more": "https://www.normalil.gov/396/Dr-Martin-Luther-King-Jr-Awards-Ceremony",
-            "link": "2025-MLK-Award-Ceremony",
+            "name": "2025 Republic Day",
+            "details": "MCIA Republic day cultural events.",
+            "more": "",
+            "link": "2025-Republic-Day",
             "profile": "MLK25-000.jpg",
             "pics": [
-                "MLK25-001.jpg",
-                "MLK25-002.jpg",
-                "MLK25-003.jpg",
-                "MLK25-004.jpg",
-                "MLK25-005.jpg",
-                "MLK25-006.jpg",
-                "MLK25-007.jpg",
-                "MLK25-008.jpg"
+                "RD25-001.jpg",
+                "RD25-002.jpg",
+                "RD25-003.jpg",
+                "RD25-004.jpg",
+                "RD25-005.jpg",
+                "RD25-006.jpg",
+                "RD25-007.jpg",
+                "RD25-008.jpg",
+                "RD25-009.jpg",
+                "RD25-010.jpg"
             ]
         },
         {
             "name": "2025 Badminton & Pickleball Tournament",
             "details": "MCIA's annual badminton tournament is now badminton and pickleball tournament.",
-            "more": "https://www.normalil.gov/396/Dr-Martin-Luther-King-Jr-Awards-Ceremony",
+            "more": "",
             "link": "2025-Badminton-Pickleball",
             "profile": "BP25-000.jpg",
             "pics": [
@@ -48,6 +50,23 @@
                 "BP25-023.jpg",
                 "BP25-024.jpg",
                 "BP25-025.jpg"
+            ]
+        },
+        {
+            "name": "2025 MLK Award Ceremony",
+            "details": "MCIA Youth Team volunteering at 49th MLK Awards Ceremony on Jan 11, 2025. MCIA Youth Team is lead by youth comittee head Uma Kailasam.",
+            "more": "https://www.normalil.gov/396/Dr-Martin-Luther-King-Jr-Awards-Ceremony",
+            "link": "2025-MLK-Award-Ceremony",
+            "profile": "MLK25-000.jpg",
+            "pics": [
+                "MLK25-001.jpg",
+                "MLK25-002.jpg",
+                "MLK25-003.jpg",
+                "MLK25-004.jpg",
+                "MLK25-005.jpg",
+                "MLK25-006.jpg",
+                "MLK25-007.jpg",
+                "MLK25-008.jpg"
             ]
         }
     ]

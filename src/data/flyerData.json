@@ -1,6 +1,11 @@
 {
     "flyers": [
         {
+            "name": "MCIA 2025 Kids Art Competition",
+            "file": "MCIA25-Art.jpg",
+            "link": "MCIA-2025-Art"
+        },
+        {
             "name": "MCIA 2025 Badminton and Pickleball Tournament",
             "file": "MCIA-Badminton.jpg",
             "link": "MCIA-2025-badminton"
