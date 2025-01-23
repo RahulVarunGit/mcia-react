@@ -29,11 +29,11 @@ const Events = () => {
 
         <div className="col-sm-9">
 
-          <h5 ><b ><u ><a href="/volleyball">2025 MCIA Volleyball Tournament</a></u></b></h5>
+          <h5 ><b ><u ><a href="/volleyball">2025 MCIA Set and Spike Challenge</a></u></b></h5>
           <h5 >Where : Eastview Church</h5>
           <h5 >1500 Airport Rd, Normal IL</h5>
           <h5 >When : 15 March, 2025</h5>
-          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/volleyball">Volleyball Registration</a></h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/volleyball">Volleyball and Throwball Registration</a></h5>
         </div>
 
       </div>
@@ -75,7 +75,7 @@ const Events = () => {
 
         <div className="col-sm-9">
 
-          <h5 ><b ><u ><a href="/republic-day">2025 Republic Day</a></u></b></h5>
+          <h5 ><b ><u ><a href="/galleryView/2025-Republic-Day">2025 Republic Day</a></u></b></h5>
           <h5 >Where : Normal Community Activity Center</h5>
           <h5 >1110 Douglas St, Normal, IL 61761</h5>
           <h5 >When : 18 January, 2025</h5>
@@ -95,7 +95,7 @@ const Events = () => {
 
         <div className="col-sm-9">
 
-          <h5 ><b ><u ><a href="/badminton">2025 Badminton & Pickleball Tournament</a></u></b></h5>
+          <h5 ><b ><u ><a href="/galleryView/2025-Badminton-Pickleball">2025 Badminton & Pickleball Tournament</a></u></b></h5>
           <h5 >Where : Bloomington Tennis & Turf Center</h5>
           <h5 >4101, Wicker Rd, Bloomington</h5>
           <h5 >When : 11 & 12 January, 2025</h5>

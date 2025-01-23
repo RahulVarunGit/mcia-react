@@ -13,7 +13,8 @@ const Volleyball = () => {
 
             <p >&nbsp;</p>
             <div className="row">
-                <h4 className="center-align"><b ><u >2025 MCIA Volleyball Tournament</u></b></h4>
+                <h4 className="center-align"><b ><u >2025 MCIA Set and Spike Challenge</u></b></h4>
+                <h4 className="center-align"><b >Volleyball and Throwball Tournament</b></h4>
             </div>
 
             <div><hr class="hr-line"></hr></div>
@@ -22,7 +23,6 @@ const Volleyball = () => {
                 <h4 className="center-align">Where : Eastview Church</h4>
                 <h4 className="center-align">1500 Airport Rd, Normal IL</h4>
                 <h4 className="center-align">When : 15 March, 2025</h4>
-
                 <h4 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="https://www.zeffy.com/ticketing/2025-mcia-set-and-spike-challenge">Register here</a></h4>
             </div>
 
