@@ -25,6 +25,26 @@ const Events = () => {
 
         <div className="col-sm-3">
 
+          <p className="center-align"><a href="/volleyball"><img src="/images/flyers/MCIA25-Volleyball.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/republic-day">2025 MCIA Volleyball Tournament</a></u></b></h5>
+          <h5 >Where : Eastview Church</h5>
+          <h5 >1500 Airport Rd, Normal IL</h5>
+          <h5 >When : 15 March, 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/volleyball">Volleyball Registration</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
           <p className="center-align"><a href="https://tinyurl.com/MCIA25ARTS"><img src="/images/flyers/MCIA25-Art.jpg" alt="" width="100%" className="rounded" /></a></p>
         </div>
 

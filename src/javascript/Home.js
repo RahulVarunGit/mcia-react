@@ -25,7 +25,7 @@ const Home = () => {
       <div>
 
         <div>
-          <h2 className="fbt-title"><img src="/images/base/logo.png" alt="" height="120" className="rounded" />  </h2>
+          <h2 className="fbt-title"><img src="/images/base/MCIA-Logo-2.jpg" alt="" width="60%" className="rounded" />  </h2>
           <p >&nbsp;</p>
         </div>
 
@@ -36,9 +36,8 @@ const Home = () => {
       <div><hr class="hr-line"></hr></div>
 
       <div>
-        <h4 className="center-align">2025 MCIA Registration is open.</h4>
-        <h4 className="center-align">Member enjoy <b>Exclusive Discounts</b> on ticketed events.</h4>
-        <h4 className="center-align">Members-Only Access to stage performances & participation opportunities.</h4>
+        <h4 className="center-align"><b >2025 MCIA Registration is open.</b></h4>
+        <h4 className="center-align">Join today to enjoy exclusive discounts on ticketed events, members-only access to stage performances, and special participation opportunities.</h4>
         <div className="row">
 
           <div className="col-md-4 ">
@@ -54,7 +53,7 @@ const Home = () => {
 
                 <p >&nbsp;</p>
                 <p >&nbsp;</p>
-                <h3 ><b ><a href="/membership"><b><span className="#ca370f">Join Now</span></b></a></b></h3>
+                <h3 ><b ><a href="/membership"><b><span className="#ca370f">Join your MCIA Community</span></b></a></b></h3>
               </div>
 
             </div>
@@ -92,8 +91,7 @@ const Home = () => {
 
               <p >&nbsp;</p>
               <p >&nbsp;</p>
-              <h3 ><b ><a href="/Events"><b><span className="#ca370f">View upcoming</span></b></a></b></h3>
-              <h3 ><b ><a href="/Events"><b><span className="#ca370f">MCIA events</span></b></a></b></h3>
+              <h3 ><b ><a href="/Events"><b><span className="#ca370f">Explore Future and Previous Events</span></b></a></b></h3>
             </div>
 
           </div>
