@@ -4,7 +4,6 @@ import '../styles/Home.css';
 const Events = () => {
 
   return (
-
     <div className="container">
 
       <div>
@@ -30,7 +29,7 @@ const Events = () => {
 
         <div className="col-sm-9">
 
-          <h5 ><b ><u ><a href="/republic-day">2025 MCIA Volleyball Tournament</a></u></b></h5>
+          <h5 ><b ><u ><a href="/volleyball">2025 MCIA Volleyball Tournament</a></u></b></h5>
           <h5 >Where : Eastview Church</h5>
           <h5 >1500 Airport Rd, Normal IL</h5>
           <h5 >When : 15 March, 2025</h5>
@@ -50,7 +49,7 @@ const Events = () => {
 
         <div className="col-sm-9">
 
-          <h5 ><b ><u ><a href="/republic-day">2025 Kids Art Compitition</a></u></b></h5>
+          <h5 ><b ><u ><a href="https://tinyurl.com/MCIA25ARTS">2025 Kids Art Compitition</a></u></b></h5>
           <h5 >Where : Parke Regency</h5>
           <h5 >1413 Leslie Dr</h5>
           <h5 >When : 8 Feb, 2025</h5>
