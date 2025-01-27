@@ -63,7 +63,16 @@ const Sponsors = () => {
       <div>
         <h2 className="fbt-title"><img src="/images/sponsors/WokToBowl.png" alt="" width="40%" className="rounded" />  </h2>
         <p >&nbsp;</p>
-        <h5 className="center-align"><b >Badminton & Pickleball Sposnor</b></h5>
+        <h5 className="center-align"><b >Badminton & Pickleball Sponsor</b></h5>
+      </div>
+
+      <p >&nbsp;</p>
+      <div><hr class="hr-line"></hr></div>
+
+      <div>
+        <h2 className="fbt-title"><img src="/images/sponsors/signature.jpg" alt="" width="40%" className="rounded" />  </h2>
+        <p >&nbsp;</p>
+        <h5 className="center-align"><b >Title sponsors for Volleyball and Throwball Tournament</b></h5>
       </div>
 
       <p >&nbsp;</p>
