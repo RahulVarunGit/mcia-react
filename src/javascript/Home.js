@@ -48,14 +48,7 @@ const Home = () => {
 
             <div className="div-img-text">
 
-              <img src="/images/base/Square.png" alt="" width="100%" className="rounded-circle"></img>
-              <div className="text-on-image">
-
-                <p >&nbsp;</p>
-                <p >&nbsp;</p>
-                <h3 ><b ><a href="/membership"><b><span className="#ca370f">Join your MCIA Community</span></b></a></b></h3>
-              </div>
-
+              <a href="/membership"><img src="/images/base/JoinCommunity.jpg" alt="" width="100%" className="rounded-circle"></img></a>
             </div>
 
           </div>
@@ -86,14 +79,7 @@ const Home = () => {
 
           <div className="div-img-text">
 
-            <img src="/images/base/Square.png" alt="" width="100%" className="rounded-circle"></img>
-            <div className="text-on-image">
-
-              <p >&nbsp;</p>
-              <p >&nbsp;</p>
-              <h3 ><b ><a href="/Events"><b><span className="#ca370f">Explore Future and Previous Events</span></b></a></b></h3>
-            </div>
-
+            <a href="/Events"><img src="/images/base/Explore.jpg" alt="" width="100%" className="rounded-circle"></img></a>
           </div>
 
         </div>

@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg navbar-light  navbar-custom">
 
 
       <a className="navbar-brand" href="/"><img src="/images/base/logo-small.jpg" alt="" width="60" height="40" className="rounded" /></a>
