@@ -2,6 +2,7 @@
 
 
 import Navbar from './Navbar';
+import Footer from './Footer';
 import Home from './javascript/Home';
 import About from './javascript/about';
 import Membership from './javascript/membership';
@@ -65,6 +66,7 @@ function App() {
           </Routes>
 
         </div>
+        <Footer />
       </div>
     </Router>
   );

@@ -3,8 +3,13 @@
 }
 
 .navbar-custom {
-  background: linear-gradient(-15deg, green, white, white, #ff6600);
+  background: linear-gradient(-15deg, white, white, white, white, white, white, white, white, green, white, white, #ff6600);
 }
+
+.footer-custom {
+  background: linear-gradient(-15deg, green, white, white, #ff6600, white, white, white, white, white, white, white, white);
+}
+
 
 .fullImg {
   width: 100%;
