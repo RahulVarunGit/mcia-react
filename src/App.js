@@ -19,6 +19,7 @@ import Volleyball from './javascript/volleyball';
 import Badminton from './javascript/badminton';
 import Pickleball from './javascript/pickleball';
 import RepublicDay from './javascript/republicDay';
+import WomensDay from './javascript/womensDay';
 
 import Gallery from './javascript/gallery';
 import GalleryView from './javascript/galleryView';
@@ -58,6 +59,7 @@ function App() {
             <Route path="/badminton" element={<Badminton />} />
             <Route path="/pickleball" element={<Pickleball />} />
             <Route path="/republic-day" element={<RepublicDay />} />
+            <Route path="/womensDay" element={<WomensDay />} />
 
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/galleryView/:name" element={<GalleryView />} />

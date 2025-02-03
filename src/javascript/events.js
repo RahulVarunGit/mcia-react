@@ -44,6 +44,25 @@ const Events = () => {
 
         <div className="col-sm-3">
 
+          <p className="center-align"><a href="/womensDay"><img src="/images/flyers/ComingSoon.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/womensDay">2025 MCIA Women's Day</a></u></b></h5>
+          <h5 >Where : 1413 Leslie Dr, Bloomington IL</h5>
+          <h5 >When : 9 March, 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/womensDay">Secure your spot</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
           <p className="center-align"><a href="https://tinyurl.com/MCIA25ARTS"><img src="/images/flyers/MCIA25-Art.jpg" alt="" width="100%" className="rounded" /></a></p>
         </div>
 
