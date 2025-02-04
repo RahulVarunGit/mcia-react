@@ -24,7 +24,7 @@ const About = () => {
 
       <div>
         <h4 className="center-align"><b ></b></h4>
-        <p className="center-align"><a href="https://www.zeffy.com/en-US/ticketing/mcia-womens-day"><img src="/images/flyers/ComingSoon.jpg" alt="" width="80%" className="rounded" /></a></p>
+        <p className="center-align"><a href="https://www.zeffy.com/en-US/ticketing/mcia-womens-day"><img src="/images/flyers/MCIA25-Womens-Day.jpg" alt="" width="80%" className="rounded" /></a></p>
         <div><hr class="hr-line"></hr></div>
 
       </div>
