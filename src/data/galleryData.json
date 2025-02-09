@@ -1,6 +1,19 @@
 {
     "galleries": [
         {
+            "name": "2025 Kids Art Competition",
+            "details": "MCIA 2025 Kids Art Competition.",
+            "more": "",
+            "link": "2025-Kids-Art-Competition",
+            "profile": "ART25-2.jpg",
+            "pics": [
+                "ART25-1.jpg",
+                "ART25-2.jpg",
+                "ART25-3.jpg",
+                "ART25-4.jpg"
+            ]
+        },
+        {
             "name": "2025 Republic Day",
             "details": "MCIA Republic day cultural events.",
             "more": "",

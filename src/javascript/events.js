@@ -4,6 +4,7 @@ import '../styles/Home.css';
 const Events = () => {
 
   return (
+
     <div className="container">
 
       <div>
@@ -44,7 +45,7 @@ const Events = () => {
 
         <div className="col-sm-3">
 
-          <p className="center-align"><a href="/womensDay"><img src="/images/flyers/MCIA25-Womens-Day.jpg" alt="" width="100%" className="rounded" /></a></p>
+          <p className="center-align"><a href="/womensDay"><img src="/images/flyers/ComingSoon.jpg" alt="" width="100%" className="rounded" /></a></p>
         </div>
 
         <div className="col-sm-9">
@@ -53,26 +54,6 @@ const Events = () => {
           <h5 >Where : 1413 Leslie Dr, Bloomington IL</h5>
           <h5 >When : 9 March, 2025</h5>
           <h5 ><a type="button" class="btn btn-primary btn-lg" href="/womensDay">Secure your spot</a></h5>
-        </div>
-
-      </div>
-
-      <div><hr class="hr-line"></hr></div>
-
-      <div className="row">
-
-        <div className="col-sm-3">
-
-          <p className="center-align"><a href="https://tinyurl.com/MCIA25ARTS"><img src="/images/flyers/MCIA25-Art.jpg" alt="" width="100%" className="rounded" /></a></p>
-        </div>
-
-        <div className="col-sm-9">
-
-          <h5 ><b ><u ><a href="https://tinyurl.com/MCIA25ARTS">2025 Kids Art Compitition</a></u></b></h5>
-          <h5 >Where : Parke Regency</h5>
-          <h5 >1413 Leslie Dr</h5>
-          <h5 >When : 8 Feb, 2025</h5>
-          <h5 ><a type="button" class="btn btn-primary btn-lg" href="https://tinyurl.com/MCIA25ARTS">Register here</a></h5>
         </div>
 
       </div>
@@ -89,7 +70,27 @@ const Events = () => {
 
         <div className="col-sm-3">
 
-          <p className="center-align"><a href="/republic-day"><img src="/images/flyers/MCIA-Republic-Day.jpg" alt="" width="100%" className="rounded" /></a></p>
+          <p className="center-align"><a href="/galleryView/2025-Kids-Art-Competition"><img src="/images/flyers/MCIA25-Art.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/galleryView/2025-Kids-Art-Competition">2025 Kids Art Competition</a></u></b></h5>
+          <h5 >Where : Parke Regency</h5>
+          <h5 >1413 Leslie Dr</h5>
+          <h5 >When : 8 Feb, 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/galleryView/2025-Kids-Art-Competition">Art Competition Gallery</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/galleryView/2025-Republic-Day"><img src="/images/flyers/MCIA-Republic-Day.jpg" alt="" width="100%" className="rounded" /></a></p>
         </div>
 
         <div className="col-sm-9">
