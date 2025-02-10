@@ -33,6 +33,12 @@ const Home = () => {
       </div>
 
       <p >&nbsp;</p>
+      <div>
+        <h2 className="fbt-title"><img src="/images/base/501c3.jpg" alt="" height="120" className="rounded" />  </h2>
+        <h4 >As of Jan 23 2025 MCIA is now officially recognized as 501(c)(3) nonprofit organization by the IRS. <a href="/about"> Click here to learn more.</a></h4>
+        <p >&nbsp;</p>
+      </div>
+
       <div><hr class="hr-line"></hr></div>
 
       <div>
@@ -94,6 +100,7 @@ const Home = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
+
 
 
 

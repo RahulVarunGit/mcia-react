@@ -14,7 +14,15 @@ const About = () => {
           <p >&nbsp;</p>
         </div>
 
-        <h4 >MCIA was established in 1979 to provide a means of bringing social and cultural events to the then small Indian community of less than 50 families. Since then, MCIA has done significant work for social and cultural development in the Bloomington-Normal community. It continues to play a large role in serving, leading and representing the Indian community.</h4>
+        <h4 >MCIA was established in 1979 to provide a means of bringing social and cultural events to the then small Indian community of less than 50 families. Since then, MCIA has done significant work for social and cultural development in the Bloomington-Normal community. It continues to play a large role in serving, leading and representing the Indian community. </h4>
+        <div>
+          <h2 className="fbt-title"><img src="/images/base/501c3.jpg" alt="" height="120" className="rounded" />  </h2>
+          <p >&nbsp;</p>
+        </div>
+
+        <h4 >As of Jan 23 2025 MCIA is now officially recognized as 501(c)(3) nonprofit organization by the IRS.</h4>
+        <h4 >I THOUGHT MCIA WAS A NON-PROFIT?</h4>
+        <h4 >Yes, before we acquired 501(c)3 status we were recognized only by the State of Illinois as a nonprofit. The IRS now recognizes MCIA a charitable organization under federal government This means that any donations or sponsorship monies given to the MCIA can be written off legally.</h4>
       </div>
 
       <p >&nbsp;</p>
@@ -144,7 +152,6 @@ const About = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
-
 
 
 
