@@ -24,7 +24,7 @@ const Youth = () => {
       <p >&nbsp;</p>
       <div className="row">
 
-        <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="https://goo.gl/forms/9uU5mcIEKk01IuSG2">Register here</a></h5>
+        <h5 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="https://chat.whatsapp.com/FQEfOk3qmD5Btua3wlkNcg">Join Youth Volunteering Whatsapp Group</a></h5>
       </div>
 
       <h4 className="center-align"><b >Note that you need to be a member to take advantage of this facility.</b></h4>
@@ -82,7 +82,6 @@ const Youth = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
-
 
 
 
