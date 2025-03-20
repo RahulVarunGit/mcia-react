@@ -21,9 +21,9 @@ const TalentShow = () => {
             <div><hr class="hr-line"></hr></div>
 
             <div>
-                <h4 className="center-align">Where : TBD</h4>
+                <h4 className="center-align">Where : Presser Hall, 1210 Park St, Bloomington, IL 61701 </h4>
                 <h4 className="center-align"></h4>
-                <h4 className="center-align">When : TBD</h4>
+                <h4 className="center-align">When : 11 May 2025</h4>
                 <h4 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="https://www.zeffy.com/en-US/ticketing/chess-tournament">Register here</a></h4>
             </div>
 
@@ -39,6 +39,7 @@ const TalentShow = () => {
             <div><hr class="hr-line"></hr></div>
 
         </div>
+
 
 
 

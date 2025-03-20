@@ -4,6 +4,7 @@ import '../styles/Home.css';
 const Events = () => {
 
   return (
+
     <div className="container">
 
       <div>
@@ -30,8 +31,8 @@ const Events = () => {
         <div className="col-sm-9">
 
           <h5 ><b ><u ><a href="/talentShow">2025 MCIA Talent Show</a></u></b></h5>
-          <h5 >Where : TBD</h5>
-          <h5 >When : TBD</h5>
+          <h5 >Where : Presser Hall, 1210 Park St, Bloomington, IL 61701 </h5>
+          <h5 >When : 11 May 2025</h5>
           <h5 ><a type="button" class="btn btn-primary btn-lg" href="/talentShow">Talent Show Registration</a></h5>
         </div>
 
@@ -164,7 +165,6 @@ const Events = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
-
 
 
 
