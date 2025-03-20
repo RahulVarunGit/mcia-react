@@ -1,8 +1,28 @@
 {
     "galleries": [
         {
+            "name": "2025 Volleyball and Throwball",
+            "details": "",
+            "more": "",
+            "link": "2025-Volleyball",
+            "profile": "coming-soon.jpg",
+            "pics": [
+                "coming-soon.jpg"
+            ]
+        },
+        {
+            "name": "2025 Women's Day",
+            "details": "",
+            "more": "",
+            "link": "2025-Womens-Day",
+            "profile": "coming-soon.jpg",
+            "pics": [
+                "coming-soon.jpg"
+            ]
+        },
+        {
             "name": "2025 Kids Art Competition",
-            "details": "MCIA 2025 Kids Art Competition.",
+            "details": "",
             "more": "",
             "link": "2025-Kids-Art-Competition",
             "profile": "ART25-2.jpg",
