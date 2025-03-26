@@ -21,6 +21,8 @@ import Pickleball from './javascript/pickleball';
 import RepublicDay from './javascript/republicDay';
 import WomensDay from './javascript/womensDay';
 import Chess from './javascript/chess';
+import ChessPairings from './javascript/chessPairings';
+import ChessStandings from './javascript/chessStandings';
 import TalentShow from './javascript/talentShow';
 
 import Gallery from './javascript/gallery';
@@ -63,6 +65,8 @@ function App() {
             <Route path="/republic-day" element={<RepublicDay />} />
             <Route path="/womensDay" element={<WomensDay />} />
             <Route path="/chess" element={<Chess />} />
+            <Route path="/chess/pairings/:group" element={<ChessPairings />} />
+            <Route path="/chess/standings/:group" element={<ChessStandings />} />
             <Route path="/talentShow" element={<TalentShow />} />
 
             <Route path="/gallery" element={<Gallery />} />
