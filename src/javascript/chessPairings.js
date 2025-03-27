@@ -23,7 +23,7 @@ const ChessPairings = () => {
     //const pairingURL = "http://10.0.0.42:4000/pairings/" + lastSegment;
 
     const playerDetailsURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/playerDetails/" + lastSegment;
-    const pairingURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/" + lastSegment;
+    const pairingURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/pairings/" + lastSegment;
 
 
     useEffect(() => {
