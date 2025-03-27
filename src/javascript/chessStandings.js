@@ -17,8 +17,13 @@ const ChessStandings = () => {
     const pathSegments = pathname.split('/').filter(segment => segment !== '');
     const lastSegment = pathSegments.pop();
     const hrefPairings = "/chess/Pairings/" + lastSegment;
-    const playerDetailsURL = "http://10.0.0.42:4000/playerDetails/" + lastSegment;
-    const pairingURL = "http://10.0.0.42:4000/pairings/" + lastSegment;
+
+    //const playerDetailsURL = "http://10.0.0.42:4000/playerDetails/" + lastSegment;
+    //const pairingURL = "http://10.0.0.42:4000/pairings/" + lastSegment;
+
+
+    const playerDetailsURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com//playerDetails/" + lastSegment;
+    const pairingURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com//pairings/" + lastSegment;
 
     useEffect(() => {
         fetch(playerDetailsURL)
