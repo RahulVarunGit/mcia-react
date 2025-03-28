@@ -22,8 +22,14 @@ const ChessPairings = () => {
     //const playerDetailsURL = "http://10.0.0.42:4000/playerDetails/" + lastSegment;
     //const pairingURL = "http://10.0.0.42:4000/pairings/" + lastSegment;
 
-    const playerDetailsURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/playerDetails/" + lastSegment;
-    const pairingURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/pairings/" + lastSegment;
+    //const playerDetailsURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/playerDetails/" + lastSegment;
+    //const pairingURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/pairings/" + lastSegment;
+
+    //const playerDetailsURL = "http://chess.ourmcia.org/playerDetails/" + lastSegment;
+    //const pairingURL = "http://chess.ourmcia.org/pairings/" + lastSegment;
+
+    const playerDetailsURL = "https://awseb--awseb-zdti9dukzfq9-324772655.us-east-1.elb.amazonaws.com/playerDetails/" + lastSegment;
+    const pairingURL = "https://awseb--awseb-zdti9dukzfq9-324772655.us-east-1.elb.amazonaws.com//pairings/" + lastSegment;
 
 
     useEffect(() => {
