@@ -156,7 +156,7 @@ const ChessPairings = () => {
                                 <td className="center-align">{player.Board}</td>
                                 <td className="" width="45%"> &nbsp; <img className="" src="/images/base/India-USA-Flag.jpg" width="40px" /> <b>{player.Name}</b> &nbsp; ({player.Color = "" ? "unpaired" : player.Color}, {player.Score.toFixed(1)}, {player.Rating})</td>
                                 {(player.OpponantObj).Name === "" ? <td></td> :
-                                    <td className="" width="45%"> &nbsp; <img className="" src="/images/base/India-USA-Flag.jpg" width="40px" /> <b>{(player.OpponantObj).Name}</b> &nbsp; ({(player.OpponantObj).Color}, {(player.OpponantObj).Score}, {(player.OpponantObj).Rating})</td>
+                                    <td className="" width="45%"> &nbsp; <img className="" src="/images/base/India-USA-Flag.jpg" width="40px" /> <b>{(player.OpponantObj).Name}</b> &nbsp; ({(player.OpponantObj).Color}, {(player.OpponantObj).Score.toFixed(1)}, {(player.OpponantObj).Rating})</td>
                                 }
                             </tr>
                         ))}
