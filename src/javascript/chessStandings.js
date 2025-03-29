@@ -81,7 +81,7 @@ const ChessStandings = () => {
             <div><hr class="hr-line"></hr></div>
             <div>
                 <h4 className="center-align">
-                    <a type="button" style={{ margin: '3px' }} class={g1Class} href="/chess/standings/g1">Lower Primary</a>
+                    <a type="button" style={{ margin: '3px' }} class={g1Class} href="/chess/standings/g1">LowerPrimary</a>
                     <a type="button" style={{ margin: '3px' }} class={g2Class} href="/chess/standings/g2">Upper Primary</a>
                     <a type="button" style={{ margin: '3px' }} class={g3Class} href="/chess/standings/g3">Elimentary</a>
                     <a type="button" style={{ margin: '3px' }} class={g4Class} href="/chess/standings/g4">Middle</a>
