@@ -28,7 +28,7 @@ const ChessStandings = () => {
     const pairingURL = "https://chess.ourmcia.org/pairings/" + lastSegment;
 
     useEffect(() => {
-        fetch(playerDetailsURL)
+        fetch(playerDetailsURL, { mode: 'no-cors' })
             .then(response => response.json())
             .then(data => {
                 setPlayerDetails(data);

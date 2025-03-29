@@ -33,7 +33,7 @@ const ChessPairings = () => {
     useEffect(() => {
 
 
-        fetch(playerDetailsURL)
+        fetch(playerDetailsURL, { mode: 'no-cors' })
             .then(response => response.json())
             .then(data => {
                 setPlayerDetails(data);
@@ -43,7 +43,7 @@ const ChessPairings = () => {
                 console.error('There was an error fetching the playerDetails!', error);
             });
 
-        fetch(pairingURL)
+        fetch(pairingURL, { mode: 'no-cors' })
             .then(response => response.json())
             .then(data => {
                 setPairings(data);
