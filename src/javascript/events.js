@@ -25,7 +25,7 @@ const Events = () => {
 
         <div className="col-sm-3">
 
-          <p className="center-align"><a href="/talentShow"><img src="/images/flyers/ComingSoon.jpg" alt="" width="100%" className="rounded" /></a></p>
+          <p className="center-align"><a href="/talentShow"><img src="/images/flyers/MCIA25-TalentShow.jpg" alt="" width="100%" className="rounded" /></a></p>
         </div>
 
         <div className="col-sm-9">

@@ -24,14 +24,14 @@ const TalentShow = () => {
                 <h4 className="center-align">Where : Presser Hall, 1210 Park St, Bloomington, IL 61701 </h4>
                 <h4 className="center-align"></h4>
                 <h4 className="center-align">When : 11 May 2025</h4>
-                <h4 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="https://www.zeffy.com/en-US/ticketing/chess-tournament">Register here</a></h4>
+                <h4 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="https://www.zeffy.com/en-US/ticketing/2025-mcia-talent-show">Register here</a></h4>
             </div>
 
             <div><hr class="hr-line"></hr></div>
 
             <div>
                 <h4 className="center-align"><b ></b></h4>
-                <p className="center-align"><a href="https:https://www.zeffy.com/en-US/ticketing/chess-tournament"><img src="/images/flyers/ComingSoon.jpg" alt="" width="80%" className="rounded" /></a></p>
+                <p className="center-align"><a href="https://www.zeffy.com/en-US/ticketing/2025-mcia-talent-show"><img src="/images/flyers/MCIA25-TalentShow.jpg" alt="" width="80%" className="rounded" /></a></p>
                 <div><hr class="hr-line"></hr></div>
 
             </div>

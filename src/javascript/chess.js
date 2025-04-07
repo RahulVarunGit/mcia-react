@@ -30,7 +30,7 @@ const Chess = () => {
 
             <div>
                 <h4 className="center-align"><b ></b></h4>
-                <p className="center-align"><a href="https:https://www.zeffy.com/en-US/ticketing/chess-tournament"><img src="/images/flyers/MCIA25-Chess.jpg" alt="" width="80%" className="rounded" /></a></p>
+                <p className="center-align"><a href="https://www.zeffy.com/en-US/ticketing/chess-tournament"><img src="/images/flyers/MCIA25-Chess.jpg" alt="" width="80%" className="rounded" /></a></p>
                 <div><hr class="hr-line"></hr></div>
 
             </div>
