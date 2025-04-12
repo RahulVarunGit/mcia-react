@@ -61,7 +61,11 @@ const ChessStandings = () => {
 
     getData();
 
-
+    //<a type="button" style={{ margin: '3px' }} class={g1Class} href="/chess/standings/g1">LowerPrimary</a>
+    //<a type="button" style={{ margin: '3px' }} class={g2Class} href="/chess/standings/g2">Upper Primary</a>
+    //<a type="button" style={{ margin: '3px' }} class={g3Class} href="/chess/standings/g3">Elimentary</a>
+    //<a type="button" style={{ margin: '3px' }} class={g4Class} href="/chess/standings/g4">Middle</a>
+    //<a type="button" style={{ margin: '3px' }} class={g5Class} href="/chess/standings/g5">Open</a>
 
     return (
         <div className="container">
@@ -81,11 +85,12 @@ const ChessStandings = () => {
             <div><hr class="hr-line"></hr></div>
             <div>
                 <h4 className="center-align">
-                    <a type="button" style={{ margin: '3px' }} class={g1Class} href="/chess/standings/g1">LowerPrimary</a>
-                    <a type="button" style={{ margin: '3px' }} class={g2Class} href="/chess/standings/g2">Upper Primary</a>
-                    <a type="button" style={{ margin: '3px' }} class={g3Class} href="/chess/standings/g3">Elimentary</a>
-                    <a type="button" style={{ margin: '3px' }} class={g4Class} href="/chess/standings/g4">Middle</a>
-                    <a type="button" style={{ margin: '3px' }} class={g5Class} href="/chess/standings/g5">Open</a></h4>
+                    <a type="button" style={{ margin: '3px' }} class={g1Class} href="/chess/standings/g1">Up to 8</a>
+                    <a type="button" style={{ margin: '3px' }} class={g2Class} href="/chess/standings/g2">9 to 11</a>
+                    <a type="button" style={{ margin: '3px' }} class={g3Class} href="/chess/standings/g3">12 to 16</a>
+
+                    <a type="button" style={{ margin: '3px' }} class={g5Class} href="/chess/standings/g5">Open</a>
+                </h4>
             </div>
 
             <div className="row">
