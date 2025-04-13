@@ -25,7 +25,8 @@ const ChessPairings = () => {
     //const playerDetailsURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/playerDetails/" + lastSegment;
     //const pairingURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/pairings/" + lastSegment;
 
-    const playerDetailsURL = "https://chess.rv-gaming.com/playerDetails/" + lastSegment;
+    //const playerDetailsURL = "https://chess.rv-gaming.com/playerDetails/" + lastSegment;
+    const playerDetailsURL = "https://chess.rv-gaming.com/playerNames/" + lastSegment;
     const pairingURL = "https://chess.rv-gaming.com/pairings/" + lastSegment;
 
 
