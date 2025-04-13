@@ -6,9 +6,11 @@ import flyerData from '../data/flyerData.json';
 import parse from 'html-react-parser';
 
 
+
 const ChessStandings = () => {
     const [pairings, setPairings] = useState([]);
     const [playerDetails, setPlayerDetails] = useState([]);
+    var playerDetails2
     var maxRound;
     var g1Class, g2Class, g3Class, g4Class, g5Class;
     g1Class = g2Class = g3Class = g4Class = g5Class = "btn btn-secondary ";
@@ -27,7 +29,9 @@ const ChessStandings = () => {
     const playerDetailsURL = "https://chess.rv-gaming.com/playerDetails/" + lastSegment;
     const pairingURL = "https://chess.rv-gaming.com/pairings/" + lastSegment;
 
+
     useEffect(() => {
+
         fetch(playerDetailsURL)
             .then(response => response.json())
             .then(data => {
@@ -39,6 +43,15 @@ const ChessStandings = () => {
     }, []);
 
     function getData() {
+
+        maxRound = Math.max(...[...playerDetails.values()].map(obj => obj.Round));
+        if (maxRound < 0) { maxRound = 0; }
+
+        console.log("Max Round : ", maxRound);
+
+        playerDetails2 = playerDetails.filter(item => item.Round == maxRound);
+        console.log(playerDetails2);
+
         switch (lastSegment) {
             case "g1":
                 g1Class = "btn btn-primary";
@@ -92,7 +105,7 @@ const ChessStandings = () => {
                     <a type="button" style={{ margin: '3px' }} class={g5Class} href="/chess/standings/g5">Open</a>
                 </h4>
             </div>
-
+            <h3 className="center-align">Round : {maxRound}</h3>
             <div className="row">
 
                 <table className="table table-bordered">
@@ -104,7 +117,7 @@ const ChessStandings = () => {
                         </tr>
                     </thead>
                     <tbody>
-                        {playerDetails.map((player, pos) => (
+                        {playerDetails2.map((player, pos) => (
                             <tr>
                                 <td className="center-align" width="15%">{pos + 1}</td>
                                 <td className="" width="70%"> &nbsp; &nbsp; <img className="" src="/images/base/India-USA-Flag.jpg" width="40px" /> &nbsp;  <b>{player.Name}</b> &nbsp; ({player.Rating})</td>
