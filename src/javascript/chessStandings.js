@@ -19,15 +19,16 @@ const ChessStandings = () => {
     const pathSegments = pathname.split('/').filter(segment => segment !== '');
     const lastSegment = pathSegments.pop();
     const hrefPairings = "/chess/Pairings/" + lastSegment;
+    const hrefStandings = "/chess/Standings/" + lastSegment;
 
-    //const playerDetailsURL = "http://10.0.0.42:4000/playerDetails/" + lastSegment;
-    //const pairingURL = "http://10.0.0.42:4000/pairings/" + lastSegment;
+    const playerDetailsURL = "http://10.0.0.42:4000/playerDetails/" + lastSegment;
+    const pairingURL = "http://10.0.0.42:4000/pairings/" + lastSegment;
 
     //const playerDetailsURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/playerDetails/" + lastSegment;
     //const pairingURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/pairings/" + lastSegment;
 
-    const playerDetailsURL = "https://chess.rv-gaming.com/playerDetails/" + lastSegment;
-    const pairingURL = "https://chess.rv-gaming.com/pairings/" + lastSegment;
+    //const playerDetailsURL = "https://chess.rv-gaming.com/playerDetails/" + lastSegment;
+    //const pairingURL = "https://chess.rv-gaming.com/pairings/" + lastSegment;
 
 
     useEffect(() => {
@@ -92,13 +93,15 @@ const ChessStandings = () => {
             <div><hr class="hr-line"></hr></div>
 
             <div>
-                <h4 className="center-align"><a type="button" class="btn btn-primary" href={hrefPairings}>Click here for Pairings</a></h4>
+                <h4 className="center-align">
+                    <a type="button" style={{ margin: '3px' }} class="btn btn-secondary" href={hrefPairings}>Pairings</a>
+                    <a type="button" style={{ margin: '3px' }} class="btn btn-primary" href={hrefStandings}>Standings</a></h4>
             </div>
 
             <div><hr class="hr-line"></hr></div>
             <div>
                 <h4 className="center-align">
-                    <a type="button" style={{ margin: '3px' }} class={g1Class} href="/chess/standings/g1">Up to 8</a>
+                    <a type="button" style={{ margin: '3px' }} class={g1Class} href="/chess/standings/g1">up to 8</a>
                     <a type="button" style={{ margin: '3px' }} class={g2Class} href="/chess/standings/g2">9 to 11</a>
                     <a type="button" style={{ margin: '3px' }} class={g3Class} href="/chess/standings/g3">12 to 16</a>
 
