@@ -21,15 +21,15 @@ const ChessPairings = () => {
     const hrefPairings = "/chess/Pairings/" + lastSegment;
 
     //  //const playerDetailsURL = "http://10.0.0.42:4000/playerDetails/" + lastSegment;
-    const playerDetailsURL = "http://10.0.0.42:4000/playerNames/" + lastSegment;
-    const pairingURL = "http://10.0.0.42:4000/pairings/" + lastSegment;
+    //const playerDetailsURL = "http://10.0.0.42:4000/playerNames/" + lastSegment;
+    //const pairingURL = "http://10.0.0.42:4000/pairings/" + lastSegment;
 
     //const playerDetailsURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/playerDetails/" + lastSegment;
     //const pairingURL = "http://node-atlas-env.eba-2akpeutx.us-east-1.elasticbeanstalk.com/pairings/" + lastSegment;
 
     //  //const playerDetailsURL = "https://chess.rv-gaming.com/playerDetails/" + lastSegment;
-    //const playerDetailsURL = "https://chess.rv-gaming.com/playerNames/" + lastSegment;
-    //const pairingURL = "https://chess.rv-gaming.com/pairings/" + lastSegment;
+    const playerDetailsURL = "https://chess.rv-gaming.com/playerNames/" + lastSegment;
+    const pairingURL = "https://chess.rv-gaming.com/pairings/" + lastSegment;
 
 
 
