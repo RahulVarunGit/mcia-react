@@ -36,6 +36,7 @@ const ChessPairings = () => {
     useEffect(() => {
 
 
+
         fetch(playerDetailsURL)
             .then(response => response.json())
             .then(data => {
@@ -58,9 +59,18 @@ const ChessPairings = () => {
             });
 
 
+
     }, []);
 
     function getData() {
+        console.log("*********************************************************");
+        console.log(playerDetailsURL);
+        console.log("***pl yar details");
+        console.log(playerDetails);
+        console.log("pairings");
+        console.log(pairings);
+
+
         maxRound = Math.max(...[...pairings.values()].map(obj => obj.Round));
         if (maxRound < 0) { maxRound = 1; }
 
@@ -88,6 +98,8 @@ const ChessPairings = () => {
             } else {
                 player.OpponantObj = [...playerDetails.values()].find(obj => obj.ID === player.Opponent);
             }
+            if (player.Rating == 1) { player.Rating = "nnn"; }
+            if ((player.OpponantObj).Rating == 1) { (player.OpponantObj).Rating = "nnn"; }
         });
 
         switch (lastSegment) {

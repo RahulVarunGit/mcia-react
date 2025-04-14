@@ -51,7 +51,9 @@ const ChessStandings = () => {
         console.log("Max Round : ", maxRound);
 
         playerDetails2 = playerDetails.filter(item => item.Round == maxRound);
-        console.log(playerDetails2);
+        playerDetails2.map(player => {
+            if (player.Rating == 1) { player.Rating = "nnn"; }
+        });
 
         switch (lastSegment) {
             case "g1":
