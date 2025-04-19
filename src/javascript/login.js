@@ -7,10 +7,27 @@ const Login = () => {
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
 
+
   const handleLogin = async (e) => {
     e.preventDefault();
+
+    /*const data = {
+      key1: 'value1',
+      key2: 'value2',
+    };*/
+
     try {
       const response = await axios.post('http://localhost:4000/login', { username, password });
+      /*const response = await fetch('http://localhost:4000/login',
+        {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          }, body: JSON.stringify(data),
+        }
+      );*/
+
+      console.log(response);
       const token = response.data.token;
       sessionStorage.setItem('authToken', token); // Store JWT in sessionStorage
       alert('Login successful!');
