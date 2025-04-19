@@ -25,7 +25,7 @@ const Chess = () => {
                 <h4 className="center-align">When : 20 April, 2025</h4>
                 <h4 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="https://www.zeffy.com/en-US/ticketing/chess-tournament">Register here</a></h4>
                 <p >&nbsp;</p>
-                <h4 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="https://www.zeffy.com/en-US/ticketing/chess-tournament">Pairings and Standings</a></h4>
+                <h4 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="/chess/pairings/g1">Pairings and Standings</a></h4>
             </div>
 
             <div><hr class="hr-line"></hr></div>
@@ -40,6 +40,7 @@ const Chess = () => {
             <div><hr class="hr-line"></hr></div>
 
         </div>
+
 
 
 
