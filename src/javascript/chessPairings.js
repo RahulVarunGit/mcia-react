@@ -41,7 +41,7 @@ const ChessPairings = () => {
             .then(response => response.json())
             .then(data => {
                 setPlayerDetails(data);
-                //console.log("playerDetails Retrieved");
+                //console.log("playerDetails Retrieved");;
             })
             .catch(error => {
                 console.error('There was an error fetching the playerDetails!', error);
