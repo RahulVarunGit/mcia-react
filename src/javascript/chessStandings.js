@@ -105,7 +105,7 @@ const ChessStandings = () => {
                 <h4 className="center-align">
                     <a type="button" style={{ margin: '3px' }} class={g1Class} href="/chess/standings/g1">up to 8</a>
                     <a type="button" style={{ margin: '3px' }} class={g2Class} href="/chess/standings/g2">9 to 11</a>
-                    <a type="button" style={{ margin: '3px' }} class={g3Class} href="/chess/standings/g3">12 to 16</a>
+                    <a type="button" style={{ margin: '3px' }} class={g3Class} href="/chess/standings/g3">12 to 17</a>
 
                     <a type="button" style={{ margin: '3px' }} class={g5Class} href="/chess/standings/g5">Open</a>
                 </h4>

@@ -149,7 +149,7 @@ const ChessPairings = () => {
                 <h4 className="center-align">
                     <a type="button" style={{ margin: '3px' }} class={g1Class} href="/chess/pairings/g1">up to 8</a>
                     <a type="button" style={{ margin: '3px' }} class={g2Class} href="/chess/pairings/g2">9 to 11</a>
-                    <a type="button" style={{ margin: '3px' }} class={g3Class} href="/chess/pairings/g3">12 to 16</a>
+                    <a type="button" style={{ margin: '3px' }} class={g3Class} href="/chess/pairings/g3">12 to 17</a>
 
                     <a type="button" style={{ margin: '3px' }} class={g5Class} href="/chess/pairings/g5">Open</a>
                 </h4>
