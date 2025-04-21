@@ -24,6 +24,7 @@ import Chess from './javascript/chess';
 import ChessPairings from './javascript/chessPairings';
 import ChessStandings from './javascript/chessStandings';
 import TalentShow from './javascript/talentShow';
+import Run from './javascript/run';
 
 import Login from './javascript/login';
 import Register from './javascript/register';
@@ -71,6 +72,7 @@ function App() {
             <Route path="/chess/pairings/:group" element={<ChessPairings />} />
             <Route path="/chess/standings/:group" element={<ChessStandings />} />
             <Route path="/talentShow" element={<TalentShow />} />
+            <Route path="/run" element={<Run />} />
 
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
