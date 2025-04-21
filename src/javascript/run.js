@@ -24,7 +24,7 @@ const Run = () => {
                 <h4 className="center-align">Where : TBD</h4>
                 <h4 className="center-align"></h4>
                 <h4 className="center-align">When : 30 May 2025</h4>
-                <h4 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="https://www.zeffy.com/en-US/ticketing/chess-tournament">Register Coming Soon</a></h4>
+                <h4 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="">Registeration Coming Soon</a></h4>
             </div>
 
             <div><hr class="hr-line"></hr></div>
