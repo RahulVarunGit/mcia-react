@@ -1,6 +1,25 @@
 {
     "galleries": [
         {
+            "name": "2025 Chess Tournament",
+            "details": "",
+            "more": "",
+            "link": "2025-Chess",
+            "profile": "Chess25-07.jpg",
+            "pics": [
+                "Chess25-01.jpg",
+                "Chess25-02.jpg",
+                "Chess25-03.jpg",
+                "Chess25-04.jpg",
+                "Chess25-05.jpg",
+                "Chess25-06.jpg",
+                "Chess25-07.jpg",
+                "Chess25-08.jpg",
+                "Chess25-09.jpg",
+                "Chess25-10.jpg"
+            ]
+        },
+        {
             "name": "2025 Volleyball and Throwball",
             "details": "",
             "more": "",

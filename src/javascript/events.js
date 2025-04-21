@@ -25,6 +25,25 @@ const Events = () => {
 
         <div className="col-sm-3">
 
+          <p className="center-align"><a href="/run"><img src="/images/flyers/ComingSoon.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/run">2025 MCIA 5K Run</a></u></b></h5>
+          <h5 >Where : TBD</h5>
+          <h5 >When : 30 May 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/run">Coming Soon</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
           <p className="center-align"><a href="/talentShow"><img src="/images/flyers/MCIA25-TalentShow.jpg" alt="" width="100%" className="rounded" /></a></p>
         </div>
 
@@ -41,26 +60,26 @@ const Events = () => {
       <div><hr class="hr-line"></hr></div>
 
       <div className="row">
-
-        <div className="col-sm-3">
-
-          <p className="center-align"><a href="/chess"><img src="/images/flyers/MCIA25-Chess.jpg" alt="" width="100%" className="rounded" /></a></p>
-        </div>
-
-        <div className="col-sm-9">
-
-          <h5 ><b ><u ><a href="/chess">2025 MCIA Chess Tournament</a></u></b></h5>
-          <h5 >Where : Park Regency Hotel, 1413 Leslie Dr, Bloomington IL</h5>
-          <h5 >When : 20 April, 2025</h5>
-          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/chess">Secure your spot</a></h5>
-        </div>
-
+        <h3 className="center-align"><b >Past Events</b></h3>
       </div>
 
       <div><hr class="hr-line"></hr></div>
 
       <div className="row">
-        <h3 className="center-align"><b >Past Events</b></h3>
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/galleryView/2025-Chess"><img src="/images/flyers/MCIA25-Chess.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/galleryView/2025-Chess">2025 MCIA Chess Tournament</a></u></b></h5>
+          <h5 >Where : Park Regency Hotel, 1413 Leslie Dr, Bloomington IL</h5>
+          <h5 >When : 20 April, 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/galleryView/2025-Chess">Chess Tournament Gallery</a></h5>
+        </div>
+
       </div>
 
       <div><hr class="hr-line"></hr></div>
@@ -165,6 +184,7 @@ const Events = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
+
 
 
 
