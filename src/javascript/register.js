@@ -5,6 +5,7 @@ import '../styles/Home.css';
 const Register = () => {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
+  const [code, setCode] = useState('');
   const [error, setError] = useState('');
   const [msg, setMsg] = useState('');
 
@@ -13,12 +14,27 @@ const Register = () => {
     e.preventDefault();
 
     try {
-      const response = await axios.post('http://localhost:4000/register', { username, password });
+      const response = await axios.post('http://localhost:4000/register', { username, password, code });
+      console.log("response reg;;;;;;;");
       console.log(response);
       //alert('Registration successful!');
-      setMsg('Registration successful!');
+      if (response.data == "Invalid registration code, contact admin.") {
+        setCode('');
+        setMsg('');
+        setError(response.data);
+      } else {
+        setUsername('');
+        setPassword('');
+        setCode('')
+        setMsg('Registration successful!');
+        setError('');
+      }
+
+
+
     } catch (err) {
       setError('Registration Failed');
+      setMsg('');
     }
   };
 
@@ -60,6 +76,20 @@ const Register = () => {
               type="password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
+              required
+            />
+
+            <div className="col-md-4"></div>
+          </div>
+          <div>&nbsp;</div>
+          <div className=" row">
+
+            <div className="col-md-2"></div>
+            <label className="col-md right-align">Registration Code:</label>
+            <input className="col-md"
+              type="text"
+              value={code}
+              onChange={(e) => setCode(e.target.value)}
               required
             />
 

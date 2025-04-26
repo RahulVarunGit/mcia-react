@@ -25,6 +25,8 @@ import ChessPairings from './javascript/chessPairings';
 import ChessStandings from './javascript/chessStandings';
 import TalentShow from './javascript/talentShow';
 import Run from './javascript/run';
+import YouthPickelball from './javascript/youth-pickleball';
+import IndependenceDay from './javascript/independence-day';
 
 import Login from './javascript/login';
 import Register from './javascript/register';
@@ -73,6 +75,8 @@ function App() {
             <Route path="/chess/standings/:group" element={<ChessStandings />} />
             <Route path="/talentShow" element={<TalentShow />} />
             <Route path="/run" element={<Run />} />
+            <Route path="/youth-pickleball" element={<YouthPickelball />} />
+            <Route path="/independence-day" element={<IndependenceDay />} />
 
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />

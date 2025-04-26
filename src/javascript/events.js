@@ -4,7 +4,6 @@ import '../styles/Home.css';
 const Events = () => {
 
   return (
-
     <div className="container">
 
       <div>
@@ -25,15 +24,53 @@ const Events = () => {
 
         <div className="col-sm-3">
 
-          <p className="center-align"><a href="/run"><img src="/images/flyers/ComingSoon.jpg" alt="" width="100%" className="rounded" /></a></p>
+          <p className="center-align"><a href="/independence-day"><img src="/images/flyers/ComingSoon.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/independence-day">2025 MCIA Independence Day Celebration</a></u></b></h5>
+          <h5 >Where : TBD</h5>
+          <h5 >When : TBD</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/independence-day">Coming Soon</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/youth-pickleball"><img src="/images/flyers/ComingSoon.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/youth-pickleball">2025 MCIA Youth Pickleball Tournament</a></u></b></h5>
+          <h5 >Where : TBD</h5>
+          <h5 >When : TBD</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/youth-pickleball">Coming Soon</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/run"><img src="/images/flyers/MCIA25-5K.jpg" alt="" width="100%" className="rounded" /></a></p>
         </div>
 
         <div className="col-sm-9">
 
           <h5 ><b ><u ><a href="/run">2025 MCIA 5K Run</a></u></b></h5>
           <h5 >Where : TBD</h5>
-          <h5 >When : 30 May 2025</h5>
-          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/run">Coming Soon</a></h5>
+          <h5 >When : 31 May 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/run">Register</a></h5>
         </div>
 
       </div>
