@@ -4,34 +4,237 @@ import '../styles/Home.css';
 const Events = () => {
 
   return (
-
     <div className="container">
 
-      <p >&nbsp;</p>
+      <div>
+
+        <div>
+          <h2 className="fbt-title"><img src="/images/base/logo.png" alt="" height="80" className="rounded" />  </h2>
+        </div>
+
+      </div>
+
       <div className="row">
-        <h4 className="center-align"><b ><u >2025 5K Run</u></b></h4>
-        <h4 className="center-align"><b ></b></h4>
+        <h3 className="center-align"><b >Upcoming Events</b></h3>
       </div>
 
       <div><hr class="hr-line"></hr></div>
 
-      <div>
-        <h4 className="center-align">Where : 2201 Stone Mountain Blvd, Bloomington, IL US 61704</h4>
-        <h4 className="center-align"></h4>
-        <h4 className="center-align">When : 31 May 2025</h4>
-        <h4 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="https://runsignup.com/Race/IL/Bloomington/MCIA">Register Now</a></h4>
-        <h3 className="center-align cRed">Gift card for overall male and female winners.</h3>
-        <h3 className="center-align highlt">FREE EVENT T-SHIRT*</h3>
-        <h4 className="center-align">*for first 100 Registrations</h4>
-        <h3 className="center-align cFF5833">MEDALS FOR KIDS</h3>
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/independence-day"><img src="/images/flyers/ComingSoon.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/independence-day">2025 MCIA Independence Day Celebration</a></u></b></h5>
+          <h5 >Where : TBD</h5>
+          <h5 >When : TBD</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/independence-day">Coming Soon</a></h5>
+        </div>
+
       </div>
 
       <div><hr class="hr-line"></hr></div>
 
-      <div>
-        <h4 className="center-align"><b ></b></h4>
-        <p className="center-align"><a href="https://runsignup.com/Race/IL/Bloomington/MCIA"><img src="/images/flyers/MCIA25-5K.jpg" alt="" width="80%" className="rounded" /></a></p>
-        <div><hr class="hr-line"></hr></div>
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/youth-pickleball"><img src="/images/flyers/ComingSoon.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/youth-pickleball">2025 MCIA Youth Pickleball Tournament</a></u></b></h5>
+          <h5 >Where : TBD</h5>
+          <h5 >When : TBD</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/youth-pickleball">Coming Soon</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/run"><img src="/images/flyers/MCIA25-5K.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/run">2025 MCIA 5K Run</a></u></b></h5>
+          <h5 >Where : TBD</h5>
+          <h5 >When : 31 May 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/run">Register</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/health"><img src="/images/flyers/ComingSoon.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/health">2025 MCIA Free Ladies Health and Wellness Event</a></u></b></h5>
+          <h5 >Where : 1111 Trinity Lane, Bloomington, IL 61704</h5>
+          <h5 >When : 16 May 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/health">Registration</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/talentShow"><img src="/images/flyers/MCIA25-TalentShow.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/talentShow">2025 MCIA Talent Show</a></u></b></h5>
+          <h5 >Where : Presser Hall, 1210 Park St, Bloomington, IL 61701 </h5>
+          <h5 >When : 11 May 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/talentShow">Talent Show Registration</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+        <h3 className="center-align"><b >Past Events</b></h3>
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/galleryView/2025-Chess"><img src="/images/flyers/MCIA25-Chess.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/galleryView/2025-Chess">2025 MCIA Chess Tournament</a></u></b></h5>
+          <h5 >Where : Park Regency Hotel, 1413 Leslie Dr, Bloomington IL</h5>
+          <h5 >When : 20 April, 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/galleryView/2025-Chess">Chess Tournament Gallery</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/galleryView/2025-Volleyball"><img src="/images/flyers/MCIA25-Volleyball.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/galleryView/2025-Volleyball">2025 MCIA Set and Spike Challenge</a></u></b></h5>
+          <h5 >Where : Eastview Church</h5>
+          <h5 >1500 Airport Rd, Normal IL</h5>
+          <h5 >When : 15 March, 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/galleryView/2025-Volleyball">Volleyball and Throwball Gallery</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/galleryView/2025-Womens-Day"><img src="/images/flyers/MCIA25-Womens-Day.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/galleryView/2025-Womens-Day">2025 MCIA Women's Day</a></u></b></h5>
+          <h5 >Where : 1413 Leslie Dr, Bloomington IL</h5>
+          <h5 >When : 9 March, 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/galleryView/2025-Womens-Day">Women's Day Gallery</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/galleryView/2025-Kids-Art-Competition"><img src="/images/flyers/MCIA25-Art.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/galleryView/2025-Kids-Art-Competition">2025 Kids Art Competition</a></u></b></h5>
+          <h5 >Where : Parke Regency</h5>
+          <h5 >1413 Leslie Dr</h5>
+          <h5 >When : 8 Feb, 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/galleryView/2025-Kids-Art-Competition">Art Competition Gallery</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/galleryView/2025-Republic-Day"><img src="/images/flyers/MCIA-Republic-Day.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/galleryView/2025-Republic-Day">2025 Republic Day</a></u></b></h5>
+          <h5 >Where : Normal Community Activity Center</h5>
+          <h5 >1110 Douglas St, Normal, IL 61761</h5>
+          <h5 >When : 18 January, 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/galleryView/2025-Republic-Day">Republic Day Gallery</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
+          <p className="center-align"><a href="/badminton"><img src="/images/flyers/MCIA-Badminton.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/galleryView/2025-Badminton-Pickleball">2025 Badminton & Pickleball Tournament</a></u></b></h5>
+          <h5 >Where : Bloomington Tennis & Turf Center</h5>
+          <h5 >4101, Wicker Rd, Bloomington</h5>
+          <h5 >When : 11 & 12 January, 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/galleryView/2025-Badminton-Pickleball">Badminton & Pickleball Gallery</a></h5>
+        </div>
 
       </div>
 
