@@ -29,8 +29,10 @@ const Login = () => {
 
       console.log(response);
       const token = response.data.token;
-      sessionStorage.setItem('authToken', token); // Store JWT in sessionStorage
-      alert('Login successful!');
+      sessionStorage.setItem('authTokenMCIA', token); // Store JWT in sessionStorage
+      //alert('Login successful!');
+      console.log(token);
+
     } catch (err) {
       setError('Invalid credentials');
     }

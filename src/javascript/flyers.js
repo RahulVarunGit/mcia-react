@@ -12,6 +12,8 @@ const Flyers = () => {
     var bld = "";
     var cnt = 0;
 
+    console.log("token value : ", sessionStorage.getItem('authTokenMCIA')); // Store JWT in sessionStorage
+
     flyerData.flyers.map((flyer, index) => {
         if (index % 3 == 0) {
             bld = bld + "<div className=\"row\">    ";

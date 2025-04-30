@@ -81,6 +81,26 @@ const Events = () => {
 
         <div className="col-sm-3">
 
+          <p className="center-align"><a href="/health"><img src="/images/flyers/ComingSoon.jpg" alt="" width="100%" className="rounded" /></a></p>
+        </div>
+
+        <div className="col-sm-9">
+
+          <h5 ><b ><u ><a href="/health">2025 MCIA Free Ladies Health and Wellness Event</a></u></b></h5>
+          <h5 >Where : 1111 Trinity Lane, Bloomington, IL 61704</h5>
+          <h5 >When : 16 May 2025</h5>
+          <h5 ><a type="button" class="btn btn-primary btn-lg" href="/health">Registration</a></h5>
+        </div>
+
+      </div>
+
+      <div><hr class="hr-line"></hr></div>
+
+
+      <div className="row">
+
+        <div className="col-sm-3">
+
           <p className="center-align"><a href="/talentShow"><img src="/images/flyers/MCIA25-TalentShow.jpg" alt="" width="100%" className="rounded" /></a></p>
         </div>
 
@@ -221,7 +241,6 @@ const Events = () => {
       <div><hr class="hr-line"></hr></div>
 
     </div>
-
 
 
 

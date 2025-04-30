@@ -27,6 +27,7 @@ import TalentShow from './javascript/talentShow';
 import Run from './javascript/run';
 import YouthPickelball from './javascript/youth-pickleball';
 import IndependenceDay from './javascript/independence-day';
+import Health from './javascript/health';
 
 import Login from './javascript/login';
 import Register from './javascript/register';
@@ -77,6 +78,7 @@ function App() {
             <Route path="/run" element={<Run />} />
             <Route path="/youth-pickleball" element={<YouthPickelball />} />
             <Route path="/independence-day" element={<IndependenceDay />} />
+            <Route path="/health" element={<Health />} />
 
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
