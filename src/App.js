@@ -7,7 +7,7 @@ import Home from './javascript/Home';
 import About from './javascript/about';
 import Membership from './javascript/membership';
 import Committee from './javascript/committee';
-import Events from './javascript/events';
+
 import Youth from './javascript/youth';
 import Sponsors from './javascript/sponsors';
 
@@ -15,6 +15,9 @@ import Contact from './javascript/contact';
 import NotFoundPage from './javascript/NotFoundPage';
 import Flyers from './javascript/flyers';
 import Flyer from './javascript/flyer';
+import Events2 from './javascript/events2';
+import Event from './javascript/event';
+
 import Volleyball from './javascript/volleyball';
 import Badminton from './javascript/badminton';
 import Pickleball from './javascript/pickleball';
@@ -58,7 +61,6 @@ function App() {
             <Route path="/about" element={<About />} />
             <Route path="/membership" element={<Membership />} />
             <Route path="/committee" element={<Committee />} />
-            <Route path="/events" element={<Events />} />
             <Route path="/youth" element={<Youth />} />
             <Route path="/sponsors" element={<Sponsors />} />
 
@@ -66,6 +68,8 @@ function App() {
             <Route path="/*" element={<NotFoundPage />} />
             <Route path="/flyers" element={<Flyers />} />
             <Route path="/flyer/:name" element={<Flyer />} />
+            <Route path="/events" element={<Events2 />} />
+            <Route path="/event/:name" element={<Event />} />
             <Route path="/volleyball" element={<Volleyball />} />
             <Route path="/badminton" element={<Badminton />} />
             <Route path="/pickleball" element={<Pickleball />} />
