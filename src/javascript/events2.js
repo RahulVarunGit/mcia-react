@@ -35,8 +35,9 @@ const Events2 = () => {
             completed = completed + "<h5 >Where : " + event.where + "</h5>";
             completed = completed + "<h5 >" + event.where2 + "</h5>";
             completed = completed + "<h5 >When : " + event.when + "</h5>";
-            if (event.galleryLink = "") {
-                completed = completed + "<h5 ><a type=\"button\" className=\"btn btn-primary btn-lg\" href=\"/galleryView/" + event.gallery + "\">" + "</a></h5>";
+            console.log("---gal link : " + event.galleryLink);
+            if (event.galleryLink === undefined) {
+                completed = completed + "<h5 ><a type=\"button\" className=\"btn btn-primary btn-lg\" href=\"/gallery/ \">" + event.btnGallery + "</a></h5>";
             } else {
                 completed = completed + "<h5 ><a type=\"button\" className=\"btn btn-primary btn-lg\" href=\"/galleryView/" + event.galleryLink + "\">" + event.btnGallery + "</a></h5>";
             }
