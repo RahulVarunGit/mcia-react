@@ -10,7 +10,7 @@
             "btnGallery": "",
             "link": "independenceDay",
             "zeffyLink": "",
-            "gallerylInk": "",
+            "galleryLink": "",
             "type": "U"
         },
         {
@@ -23,7 +23,7 @@
             "btnGallery": "",
             "link": "youthPickleball",
             "zeffyLink": "",
-            "gallerylInk": "",
+            "galleryLink": "",
             "type": "U"
         },
         {
@@ -36,7 +36,7 @@
             "btnGallery": "",
             "link": "run",
             "zeffyLink": "https://runsignup.com/Race/IL/Bloomington/MCIA",
-            "gallerylInk": "",
+            "galleryLink": "",
             "type": "U",
             "add": "<h3 className=\"center-align cRed\">Gift card for overall male and female winners.</h3><h3 className=\"center-align highlt\">FREE EVENT T-SHIRT*</h3><h4 className=\"center-align\">*for first 100 Registrations</h4><h3 className=\"center-align cFF5833\">MEDALS FOR KIDS</h3>"
         },
@@ -50,7 +50,7 @@
             "btnGallery": "Health and Wellness Gallery",
             "link": "health",
             "zeffyLink": "https://www.zeffy.com/en-US/ticketing/free-ladies-health-and-wellness-event",
-            "gallerylInk": "healthAndWellness",
+            "galleryLink": "",
             "type": "C"
         },
         {
@@ -63,7 +63,7 @@
             "btnGallery": "Talent Show Gallery",
             "link": "talent",
             "zeffyLink": "https://www.zeffy.com/en-US/ticketing/2025-mcia-talent-show",
-            "gallerylInk": "",
+            "galleryLink": "",
             "type": "C"
         },
         {
