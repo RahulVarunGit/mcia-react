@@ -47,10 +47,10 @@
             "when": "16 May, 2025",
             "flyer": "MCIA25-Health.jpg",
             "btn": "Register Now",
-            "btnGallery": "",
+            "btnGallery": "Health and Wellness Gallery",
             "link": "health",
             "zeffyLink": "https://www.zeffy.com/en-US/ticketing/free-ladies-health-and-wellness-event",
-            "gallerylInk": "",
+            "gallerylInk": "healthAndWellness",
             "type": "C"
         },
         {
