@@ -1,6 +1,32 @@
 {
     "galleries": [
         {
+            "name": "2025 Womens Health and Wellness",
+            "details": "",
+            "more": "",
+            "link": "2025-Health-Wellness",
+            "profile": "HW25-01.jpg",
+            "pics": [
+                "HW25-01.jpg",
+                "HW25-02.jpg",
+                "HW25-03.jpg",
+                "HW25-04.jpg"
+            ]
+        },
+        {
+            "name": "2025 Talent Show",
+            "details": "",
+            "more": "",
+            "link": "2025-Talent-Show",
+            "profile": "TS25-01.jpg",
+            "pics": [
+                "TS25-01.jpg",
+                "TS25-02.jpg",
+                "TS25-03.jpg",
+                "TS25-05.jpg"
+            ]
+        },
+        {
             "name": "2025 Chess Tournament",
             "details": "",
             "more": "",
