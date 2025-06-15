@@ -1,6 +1,19 @@
 {
     "events": [
         {
+            "name": "2025 MCIA Youth Cricket",
+            "where": "TBD",
+            "where2": "",
+            "when": "June 23 to June 27 (Time 5pm)",
+            "flyer": "ComingSoon.jpg",
+            "btn": "Coming Soon",
+            "btnGallery": "",
+            "link": "cricket",
+            "zeffyLink": "https://www.zeffy.com/ticketing/youth-cricket-tournament",
+            "galleryLink": "",
+            "type": "U"
+        },
+        {
             "name": "2025 MCIA Independence Day Celebration",
             "where": "TBD",
             "where2": "",
@@ -38,7 +51,7 @@
             "zeffyLink": "https://runsignup.com/Race/IL/Bloomington/MCIA",
             "galleryLink": "",
             "type": "U",
-            "add": "<h3 className=\"center-align cRed\">Gift card for overall male and female winners.</h3><h3 className=\"center-align highlt\">FREE EVENT T-SHIRT*</h3><h4 className=\"center-align\">*for first 100 Registrations</h4><h3 className=\"center-align cFF5833\">MEDALS FOR KIDS</h3>"
+            "add": "<h3 className=\"center-align cRed\"></h3><h3 className=\"center-align highlt\"></h3><h4 className=\"center-align\"></h4><h3 className=\"center-align cFF5833\"></h3>"
         },
         {
             "name": "2025 MCIA Free Ladies Health and Wellness Event",
