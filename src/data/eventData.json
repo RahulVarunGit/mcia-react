@@ -1,19 +1,6 @@
 {
     "events": [
         {
-            "name": "2025 MCIA Youth Cricket",
-            "where": "TBD",
-            "where2": "",
-            "when": "June 23 to June 27 (Time 5pm)",
-            "flyer": "ComingSoon.jpg",
-            "btn": "Coming Soon",
-            "btnGallery": "",
-            "link": "cricket",
-            "zeffyLink": "https://www.zeffy.com/ticketing/youth-cricket-tournament",
-            "galleryLink": "",
-            "type": "U"
-        },
-        {
             "name": "2025 MCIA Independence Day Celebration",
             "where": "TBD",
             "where2": "",
@@ -52,6 +39,19 @@
             "galleryLink": "",
             "type": "U",
             "add": "<h3 className=\"center-align cRed\"></h3><h3 className=\"center-align highlt\"></h3><h4 className=\"center-align\"></h4><h3 className=\"center-align cFF5833\"></h3>"
+        },
+        {
+            "name": "2025 MCIA Youth Cricket",
+            "where": "Baywood Ground",
+            "where2": "",
+            "when": "June 23 to June 30 (Time 5pm)",
+            "flyer": "YC002.jpg",
+            "btn": "Coming Soon",
+            "btnGallery": "Women's Day Gallery",
+            "link": "cricket",
+            "zeffyLink": "https://www.zeffy.com/ticketing/youth-cricket-tournament",
+            "galleryLink": "2025-youth-cricket",
+            "type": "C"
         },
         {
             "name": "2025 MCIA Free Ladies Health and Wellness Event",
