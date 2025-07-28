@@ -2,14 +2,14 @@
     "events": [
         {
             "name": "2025 MCIA Independence Day Celebration",
-            "where": "TBD",
+            "where": "1500 W Rabb Rd, Normal IL 61761",
             "where2": "",
-            "when": "TBD",
+            "when": "Aug 15, 6 PM to 9 PM",
             "flyer": "ComingSoon.jpg",
-            "btn": "Coming Soon",
+            "btn": "Register Now",
             "btnGallery": "",
-            "link": "independenceDay",
-            "zeffyLink": "",
+            "link": "IDay",
+            "zeffyLink": "https://www.zeffy.com/ticketing/2025-mcia-independence-day",
             "galleryLink": "",
             "type": "U"
         },
