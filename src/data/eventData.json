@@ -1,11 +1,24 @@
 {
     "events": [
         {
+            "name": "2025 MCIA Bollywood Night",
+            "where": "Park Regency Hotel, 1413 Leslie Dr, Bloomington IL",
+            "where2": "",
+            "when": "Aut 22, 2025",
+            "flyer": "MCIA25BollywoodNight.jpg",
+            "btn": "Register Now",
+            "btnGallery": "",
+            "link": "bollywoodNight",
+            "zeffyLink": "https://www.zeffy.com/ticketing/bollywood-night-by-easterseals-in-collaboration-with-mcia ",
+            "galleryLink": "",
+            "type": "U"
+        },
+        {
             "name": "MCIA Toastmaster program",
             "where": "TBD",
             "where2": "",
             "when": "TBD",
-            "flyer": "ComingSoon.jpg",
+            "flyer": "MCIA25ToastMaster.jpg",
             "btn": "Register Now",
             "btnGallery": "",
             "link": "toastmaster",
