@@ -1,6 +1,19 @@
 {
     "events": [
         {
+            "name": "MCIA Toastmaster program",
+            "where": "TBD",
+            "where2": "",
+            "when": "TBD",
+            "flyer": "ComingSoon.jpg",
+            "btn": "Register Now",
+            "btnGallery": "",
+            "link": "toastmaster",
+            "zeffyLink": "https://www.zeffy.com/ticketing/toastmaster-program",
+            "galleryLink": "",
+            "type": "U"
+        },
+        {
             "name": "2025 MCIA Independence Day Celebration",
             "where": "1500 W Rabb Rd, Normal IL 61761",
             "where2": "",
