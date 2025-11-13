@@ -1,6 +1,19 @@
 {
     "events": [
         {
+            "name": "2025 MCIA Annual Banquet",
+            "where": "Park Regency Hotel, 1413 Leslie Dr, Bloomington IL",
+            "where2": "",
+            "when": "Nov 15, 2025",
+            "flyer": "MCIA25AnnualBanquet.jpg",
+            "btn": "Get Tickets",
+            "btnGallery": "",
+            "link": "annualBanquet",
+            "zeffyLink": "www.tinyurl.com/mciabanquet25",
+            "galleryLink": "",
+            "type": "U"
+        },
+        {
             "name": "2025 MCIA Bollywood Night",
             "where": "Park Regency Hotel, 1413 Leslie Dr, Bloomington IL",
             "where2": "",
@@ -11,7 +24,7 @@
             "link": "bollywoodNight",
             "zeffyLink": "https://www.zeffy.com/ticketing/bollywood-night-by-easterseals-in-collaboration-with-mcia ",
             "galleryLink": "",
-            "type": "U"
+            "type": "C"
         },
         {
             "name": "MCIA Toastmaster program",
@@ -37,7 +50,7 @@
             "link": "IDay",
             "zeffyLink": "https://www.zeffy.com/ticketing/2025-mcia-independence-day",
             "galleryLink": "",
-            "type": "U"
+            "type": "C"
         },
         {
             "name": "2025 MCIA Youth Pickleball Tournament",
@@ -63,7 +76,7 @@
             "link": "run",
             "zeffyLink": "https://runsignup.com/Race/IL/Bloomington/MCIA",
             "galleryLink": "",
-            "type": "U",
+            "type": "C",
             "add": "<h3 className=\"center-align cRed\"></h3><h3 className=\"center-align highlt\"></h3><h4 className=\"center-align\"></h4><h3 className=\"center-align cFF5833\"></h3>"
         },
         {
