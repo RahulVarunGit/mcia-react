@@ -14,6 +14,71 @@
             "type": "U"
         },
         {
+            "name": "2026 MCIA Pickleball Tournament",
+            "where": "TBD",
+            "where2": "",
+            "when": "Jan 2026 - Date TBD",
+            "flyer": "ComingSoon.jpg",
+            "btn": "Coming Soon",
+            "btnGallery": "",
+            "link": "mcia26pickleball",
+            "zeffyLink": "",
+            "galleryLink": "",
+            "type": "U"
+        },
+        {
+            "name": "2026 MCIA Badminton Tournament",
+            "where": "TBD",
+            "where2": "",
+            "when": "Feb 2026 - Date TBD",
+            "flyer": "ComingSoon.jpg",
+            "btn": "Coming Soon",
+            "btnGallery": "",
+            "link": "mcia26badminton",
+            "zeffyLink": "",
+            "galleryLink": "",
+            "type": "U"
+        },
+        {
+            "name": "2026 MCIA Volleyball Tournament",
+            "where": "TBD",
+            "where2": "",
+            "when": "March 2026 - Date TBD",
+            "flyer": "ComingSoon.jpg",
+            "btn": "Coming Soon",
+            "btnGallery": "",
+            "link": "mcia26volleyball",
+            "zeffyLink": "",
+            "galleryLink": "",
+            "type": "U"
+        },
+        {
+            "name": "2026 MCIA Womens Day",
+            "where": "TBD",
+            "where2": "",
+            "when": "March 2026 - Date TBD",
+            "flyer": "ComingSoon.jpg",
+            "btn": "Coming Soon",
+            "btnGallery": "",
+            "link": "mcia26womensday",
+            "zeffyLink": "",
+            "galleryLink": "",
+            "type": "U"
+        },
+        {
+            "name": "2026 MCIA Talent Show",
+            "where": "TBD",
+            "where2": "",
+            "when": "April 2026 - Date TBD",
+            "flyer": "ComingSoon.jpg",
+            "btn": "Coming Soon",
+            "btnGallery": "",
+            "link": "mcia26talentshow",
+            "zeffyLink": "",
+            "galleryLink": "",
+            "type": "U"
+        },
+        {
             "name": "2025 MCIA Annual Banquet",
             "where": "Park Regency Hotel, 1413 Leslie Dr, Bloomington IL",
             "where2": "",
@@ -64,19 +129,6 @@
             "zeffyLink": "https://www.zeffy.com/ticketing/2025-mcia-independence-day",
             "galleryLink": "",
             "type": "C"
-        },
-        {
-            "name": "MCIA Youth Pickleball Tournament",
-            "where": "TBD",
-            "where2": "",
-            "when": "TBD",
-            "flyer": "ComingSoon.jpg",
-            "btn": "Coming Soon",
-            "btnGallery": "",
-            "link": "youthPickleball",
-            "zeffyLink": "",
-            "galleryLink": "",
-            "type": "U"
         },
         {
             "name": "2025 MCIA 5K Run",
