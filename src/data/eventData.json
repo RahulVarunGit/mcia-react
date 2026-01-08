@@ -1,6 +1,19 @@
 {
     "events": [
         {
+            "name": "2026 MCIA Republic Day",
+            "where": "Capen Auditorium, Normal IL 61716",
+            "where2": "",
+            "when": "Jan 24, 2026",
+            "flyer": "MCIA26-RepublicDay.jpg",
+            "btn": "Get Tickets",
+            "btnGallery": "",
+            "link": "MCIA26-RepublicDay",
+            "zeffyLink": "https://www.zeffy.com/en-US/ticketing/mcia-2026-annual-membership",
+            "galleryLink": "",
+            "type": "U"
+        },
+        {
             "name": "2025 MCIA Annual Banquet",
             "where": "Park Regency Hotel, 1413 Leslie Dr, Bloomington IL",
             "where2": "",
@@ -11,7 +24,7 @@
             "link": "annualBanquet",
             "zeffyLink": "https://www.zeffy.com/en-US/ticketing/mcia-annual-banquet--2025",
             "galleryLink": "",
-            "type": "U"
+            "type": "C"
         },
         {
             "name": "2025 MCIA Bollywood Night",
@@ -53,7 +66,7 @@
             "type": "C"
         },
         {
-            "name": "2025 MCIA Youth Pickleball Tournament",
+            "name": "MCIA Youth Pickleball Tournament",
             "where": "TBD",
             "where2": "",
             "when": "TBD",

@@ -1,6 +1,11 @@
 {
     "flyers": [
         {
+            "name": "MCIA 2026 Republic Day",
+            "file": "MCIA26-RepublicDay.jpg",
+            "link": "MCIA-2026-republic-day"
+        },
+        {
             "name": "MCIA 2025 Volleyball",
             "file": "MCIA25-Volleyball.jpg",
             "link": "MCIA-2025-Volleyball"
