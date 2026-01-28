@@ -10,19 +10,19 @@
             "btnGallery": "",
             "link": "MCIA26-RepublicDay",
             "zeffyLink": "https://www.zeffy.com/en-US/ticketing/mcia-2026-annual-membership",
-            "galleryLink": "",
-            "type": "U"
+            "galleryLink": "MCIA26-RD-Gallery",
+            "type": "C"
         },
         {
             "name": "2026 MCIA Pickleball Tournament",
-            "where": "TBD",
-            "where2": "",
-            "when": "Jan 2026 - Date TBD",
-            "flyer": "ComingSoon.jpg",
-            "btn": "Coming Soon",
+            "where": "Evergreen Racquet Club",
+            "where2": "3203 E Washington St",
+            "when": "Feb 8, 2026",
+            "flyer": "MCIA26-pickleball.jpg",
+            "btn": "Register Now",
             "btnGallery": "",
             "link": "mcia26pickleball",
-            "zeffyLink": "",
+            "zeffyLink": "https://www.zeffy.com/en-US/ticketing/mcia-blono-pickle-ball-challenge--2026",
             "galleryLink": "",
             "type": "U"
         },

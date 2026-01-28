@@ -1,6 +1,17 @@
 {
     "galleries": [
         {
+            "name": "2026 Republic Day ",
+            "details": "",
+            "more": "",
+            "link": "MCIA26-RD-Gallery",
+            "profile": "MCIA26-rd2.jpg",
+            "pics": [
+                "MCIA26-rd1.jpg",
+                "MCIA26-rd2.jpg"
+            ]
+        },
+        {
             "name": "2025 Young Cricket ",
             "details": "",
             "more": "",
