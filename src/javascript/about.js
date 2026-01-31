@@ -142,6 +142,7 @@ const About = () => {
             <li className="list-unstyled"><h5 >2023 - Mrs Shweta Sawant</h5></li>
             <li className="list-unstyled"><h5 >2024 - Mrs Shweta Sawant</h5></li>
             <li className="list-unstyled"><h5 >2025 - Mrs Urmy Das</h5></li>
+            <li className="list-unstyled"><h5 >2026 - Mrs Urmy Das</h5></li>
             <li className="list-unstyled"><h5 ></h5></li>
           </ul>
 

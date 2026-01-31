@@ -34,7 +34,8 @@ const Committee = () => {
             <li className="list-unstyled"><h5 >Bijoya Sahu</h5></li>
             <li className="list-unstyled"><h5 >Nirmal jain</h5></li>
             <li className="list-unstyled"><h5 >Poovanesh Pandian - Sports Committee </h5></li>
-            <li className="list-unstyled"><h5 >Ram Chand Venkatswamy - Outreach team</h5></li>
+            <li className="list-unstyled"><h5 >Rahul Varun Balivada - Technology Team</h5></li>
+            <li className="list-unstyled"><h5 >Ram Chand Venkatswamy - Outreach Team</h5></li>
             <li className="list-unstyled"><h5 >Ramyasri Modugula - Communication Team</h5></li>
             <li className="list-unstyled"><h5 >Sirisha Aksana</h5></li>
             <li className="list-unstyled"><h5 >Uma Kailasam</h5></li>
