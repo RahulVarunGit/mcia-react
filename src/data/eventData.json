@@ -8,7 +8,7 @@
             "flyer": "MCIA26-RepublicDay.jpg",
             "btn": "Get Tickets",
             "btnGallery": "",
-            "link": "MCIA26-RepublicDay",
+            "link": "",
             "zeffyLink": "https://www.zeffy.com/en-US/ticketing/mcia-2026-annual-membership",
             "galleryLink": "MCIA26-RD-Gallery",
             "type": "C"
@@ -34,7 +34,7 @@
             "flyer": "ComingSoon.jpg",
             "btn": "Coming Soon",
             "btnGallery": "",
-            "link": "mcia26badminton",
+            "link": "badminton",
             "zeffyLink": "",
             "galleryLink": "",
             "type": "U"
@@ -47,7 +47,7 @@
             "flyer": "ComingSoon.jpg",
             "btn": "Coming Soon",
             "btnGallery": "",
-            "link": "mcia26volleyball",
+            "link": "volleyball",
             "zeffyLink": "",
             "galleryLink": "",
             "type": "U"
@@ -60,7 +60,7 @@
             "flyer": "ComingSoon.jpg",
             "btn": "Coming Soon",
             "btnGallery": "",
-            "link": "mcia26womensday",
+            "link": "wday",
             "zeffyLink": "",
             "galleryLink": "",
             "type": "U"
@@ -73,7 +73,7 @@
             "flyer": "ComingSoon.jpg",
             "btn": "Coming Soon",
             "btnGallery": "",
-            "link": "mcia26talentshow",
+            "link": "talentshow",
             "zeffyLink": "",
             "galleryLink": "",
             "type": "U"
@@ -217,7 +217,7 @@
             "flyer": "MCIA25-Womens-Day.jpg",
             "btn": "Register Now",
             "btnGallery": "Women's Day Gallery",
-            "link": "womens-day",
+            "link": "",
             "zeffyLink": "",
             "galleryLink": "2025-Womens-Day",
             "type": "C"
@@ -256,7 +256,7 @@
             "flyer": "MCIA-Badminton.jpg",
             "btn": "Register Now",
             "btnGallery": "Badminton & Pickleball Gallery",
-            "link": "badminton",
+            "link": "",
             "zeffyLink": "",
             "galleryLink": "2025-Badminton-Pickleball",
             "type": "C"
