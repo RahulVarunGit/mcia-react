@@ -19,12 +19,12 @@
             "where2": "3203 E Washington St",
             "when": "Feb 8, 2026",
             "flyer": "MCIA26-pickleball.jpg",
-            "btn": "Register Now",
+            "btn": "View Gallery",
             "btnGallery": "",
             "link": "mcia26pickleball",
             "zeffyLink": "https://www.zeffy.com/en-US/ticketing/mcia-blono-badminton-open--2026",
-            "galleryLink": "",
-            "type": "U"
+            "galleryLink": "MCIA26-PB-Gallery",
+            "type": "C"
         },
         {
             "name": "2026 MCIA Badminton Tournament",
