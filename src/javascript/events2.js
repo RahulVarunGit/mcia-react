@@ -13,23 +13,35 @@ const Events2 = () => {
 
     eventData.events.map((event, index) => {
         if (event.type == "U") {
-            upcoming = upcoming + "<div className=\"row\">";
-            upcoming = upcoming + "<div className=\"col-sm-3\">";
-            upcoming = upcoming + "<p className=\"center-align\"><a href=\"/event/" + event.link + "\"><img src=\"/images/flyers/" + event.flyer + "\" alt=\"\" width=\"100%\" className=\"rounded\" /></a></p>";
-            upcoming = upcoming + "</div>";
-            upcoming = upcoming + "<div className=\"col-sm-9\">";
-            upcoming = upcoming + " <h5 ><b ><u ><a href=\"/event/" + event.link + "\">" + event.name + "</a></u></b></h5>";
-            upcoming = upcoming + "<h5 >Where : " + event.where + "</h5>";
-            upcoming = upcoming + "<h5 >" + event.where2 + "</h5>";
-            upcoming = upcoming + "<h5 >When : " + event.when + "</h5>";
             if (event.link.indexOf("badminton") === 0) {
+                upcoming = upcoming + "<div className=\"row\">";
+                upcoming = upcoming + "<div className=\"col-sm-3\">";
+                upcoming = upcoming + "<p className=\"center-align\"><a href=\"/badminton\"><img src=\"/images/flyers/" + event.flyer + "\" alt=\"\" width=\"100%\" className=\"rounded\" /></a></p>";
+                upcoming = upcoming + "</div>";
+                upcoming = upcoming + "<div className=\"col-sm-9\">";
+                upcoming = upcoming + " <h5 ><b ><u ><a href=\"/badminton\">" + event.name + "</a></u></b></h5>";
+                upcoming = upcoming + "<h5 >Where : " + event.where + "</h5>";
+                upcoming = upcoming + "<h5 >" + event.where2 + "</h5>";
+                upcoming = upcoming + "<h5 >When : " + event.when + "</h5>";
                 upcoming = upcoming + "<h5 ><a type=\"button\" className=\"btn btn-primary btn-lg\" href=\"/badminton\">" + event.btn + "</a></h5>";
+                upcoming = upcoming + "</div></div>";
+                upcoming = upcoming + "<div><hr className=\"hr-line\"></hr></div>";
             }
             else {
+                upcoming = upcoming + "<div className=\"row\">";
+                upcoming = upcoming + "<div className=\"col-sm-3\">";
+                upcoming = upcoming + "<p className=\"center-align\"><a href=\"/event/" + event.link + "\"><img src=\"/images/flyers/" + event.flyer + "\" alt=\"\" width=\"100%\" className=\"rounded\" /></a></p>";
+                upcoming = upcoming + "</div>";
+                upcoming = upcoming + "<div className=\"col-sm-9\">";
+                upcoming = upcoming + " <h5 ><b ><u ><a href=\"/event/" + event.link + "\">" + event.name + "</a></u></b></h5>";
+                upcoming = upcoming + "<h5 >Where : " + event.where + "</h5>";
+                upcoming = upcoming + "<h5 >" + event.where2 + "</h5>";
+                upcoming = upcoming + "<h5 >When : " + event.when + "</h5>";
                 upcoming = upcoming + "<h5 ><a type=\"button\" className=\"btn btn-primary btn-lg\" href=\"/event/" + event.link + "\">" + event.btn + "</a></h5>";
+                upcoming = upcoming + "</div></div>";
+                upcoming = upcoming + "<div><hr className=\"hr-line\"></hr></div>";
+
             }
-            upcoming = upcoming + "</div></div>";
-            upcoming = upcoming + "<div><hr className=\"hr-line\"></hr></div>";
         } else {
             completed = completed + "<div className=\"row\">";
             completed = completed + "<div className=\"col-sm-3\">";
