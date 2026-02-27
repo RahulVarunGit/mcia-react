@@ -29,7 +29,7 @@ const Badminton = () => {
                     <h4 className="center-align"><a class="" href="https://docs.google.com/document/d/1Ky6I5NxW009ncPlnHdRxC-asyjK1JFRZBRUXgJ-zIJg/edit?tab=t.0">Tournament Rules</a></h4>
                 </div>
                 <div>
-                    <h4 className="center-align"><a type="button" className="btn btn-primary btn-lg" href="https://near.tl/sm/fbQFTWgGi">Sign Waiver</a></h4>
+                    <h4 className="center-align"><a type="button" className="btn btn-primary btn-lg" href="https://near.tl/sm/et0hz1LJ_">Sign Waiver</a></h4>
                 </div>
 
 
@@ -94,6 +94,58 @@ const Badminton = () => {
                 </div>
 
             </div>
+
+            <p >&nbsp;</p>
+            <div className="row">
+                <div className="col-md-2 ">
+
+
+
+                </div>
+
+                <div className="col-md-4 ">
+
+                    <div className="div-img-text">
+
+                        <img src="/images/base/Square.png" alt="" width="100%" className="rounded-circle"></img>
+                        <div className="text-on-image">
+
+                            <p >&nbsp;</p>
+                            <p >&nbsp;</p>
+
+                            <h3 ><b ><a href="https://challonge.com/MCIAYouth2026" target="_blank"><b><span className="#ca370f">Youth Doubles</span></b></a></b></h3>
+                            <h3 ><b ><a href="https://challonge.com/MCIAYouth2026" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div className="col-md-4">
+
+                    <div className="div-img-text">
+
+                        <img src="/images/base/Square.png" alt="" width="100%" className="rounded-circle"></img>
+                        <div className="text-on-image">
+
+                            <p >&nbsp;</p>
+                            <p >&nbsp;</p>
+                            <h3 ><b ><a href="https://challonge.com/MCIAKids2026" target="_blank"><b><span className="#ca370f">Kids Doubles</span></b></a></b></h3>
+                            <h3 ><b ><a href="https://challonge.com/MCIAKids2026" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div className="col-md-2 ">
+
+
+
+                </div>
+
+            </div>
+
 
             <div><hr class="hr-line"></hr></div>
 
