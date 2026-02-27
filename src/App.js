@@ -27,6 +27,7 @@ import Register from './javascript/register';
 import Gallery from './javascript/gallery';
 import GalleryView from './javascript/galleryView';
 import GalleryItem from './javascript/galleryItem';
+import Badminton from './javascript/badminton';
 
 /*
 import Volleyball from './javascript/volleyball';
@@ -95,6 +96,8 @@ function App() {
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/galleryView/:name" element={<GalleryView />} />
             <Route path="/galleryItem/:name" element={<GalleryItem />} />
+
+            <Route path="/badminton" element={<Badminton />} />
 
           </Routes>
 

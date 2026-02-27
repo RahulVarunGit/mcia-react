@@ -22,7 +22,12 @@ const Events2 = () => {
             upcoming = upcoming + "<h5 >Where : " + event.where + "</h5>";
             upcoming = upcoming + "<h5 >" + event.where2 + "</h5>";
             upcoming = upcoming + "<h5 >When : " + event.when + "</h5>";
-            upcoming = upcoming + "<h5 ><a type=\"button\" className=\"btn btn-primary btn-lg\" href=\"/event/" + event.link + "\">" + event.btn + "</a></h5>";
+            if (event.link.indexOf("badminton") === 0) {
+                upcoming = upcoming + "<h5 ><a type=\"button\" className=\"btn btn-primary btn-lg\" href=\"/badminton\">" + event.btn + "</a></h5>";
+            }
+            else {
+                upcoming = upcoming + "<h5 ><a type=\"button\" className=\"btn btn-primary btn-lg\" href=\"/event/" + event.link + "\">" + event.btn + "</a></h5>";
+            }
             upcoming = upcoming + "</div></div>";
             upcoming = upcoming + "<div><hr className=\"hr-line\"></hr></div>";
         } else {

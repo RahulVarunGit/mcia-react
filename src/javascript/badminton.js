@@ -13,16 +13,28 @@ const Badminton = () => {
 
 
             <div className="row">
-                <h4 className="center-align"><b ><u >2025 MCIA Badminton Tournament</u></b></h4>
+                <h4 className="center-align"><b ><u >2026 MCIA Badminton Tournament</u></b></h4>
             </div>
 
             <div><hr class="hr-line"></hr></div>
 
             <div>
-                <h4 className="center-align">Where : Bloomington Tennis & Turf Center</h4>
-                <h4 className="center-align">4101, Wicker Rd, Bloomington</h4>
-                <h4 className="center-align">When : 11 & 12 January, 2024</h4>
+                <h4 className="center-align">Where : Evans Junior High, Bloomingotn IL</h4>
+
+                <h4 className="center-align">When : 10:30 AM to 6PM, Feb 28, 2026</h4>
+                <h4 className="center-align">       10 AM to 2PM, Mar 1, 2026</h4>
                 <p >&nbsp;</p>
+                <div><hr className="hr-line"></hr></div>
+                <div>
+                    <h4 className="center-align"><a class="" href="https://docs.google.com/document/d/1Ky6I5NxW009ncPlnHdRxC-asyjK1JFRZBRUXgJ-zIJg/edit?tab=t.0">Tournament Rules</a></h4>
+                </div>
+                <div>
+                    <h4 className="center-align"><a type="button" className="btn btn-primary btn-lg" href="https://near.tl/sm/fbQFTWgGi">Sign Waiver</a></h4>
+                </div>
+
+
+
+                <div><hr class="hr-line"></hr></div>
                 <h4 className="center-align"><b >Badminton Pairing</b></h4>
             </div>
 
@@ -39,8 +51,8 @@ const Badminton = () => {
                             <p >&nbsp;</p>
                             <p >&nbsp;</p>
 
-                            <h3 ><b ><a href="Https://challonge.com/MCIA2025mens" target="_blank"><b><span className="#ca370f">Mens Doubles</span></b></a></b></h3>
-                            <h3 ><b ><a href="Https://challonge.com/MCIA2025mens" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
+                            <h3 ><b ><a href="https://challonge.com/MCIAMD2026" target="_blank"><b><span className="#ca370f">Mens Doubles</span></b></a></b></h3>
+                            <h3 ><b ><a href="https://challonge.com/MCIAMD2026" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
                         </div>
 
                     </div>
@@ -56,8 +68,8 @@ const Badminton = () => {
 
                             <p >&nbsp;</p>
                             <p >&nbsp;</p>
-                            <h3 ><b ><a href="Https://challonge.com/MCIA2025women" target="_blank"><b><span className="#ca370f">Womens Doubles</span></b></a></b></h3>
-                            <h3 ><b ><a href="Https://challonge.com/MCIA2025women" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
+                            <h3 ><b ><a href="https://challonge.com/MCIAWD2026" target="_blank"><b><span className="#ca370f">Womens Doubles</span></b></a></b></h3>
+                            <h3 ><b ><a href="https://challonge.com/MCIAWD2026" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
                         </div>
 
                     </div>
@@ -73,8 +85,8 @@ const Badminton = () => {
 
                             <p >&nbsp;</p>
                             <p >&nbsp;</p>
-                            <h3 ><b ><a href="Https://challonge.com/MCIA2025mixed" target="_blank"><b><span className="#ca370f">Mixed Doubles</span></b></a></b></h3>
-                            <h3 ><b ><a href="Https://challonge.com/MCIA2025mixed" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
+                            <h3 ><b ><a href="https://challonge.com/MCIAXD2026" target="_blank"><b><span className="#ca370f">Mixed Doubles</span></b></a></b></h3>
+                            <h3 ><b ><a href="https://challonge.com/MCIAXD2026" target="_blank"><b><span className="#ca370f">Pairings</span></b></a></b></h3>
                         </div>
 
                     </div>
@@ -85,11 +97,7 @@ const Badminton = () => {
 
             <div><hr class="hr-line"></hr></div>
 
-            <div>
-                <h4 className="center-align"><a type="button" class="btn btn-primary btn-lg" href="/pickleball">Go to Pickleball Page</a></h4>
-            </div>
 
-            <div><hr class="hr-line"></hr></div>
 
         </div>
 
